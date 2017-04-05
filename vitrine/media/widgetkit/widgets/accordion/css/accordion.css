@@ -1,0 +1,14 @@
+/* Copyright (C) 2007 - 2011 YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Widgetkit Accordion Style Sheet
+ */
+
+.wk-accordion .toggler {
+	margin: 0;
+	cursor: pointer;
+}
+
+
+.wk-accordion .content > *:first-child { margin-top: 0; }
+.wk-accordion .content > *:last-child { margin-bottom: 0; }

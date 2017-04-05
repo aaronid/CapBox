@@ -1,0 +1,29 @@
+/* Copyright (C) 2007 - 2011 YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * General Widgetkit Style Sheet
+ */
+
+
+/* Grid and Clearing Tools
+----------------------------------------------------------------------------------------------------*/
+
+.clearfix:before,
+.clearfix:after,
+.grid-block:before,
+.grid-block:after {
+	content: ".";
+	display: block;
+	height: 0;
+	overflow: hidden;
+}
+.clearfix:after,
+.grid-block:after { clear: both; }
+
+.grid-box { float: left; }
+
+/* Grid Units */
+.width20 { width: 20%; }
+.width25 { width: 25%; }
+.width33 { width: 33.333%; }
+.width50 { width: 50%; }

@@ -1,0 +1,1500 @@
+REF_CLIENT;ENTREPRISE;ADRESSE1;CODE_POSTAL;VILLE;TEL_FIX;TEL_MOB;FAX;EMAIL;SITE_WEB;NOM;PRENOM;FONCTION;COMMENTAIRE CLIENT;APPEL;RELANCE;RDV;COMMENTAIRE PROSPECTION
+REF_1;007 Plomberie;;35000;;610748191;610748191;213456789;;www.site1.fr;NOM1;PRE1;FONC1;non;APPEL1;non;RDV1;pas interresser /  refus de discuter / pas aimable
+;C.S.E (Confort Sécurité Electrique);107 AV HENRI FRÉVILLE;10704; 35207 RENNES CEDEX 2;608536780;;;;;;;;;;;;
+REF_2;Heliante (SARL);11 R CLOS COURTEL;30817; 35708 RENNES CEDEX 7;299848832;299848830;223456789;contact@heliante.net;www.site2.fr;NOM2;PRE2;FONC2;;APPEL1;;RDV1;
+;2ADIR (Artisan Assistance Dépannage Interventions rapides);22 LA GALINAIS;35601;BAINS SUR OUST;299916743;612621777;;;;;;;;;;;Negocie en direct / pa de groupement / ancien commercial / faible volumes d'achat donc pas d'intérêt pour lui
+REF_2;2adir (Entreprise Individuelle);21 LA GALINAIS;35600;BAINS SUR OUST;612621777;;223456789;;www.site2.fr;NOM2;PRE2;FONC2;;APPEL2;;RDV2;
+;2cpe Connan;;35830;;626593046;626593046;;;;;;;;;;;en redez vous / 18/04 messagerie / rappeller après midi
+REF_3;2CPE-R2F;RTE FONDERIES;35250;CHEVAIGNE;626593046;;233456789;;www.site3.fr;NOM3;PRE3;FONC3;;APPEL1;;RDV1;
+;2E2I;4 R NIVERNAIS;35000;RENNES;782677212;;;;;;;;;;;;
+REF_4;2EPC Larcher Michel;;35420;;299981239;;243456789;;www.site4.fr;NOM4;PRE4;FONC4;;APPEL1;;RDV1;liquidation judiciaire
+;2P2C PETRIMAUX PLOMBERIE;10 R SAGESSE;35731;PLEURTUIT;613281093;613281093;;;;;;;;;non;;04/04 ne travail pas avec un groupement / essaye de limiter son stock pour ne pas avoir d'argent qui dors / a actuelement un faible demande / ne s'est pas interresser a adhérer a un groupement d'achat / mail 2p2c35@gmail.com / 10/04 > recontacter fin mai pour rendez vous / travail avec Brossette - Dupont - 11/05/15 nous considère comme des intermédiaires et ne veux pas perdre du temps avec nous
+REF_5;35 ACCER;8 R LOUIS D'OR;35000;RENNES;223501743;;253456789;accer.debouchage35@gmail.com;www.site5.fr;NOM5;PRE5;FONC5;;APPEL1;;RDV1;www.accer35.fr
+;35 ACCER;27 R DE MI FORÊT;35340;LIFFRÉ;299041818;299044416;;accer.debouchage35@gmail.com;;;;;;;;;www.accer35.fr
+REF_5;35 Assainissement;;35000;;299669879;;253456789;;www.site5.fr;NOM5;PRE5;FONC5;;APPEL2;;RDV2;ne travail pas avec un groupement / c'est le co gérent qui s'occuppe de la relation fournisseur + achats / travail en direct / joignable a partir de 17 h 30
+;6 R HÉLÈNE BOUCHER; 35235 THORIGNÉ FOUILLARD;23619;;;223351085;;anvolia@anvolia.com;;;;;;;;;
+REF_5;A . P . G;LOCAL PROFESSIONNEL LES HAUTES FORGES;35150;JANZE;299477317;;253456789;;www.site5.fr;NOM5;PRE5;FONC5;;APPEL3;;RDV3;cap achat
+;A Energies Ouest;L'ARIOCHETAIS;35135;THOURIE;;689757272;;;;;;;;;;;messagerie pas disponible rappeler plu tard /28/04 messagerie / 06/05 messagerie / 16/06/15 messagerie
+;A Molard;ZI RENNES NORD 11 R PETITS CHAMPS;35760;SAINT GRÉGOIRE;299630933;299639898;;;;;;;;;;;
+;A T F BIGUE STEPHANE;4 PORTE NEUVE;35250;SAINT SULPICE LA FORET;299451251;;;;;;;;;;;;
+;A vos projets!;;35400;;699609673;;;;;;;;;;AR dans deux semaines;; 17/06/15 Carte de visite dans boite aux lettres - 25/06/15 nous rappelera 06/07/15 messagerie - 07/07 mesagerie direct - 08/07/15 ne veut pas trop qu'on le rappelle, il a dt qu'in allait regarder ca quand il sera poser ou remetre ca a septembre
+;A Votre Service;2 AV GÉN FERRIÉ;35401;SAINT MALO;223520288;;;;;;;;;;;;ancien prospect (7ans avant) / demande a voir les prix / travail en direct / rappeler mi mai
+;A.A.-Elec (Adrien Amice Elec sarl);3 R PERCEVAL;35530;NOYAL SUR VILAINE;645676804;299040364;;;;;;;645676804;;;;www.aaelectricite35.com
+;A.b.s.;LES CHAMPS;35681;LOUVIGNE DE BAIS;625883088;625883088;;;;;;;;;;;IMS coopérative / satisfait / ne veut pas changer
+;A.C.2.F;22 R ETANGS;35231;ORGERES;630650354;630650354;;;;;;;non;;non;;travail en direct / pas de groupement / a relancer / 18/04 tjs pas interresser / pas de gros volumes de vente / 15/06/15 non
+;A.C.D;LA FOURERIE;35531;NOYAL SUR VILAINE;299006855;627241730;;;;;;;;;non;;pas disponible / 18/04 messagerie / 06/05 messagerie jean noel / surement ancien vendeur, a des tarrifs equivalents à ceux du gapc35 et ne pense pas qu'on pourrat faire mieux
+;A.C.E Services;;35410;;299377000;;;;;;;;;;;;commande que de petites fourniture / peu d'equipement / travail en direct /  travail avec EBP en loggiciel de facturation et satisfait du produit
+;A.D.S.P (Allo Dépannage Sanitaire Plomberie);ZI CHAMP NIGUEL R GAY LUSSAC;35170;BRUZ;299050800;;;;;;;;;;;;www.adspsurel.fr
+;A.D.S.P (Allo Dépannage Sanitaire Plomberie);ZI CHAMP NIGUEL R GAY LUSSAC;35170;BRUZ;299502385;;;;;;;;;;;;www.adspsurel.fr
+;A.D.S.P (Allo Dépannage Sanitaire Plomberie);ZI CHAMP NIGUEL R GAY LUSSAC;35170;BRUZ;299050800;;;;;;;;non;;non;;pas, presque aucun gros achat / préfère continuer à travailler en direct 
+;A.E.G.S élec;5 R ERIC TABARLY;35521;MÉZIÈRE (LA);249880814;;;;;;;;;;;;messagerie pas disponible rappeler plu tard 18/04 messagerie / 28/04 dérogation fournisseurs (60% Sneider / thermor ) 
+;A.E.P Breizh (SARL);4 IMP PLACIS;35140;SAINT AUBIN DU CORMIER;299699058;;;sarl-aepb@orange.fr;;;;;;;;;www.agence-electricite-plomberie-35.fr
+;A.E.P.S;21 R VIGNE NOUVELLE;35410;NOUVOITOU;687058104;;;;;;;;;;;;
+;A.Molard;11 R PETITS CHAMPS;35760;SAINT GRÉGOIRE;299639898;;;;;;;;;;;;
+;A.P.M.;14 SQ LÉON BLUM;35201;RENNES;664309253;664309253;;;;;;;;;;;04/04 travail en direct avec distributeur comme Brossette / na jamais fait parti d'un groupement. / était en voiture, mauvaise reception donc demande de rappel de ma part la semaine prochaine / 09/04 > pas disponible pendant 3 semaines / petit achats / prendre un rendez-vous a son retour. 30/04 désire appeller pour fixer le rdv avec C lepretre /  12/05 pas sur rennes
+;A.S.D.;2 R DU NIVERNAIS;35135;CHANTEPIE;299506229;617696265;;;;;;;;;;;
+;A.S.M.C;;35160;;299060842;;;;;;;;;;;;numéro pas attribué
+;A.T.F Bigué Stéphane;;35250;;299451251;;;;;;;;;;;;travail en direct pour le moment / désire ne plus travailler avec les distributeurs  -  22/06/15 AR semaine pro, nous avons envoyer un sms suite  sa demande pour qu'il nous recontacte et confirme le rdv.
+;A2D elect;ZONE ARTISANALE DE LA BOURDONNAIS;35521;MÉZIÈRE (LA);299640166;;;;;;;;RDV OBTENU 11/04/2014. fin de matinée;;AR novembre;;achete en direct / jamais été prospecté / ne connait pas le système et son fonctionnement / dirigeants  Vicent REBOURS et Alexandra MAURY / 
+;A2G Plomberie;90 BIS R DE FOUGÈRES;35700;RENNES;679621725;;;;;;;;;;;;
+;A3EPI;;35360;;675020588;675020588;;;;;;;;;;;mauvais numéro
+;Aalloo Elec;1 BIS AV ARISTIDE BRIAND;35120;DOL DE BRETAGNE;662935590;;;;;;;;;;;;dejà vu, ancien patron de Courant
+;AB Services (Eurl);17 R D'OUESSANT;35761;SAINT GRÉGOIRE;299512941;;;;;;;;;;;;cap achat
+;ABAD ;;35200;;;;;;;;;;;;;;PLIHON Johnathan
+;ABC Dépan'Rénov;4 BIS ALL SYNAGOTS PARC D'ACTIVITÉS DE LA RENAUDAIS;35830;BETTON;223274699;;;;;;;;;;;;gapc
+;Abelec 35;20 LIEU-DIT BOIS VIE;35500;CHAPELLE ERBREE (LA);682235633;682235633;;;;;;;non;;non;;répondeur / 28/04 messagerie / probleme de payemet avec REXXEL / paye contant / travail avec fournisseurs allemand / pas assez de demande en France pour lui/ veut se spé en LED
+;Abf Energies (EU);12 LA RUFFAUDIERE;35580;GOVEN;617773146;;;;;;;;;;;;
+;Abgrall;;35700;;223206561;;;;;;;;;;non;;ligne d'urgence / direction en vacances pdt 1 mois
+;ABM Entreprise;PL BOISOUZE;35401;SAINT MALO;688754579;688754579;;;;;;;;;Gapc;;GAPC35 remarquable / satisfait conditions d'achats / 70% réduction PVC NICK /
+;AB-Plomberie;;35530;;652118632;652118632;;;;;;;;;;;IMS depuis septembre / satisfait 
+;Absolut' Confort;41 R ALEXANDRE DUVAL;35000;RENNES;615235010;;;;;;;;;;;;
+;Abyss;;35380;;;615162492;;;;;;;;;;;GAPC35
+;AC Elec;16 R YSER;35401;SAINT MALO;674521729;674521729;;;;;;;;;;;travail en direct / pas son activité principale / contract avec fournisseurs
+;AC Electri City;30 R MANOIR;35137;SAINT JACQUES DE LA LANDE;223401661;608263296;;;;;;;;;;;bon contact / envoyer les prix / email ac.electricity@wanadoo.fr/ 05/05 envacances / rentre le vendredi 9 / envoyer mail et contacter le lundi 12 / 12/05 appeler le jeudi dans l'après midi/ rdv le  lundi 19 a 14H
+;Accer;;35340;;223501743;299041818;;;;;;;;;;;messagerie / 28/04 travail avec distributeurs / faible niveaux d'achats/ 05/05 rappeler semaine prochaine secretaire pour RDV avec Gaetan au 06 22 27 54 39
+;Acov;10 ALL FRESNAYE;35131;CHARTRES DE BRETAGNE;638942657;;;;;;;;;;;;
+;Acr;ESPLANADE CHRISTIAN HAUVETTE;35135;CHANTEPIE;679093588;;;;;;;;;;;;
+;ACS;6 AV GÉN DE LANGLE DE CARY;35150;JANZE;762923535;;;;;;;;;;;;
+;ACS;6 AV GÉN DE LANGLE DE CARY;35150;JANZE;762923535;762923535;;;;;;;non;;non;;prestation de services / très peu d'achats / pa interresser par le conseil
+;Act'Energies;3 R BODINIERES;35450;LIVRE SUR CHANGEON;299301415;;;;;;;;;;;;IMS
+;Action Directe Dépannage;14 R JULES SIMON;35000;RENNES;608747675;608747675;;;;;;;arret ents;;arret ents;;M. ludovic rouverai / Email ludorennes@gmail.com / a déjà fait parti d'un groupement /  nous avons envoyer un mail, demander si il a eu le temps d'en prendre connaissance / 12/05 messagerie / message laissé / 
+;Actu Elec;LA BRUERE;35480;SAINT MALO DE PHILY;617045245;617045245;;;;;;;;;;;en repos / doit rappeler / a recontacter / 28/04 pas dispo avant 3semaines - 11/05/15 messagerie
+;Actua Plomberie;10 R FLUME;35520;MEZIERE (LA);299692989;672577369;;;;;;;;;;;messagerie / 28/04 messagerie / 05/05 chez un client / envoyer mail  actua.plomberie@gmail.com / rappeler semaine pro / 12/05 mail envoyé / travail principalement chez beauplet car il connait le directeur d'agence / possede donc déjà des prix ngocier / désire avoir des exemple pour constater l'interet du groupement / rappeller semaine prochaine pour fixer un rdv/ 20/05 rendez vous lundi 26 13H30 a confirmer
+;Actual'Rénov;34 R GABRIEL FAURÉ;35000;RENNES;622061411;622061411;;;;;;;non;;non;;messagerie / mauvas num
+;Adam Dépannage Gaz;3 ALL STRASBOURG;35340;BOUEXIERE (LA);299626073;;;;;;;;;;;;
+;Adam Didier;;35390;;299729148;;;;;;;;;;;;plusieurs mois d'hospitalisation / travail sans groupement 
+;ADC elec;13 LIEU-DIT MOULIN;35630;VIGNOC;680477720;680477720;;;;;;;;;non;;ne fais pas parti d'un groupement d'achat / travail en direct avec Rexxel et CGED / volume ventes autour de 40000  50000€ par an/ mail  d.camus@adcelec.fr / Directeur  Dominique CAMUS / Bon contact/ 12/05 pas interresser / souhaite rester travailler avc ses fournisseurs
+;ADCP;14 R LORRAINE;35000;RENNES;650959569;650959569;;;;;;;gapc;;GAPC35;;fait parti d'un groupement / prospect pas sympathique 
+;Adelec 35;1 BIS R OUESSANT;35760;SAINT GREGOIRE;299377488;;;;;;;;;;;;messagerie / 28/04 messagerie / directeur M phillipe C / 05/05 messagerei
+;ADEME (Agence de l'Environnement et de la Maitrise de l'Energie);33 BD SOLFÉRINO;35012;RENNES CEDEX;299858700;299314406;;;;;;;;;299314406;;www.ademe.fr/bretagne
+;ADG;5 R BRUYÈRES;35360;BOISGERVILLY;299613151;;;;;;;;;;;;
+;ADG Elec;3 R VAU ST GERMAIN;35000;RENNES;;608629890;;;;;;;;;AR mi octobre;;travail REXEL a 90% socolec et cged / amori degivré / surbooké, court partout, est parti en dépannage hier a 20h a redon, est rentré chez lui a 23h, pas le temps du tout de nous recevoir
+;Adgelec;61 BIS R DUPONT DES LOGES;35000;RENNES;608629890;;;;;;;;;;;;
+;ADH;17 R CISTELS;35890;BOURG DES COMPTES;659705949;;;;;;;;;;;;
+;ADI Plomberie;;35000;;651083660;651083660;;;;;;;non;;non;;messagerie directement
+;ADMS;34 R FRANÇOIS TRÉHU;35400;SAINT MALO;223183382;611137338;;;;;;;;;non;;travail en direct / diplôme d'acheteur / prix compétitifs
+;Adolphe électricité;6 R MONSEIGNEUR DIÈS;35870;MINIHIC SUR RANCE (LE);;679667216;;;;;;;RDV a dinar 03/04/15 a 11h/ RDV St malo 23/04/15;;CAP ACHAT;;connait Cap achat, ancien magasinié chez Yess, sympatique, semble intéréssé, a son compte depuis 3 ans. N'es pas venu au rdv du 03/04/15
+;Adrien Amice Elec (A.A.E);;35530;;299030464;645676804;;;;;;;;;;;travail en direct avec CGED, Distrilec et rexxel / M. Amice / rendez vous vendredi 25 debut de matinée 8h30
+;ADR-Services;;35770;;642656014;642656014;;;;;;;;;;;12/05/15 messagerie - 13/05/15 messagerie
+;ADS (Assainissement Débouchage Services);ZA LES PLACIS 3 R DES PLACIS;35230;BOURGBARRÉ;246680514;252881771;;;;;;;non;;non;;pas d'achats de matériaux 
+;ADS Emeraude;ZONE ACTIPOLE 4 R DES LANDES VALLÉES;35540;MINIAC MORVAN;223153535;;;contact@ads-emeraude.fr;;;;;;;;;www.ads-emeraude-assainissement.fr
+;Advance Corep Clim;LE PLESSIS ANGER;35550;LIEURON;661977380;;;;;;;;;;;;cap achat
+;AE2R;92 R GAËL;35290;SAINT MÉEN LE GRAND;675724612;296252670;;;;;;;;;;;92 r Gaël,SAINT MÉEN LE GRAND / René Rosselin / mail ae2r.elec@gmail.com / 12/05 rappeller vers 12H00 / rdv 7H45 jeudi 17 Juillet / travail a 80% avec maillard / veut qu'on lui donne du prix avant de s'enguager- 
+;AEGB 35;;35700;;671988495;671988495;;;;;;;;;non;;rdv mardi 6 Mai 18H00 / statut actuel autoentrepreuneurs pour commencer car gestion plus facil pour lui > futur  veut passer artisant / travail beaucoup dans la rénovation / volumes d'achats relativement faible / souhaite étudier le cout benefices pour etre membre /
+;AEI Système;;35230;;663144154;663144154;;;;;;;arret ets;;arret ets;; entreprise en faillite 
+;AEPS;;35410;;299371654;687058104;;;;;;;mi decembre;;;;en rendez vous/ déjà rencontrer LEPRETRE / doit avoir de bon tarifs
+;Aéro'chauff;7 R DU CHEMIN VERT;35650;RHEU (LE);676512319;676512319;;;;;;;;;AR fin juillet;;vacances jusqu’au 15 Avril inclut - 12/05/15 travail quasiement avec CEDEO, AR début juin 2015 si on souhaite le rencontrer, beaucoup de dépanages. 22/06/15 Très occupé, ne peux pas prendre de rdv, meme sur un chantier, nous rapplera
+;AEV rénovation;;35400;;299585051;0689955943 (Amilcar RODRIGUES) - 0623071516;;;;;;;RDV 11/06/15;;AR semaine26;;Trois associés, travaillent avec lariviere mais aussi avec quelques un de nos partenaires. Celui que nous avons rencontré est intéréssé, sympathique, a recontacter. La deuxième associée ne nous aime pas. Elle était déjà désagréable au téléphone et ne souhaitait pas nous recevoir. c'est lui qui a accepté. le troisième collègue tiens une boutique sur bruz. 26/06/15 ar 03/06/15 pour rdv semaine suivante
+;Agasse Laurent;14 ALL VERGERS;35140;GOSNE;299663744;;;;;;;;;;Arret ent;;Arrret ent
+;Agence Recherche Détection Fuite (ARDF);LIEU-DIT VIEILLE EVE;35150;BRIE;961384971;603851857;;contact@ardf35.com;;;;;;;;;www.ardf35.com
+;Agpac (Sté);;35250;;685422810;685422810;;;;;;;;;;;messagerie / M louis Gerard / 13/05 messagerie
+;Air V;R EDOUARD BRANLY;35170;BRUZ;299771368;;;;;;;;non;;non;;propre centrale d'achat
+;Airpac;LIEU-DIT ROCHER BIDAINE;35210;CHATILLON EN VENDELAIS;299744210;;;;;;;;;;;;
+;AJM.ELEC;LA MOTTE;35470;PLECHATEL;686713635;686713635;;;;;;;;;;;travail avec socolec et yesss / appeler fin juillet pour fixer rdv / 
+;Akelec;LA BUNELAIS;35310;MORDELLES;687796672;;;;;;;;;;;;
+;Al Elec;LE BAS TROHEL;35120;BAGUER PICAN;680609267;680609267;;;;;;;gapc;;gapc;;GAPC35 / très satisfait
+;Alan Blanchet (SARL);51 R AVENIR;35310;CHAVAGNE;223307326;;;;;;;;;;;;
+;Alarme Electricité Tropée;8 R JULES FERRY;35300;FOUGÈRES;660511975;660511975;;;;;;;gapc;;gapc;;GAPC depuis 2/3ans 
+;Alban'Electricité;;35700;;645647425;645647425;;;;;;;;;arret ets;;societe fermée 
+;AL'Eau Services;LORIAIS;35150;PIRE SUR SEICHE;625218283;63063;;;;;;;non;;non;;directrice contre le principe de se regrouper / réseaux etc…
+;A'LED Electricité;LES CHOUANNIÈRES;35170;BRUZ;299529071;650197594;;;;;;;non;;non;; yoann reland - coopérative, probablement IMS
+;ALG Electricité;32 R BELLEVUE;35760;SAINT GREGOIRE;659640291;659640291;;;;;;;;;;;volumes d'achats trop faible / travail en direct avec prix déjà negocier
+;Alinquant Christian;LA GUIMAUVIÈRE 13 R FOUGÈRES;35400;SAINT MALO;961293330;;;;;;;;;;;;
+;Alinquant Christian;;35400;;299816662;961293330;;;;;;;;;;;13/05/2015 messagerie - 17/06/15 messagerie
+;Alinquant Robert;;35400;;299819958;;;;;;;;;;non;;messagerie
+;Alix Carissan (Eurl);;35590;;299641144;;;;;;;;;;;;directeur ne semble pas interresser / nevoyer mail  contact@alix.carissan.com / travail en direct / entreprise de 4-5 personnes
+;Alix Florent;14 BIS R LAENNEC;35770;VERN SUR SEICHE;665732956;;;;;;;;;;;;
+;Allain (Yoann);LA DUCHÊNERIE;35600;BAINS SUR OUST;635191882;635191882;;;;;;;;;;;entreprise fermée
+;Allard Franck;22 R HAIE A LA DAME;35230;SAINT ERBLON;638817286;638817286;;;;;;;non;;non;;travail en direct avec 1 distributeur / a des prix grace a un piston
+;Alleix Pascal;47 R EMILE GERNIGON;35170;BRUZ;679700981;299055333;;;;;;;non;;non;;Raccroche au nez
+;Alleno Bertrand;LA COUR AUBRY;35520;MONTREUIL LE GAST;680833676;299660375;;;;;;;;;;;premier refus / a13H était en voiture / cherche a le joindre le matin / ne fais pas parti d'un groupement / travai en direct 
+;Allez Cie;8 R ROGER METTE;35400;SAINT MALO;296723070;;;;;;;;;;;;Acheteur M Lebert
+;Alliance CPS;5 R CALVAIRES;35150;CHANTELOUP;299441218;;;;;;;;IMS;;IMS;;messagerie / 28/04 Travail avec IMS
+;Alliance Gaz Service;1 R CROIX DU CHÊNE;35400;SAINT MALO;675702660;299825216;;;;;;;675702660;;;;
+;Allo Assistance Dépannage Plomberie (A.A.D.P);;35530;;663842004;663842004;;;;;;;;;AR septembre 2015;;travail en direct (dupont / Mafa) / tourne autour de 46% reduc / pas de possibilité de rendez vous avant le 15 Mai / rappeler le mardi 20 pour rdv / sera en chantier / rappele a 14H - 26/06/15 complet jusqu’à fin juillet, ne prend plus de rdv de commerciaux avant septembre
+;Allo Atous Services;119 R DE NANTES;35000;RENNES;299350000;;;;;;;;cap achat;;cap achat;;rdv vendredi 25 Avril 11H / a quitter brosette car trop cher 
+;Allo Jo! Elec;LIEU-DIT CROIX DE LA GERAUDAIS;35330;MAURE DE BRETAGNE;660866093;660866093;;;;;;;fermé;;;;entreprise fermée depuis 3 ans
+;Allo Mario;81 MAIL FRANÇOIS MITTERRAND;35000;RENNES;;666894073;;;;;;;;;;;vu camion chez cedeo / déjà rencontrer l'année dernière, nétais pas interresser 
+;Allo Plombier Service & Dépannage;;35800;;299160347;;;;;;;;;;non;;travail en direct / trouve que 50€  par mois trop cher et pas rentable compte tenu de son volume d'achats
+;Allosun (SARL);ZA LA MORANDAIS;35190;TINTENIAC;299390840;;;;;;;;;;;;
+;Allot Plomberie;2 R ANSERELLE;35250;CHASNÉ SUR ILLET;612553953;;;;;;;;;;;;
+;Allot Plomberie;2 R ANSERELLE;35250;CHASNÉ SUR ILLET;612553953;612553953;;;;;;;;;AR juillet;;messagerie/ a debuter son activité en Janvier - 13/05/15 messagerie - 16/06/15 fermé pour raisons médicales, recontacter début juillet / 06/07/15 toujours fermer.
+;Alter Electricité;17 R SURCOUF;35170;BRUZ;612514120;;;;;;;;;;;;
+;Alter Electricité;17 R SURCOUF;35170;BRUZ;612514120;612514120;;;;;;;non;;non;;12/05/15 vous m'oubliez dans vos registres donc non
+;Alternativ'élec;;35430;;667623178;667623178;;;;;;;Cap achat;;Cap achat;;entreprise de moins de 3 ans / en concurrence avec GAPC (qui demande 3 ans d'activité pour integrer gapc) / veut nous mettre en concurrence / envoyer documentation - 03/06/15 - rdv a 11h mais nous a planté
+;Althea Services;R JACQUELINE AURIOL;35136;SAINT JACQUES DE LA LANDE;223446626;;;;;;;;;;;;a déjà fait parti d'un groupement / entreprise de dépannage / pas de gros volumes d'achats / a quitter son ancien groupement car trop cher et trouve que notre prix ne lui convient pas
+;AM Dépannages Services;ZI ECARTELÉE 27 R COLBERT;35300;FOUGERES;299941422;;;;;;;;;;;;
+;AM Energies;4 R EUGÈNE DEPREZ;35200;RENNES;625958420;625958420;;;;;;;;;AR 29/06/15 pour rdv chantier semaine suivante ;;travail en direct avec rexxel / mail monnerie.arnaud@neuf.fr / 29/06 rdv lundi prochain à 9heure sur chantier du coter de chevagne / 06/07/15 vu sur chantier, difficile de le faire quitter rexxel, travail avec des distributeurs de la zonede chantepie, Mr arnaud Monnerie. a recontacter si changement dans nos partenaires.
+;AM. Plomberie;LES FOSSES;35410;DOMLOUP;299377264;;;;;;;;;;;;
+;Amand Pertois (ETS);6 R GÉN LECLERC;35260;CANCALE;299896129;;;;;;;;non;;non;;pas intéresser 
+;Amelec;5 R COLONEL DU HALGOUET;35660;RENAC;299087303;675420079;;;;;;;;;;;achats importants / 250 000€ / mail amelec35@orange.fr / envoyer crénaux RDV / RDV le lundi 19/05
+;Amiot Entreprise;3 R DES GLÉNANS;35760;SAINT GRÉGOIRE;682679051;299774019;;;;;;;rdv 24/11/2014 pm;;;;envoyer mail et recontacter / mail contact@amiot-entreprise.fr / 02/05 déborder / rappeller mi mai pour prendre un rdv / rappeller mi juin pour rdv
+;Amos Electricité;29 R HAUTEVILLE;35440;MONTREUIL SUR ILLE;299697218;661579724;;;;;;;non;;;;grosse tete / achete déjà ses produits au plus bas / pense etre le meilleure
+;ANDOLEENNE;6 R CORDIERS;35250;SAINT AUBIN D'AUBIGNE;617752878;617752878;;;;;;;gapc;;gapc;;GAPC 35
+;André Dominique - Roazhon électricité;TR2 LOT15 BEAUSEJOUR;35520;MEZIERE (LA);299548788;0607608563 - 0789331117;;;;;;;;;non;;ca fait 25 ans qu'il travail comme ca - vu camion chez soco et yess
+;ANDRELEC;37 SQ YVES LE BITOUS;35700;RENNES;223201653;617522691;;;;;;;;;;;travail avec un fournisseur
+;Anger Chauffage Service;4 R DES PLUMETIÈRES;35120;ROZ LANDRIEUX;613633135;223185462;;marieaude.petit@gmail.com;;;;;613633135;;;;www.anger-chauffage-service.fr
+;Anger Thierry;MORINET;35271;CUGUEN;688220696;688220696;;;;;;;;;;;déjà rencontré / ne fait pas parti d'un groupement /13/05 messagerie
+;Anthony Vendé;LA NOË;35760;SAINT GRÉGOIRE;622150815;622150815;;;;;;;gapc;;gapc;;GAPC35
+;Anthony Vendé (SARL);LA NOË;35760;SAINT GRÉGOIRE;622150815;;;;;;;;;;;;
+;AP Chauffage;23 AV GUILLOTIN DE CORSON;35470;BAIN DE BRETAGNE;635250066;299438256;;;;;;;;;;;pas interresser
+;APB Services;LA GRANDAIS;35490;SENS DE BRETAGNE;684782456;684782456;;;;;;;non;;;;messagerie / Gerome phillipe / grosse entreprise / 800 000€ d'achats année
+;Aprosios Energie;14 R STE CROIX;35410;CHATEAUGIRON;299376074;;;;;;;;;;;;messagerie - 25/06/15
+;APS Plomberie;9 R LIERRES;35400;SAINT MALO;689783487;689783487;;;;;;;;;;;AR mercredi matin pour rdv dans la journée / 06/07/15 possible rdv mercredi 08/07 - 08/07 appeler le vendredi 17/07 pour planifier un rdv dans la journée
+;Aqua Services;71 R CHÂTEAUGIRON;35000;RENNES;299517693;685106435;;;;;;;;;;;contacter M Reguerre (directeur) / mail aquaservices-plomberie@orange.fr / travail en direct / essayer d'appeler le matin pour joindre le directeur / 02/05 messagerie / 12/05 messagerie
+;Aqua Solutions;;35580;;624622216;624622216;;;;;;;;;;;messagerie / M christophe.. - 13/05/15 messagerie
+;Aquassys Dol Forage (Sté);;35120;;299481778;;;;;;;;;;;;messagerie
+;Aquatermik;RÉSID DES OUCHES BÂT B APP 2 A R AÉROPORT;35730;PLEURTUIT;626294289;;;;;;;;;;;;
+;Aquatredan;LIEU-DIT HAMEAU DU CORMIER;35230;NOYAL CHATILLON SUR SEICHE;290785017;;;;;;;;;;;;
+;Aquilina Didier;4 IMP FONTAINE;35150;CORPS NUDS;299441148;610429316;;;;;;;;;;;15/06/2015 messagerie - messagerie 19/06/15
+;ARD;LA VIEUVILLE;35260;CANCALE;680006730;299894235;;;;;;;2015;;2015;;achats importants / ne fais pas parti d'un groupement / on complexifie tout / jouer sur la simplicité  et relation de confiance pour le convaincre / Appeler debut de semaine prochaine / RDV mardi 20 a 11H00. 09/06/15 - pas le temps, rappeler une autre fois
+;Argal Nettoyage;6 A R LAVOISIER;35230;NOYAL CHÂTILLON SUR SEICHE;299051020;;;argal35@wanadoo.fr;;;;;;;;;www.argal-nettoyage.fr
+;Arias José;;35830;;299558505;;;;;;;;;;non;;Non attribué
+;Arietis;26 R NATIONALE;22770;LANCIEUX;685309605;631314575;;contact@breizh-arietis.fr;;;;;685309605;;;;www.breizh-arietis.fr
+;Armor Chauffage;;35740;;628230812;299695858;;;;;;;non;;non;;a travailler en tant que commercial fournisseurs / PI
+;Armor Electric System (A.E.S.);24 R DE L'ERBONIÈRE;35510;CESSON SÉVIGNÉ;299235955;;;;;;;;;;AR septembre 2015;;Rexel/CGED, très occupé pour juin juillet. Négocie très bien ses prix, prix plus que corrects et se sent bien avec ses fournisseurs
+;Armor Electricité Plomberie;;35000;;230024825;662710082;;;;;;;arret ents;;Arret ents;;messagerie / 12/05 messagerie / 12/06/15 messagerie 15/06/15 mesagerie
+;Armor Kel Galis;2 R JEAN MONNET;35760;SAINT GRÉGOIRE;679061880;;;;;;;;;;;;
+;Arnal Bruno;LE BOURG;35270;LANRIGAN;625090077;299731100;;;;;;;;;non;;déjà rencontré / ne fat pas parti d'un groupement / avantage couts pas assé elever pour lui
+;Arrondel Stéphane;LA PATOUILLAIS;35470;PLECHATEL;299521029;680626124;;;;;;;;;;;messagerie / entreprise de multi service / ses clients achetent le matériel
+;Art Elec;6 R COMMDT STOURME;35120;DOL DE BRETAGNE;670620600;;;;;;;;;;;;
+;Art Elec;11 R ECOLES;35250;SAINT MEDARD SUR ILLE;685269408;;;;;;;;;;;;
+;Arti Elec;4 ALL CHAMP DU FOUR;35150;CORPS NUDS;682564809;682564809;;artielec.olivier@gmail.com;;;;;non;;non;;messagerie / 13/05 déjà rencontré / pas interesser par les tarifs + veut garder rexxel / je ne vais pas donenr suite
+;Arti Services;;35430;;299814595;;;;;;;;arret ets;;;;malade / entreprise fermé
+;Artisan Breton Assistance Dépannage;33 R BAUDRI DE BOURGUEIL;35200;RENNES;786769087;223278230;;erwan.guyomarch@orange.fr;;;;;786769087;;;;www.artisan-breton-assistance-depannage.fr
+;Artisan Breton Assistance Dépannage;;35770;;223278230;786769087;;;;;;;;;;;Erwan Guyomarch
+;Artisan Dépannage Immédiat;;35760;;608255568;608255568;;;;;;;;;AR semaine prochaine;;j'ai envoyé un mail, 
+;Artisan Dépannage Immédiat (ADI);10 ALL AIGRETTES;35760;SAINT GRÉGOIRE;608255568;223250776;;cahn.philippe@wanadoo.fr;;;;;608255568;;;;www.adi-depannage35.fr
+;Artisan Electricien Ruellan;LE CHEM VERT;35590;SAINT GILLES;299648305;624534208;;;;;;;;;;;11/05/15 AR début juin -05/06/15 après rdv intelligent, mais manque de structure sur le terrain - n'a pas eu le temps de regarder ca, ar semaine pro - 07/07 toujours pas pris le temps de regarder. AR pour l'inviter a venir dans nos locaux.
+;Artizan Renevesaat Breizh;;35560;;299983239;658445528;;;;;;;;;;;petite entreprise / volumes d'achats très petit
+;AS Brocéliande Concept;25 R BRÉAL;35160;TALENSAC;666685837;666685837;;;;;;;cap achat;;cap achat;;déjà CAP ACHAT
+;A-S Plomb Elec;25 BEL ORIENT;35133;BILLE;299976831;673989467;;;;;;;;;;;
+;Asd;7 R HENRI COLLIGNON;35000;RENNES;617696265;;;;;;;;;;;;
+;ASL dépannage - Stéphane coulier;;35690;;;607430108;;;;;;;RDV 24/04/15;;CAP ACHAT;;cap achat
+;ASN;;35760;;299688859;;;;;;;;;;;;groupement d'achats
+;Asselah Serge;;35400;;223183445;;;;;;;;non;;non;;plus dans le batiment
+;ASSOCIES MITTON ET GUIGUET;LIEU-DIT AUDRY;35190;LONGAULNAY;299668350;;;;;;;;;;;;messagerie
+;Asstec;LA METTRIE;35132;VEZIN LE COQUET;299631294;;;;;;;;;;;;vu camion mafart
+;Ast2;LA CONUAIS;35580;GOVEN;299421826;688187470;;;;;;;2015 mars;;;;messagerie / 13/05 femme qui s'occuppe de la gestion / vous tombez très bien = problemes avec ses distributeurs en ce qui concerne les prix / cherche certaines marques et travail parent a la chapellebeaucoup avec shneider / mail  stephane.ast2@gmail.com / pense rejoindre GAPC35
+;Astuce Elec;LE BOURG DE CHAUMERE;35113;DOMAGNE;223270776;607702789;;;;;;;non;;non;;très petits volumes d'achats / PI
+;AT.E.E. (Application Technique Equipement Electricité);;35300;;299945454;;;;;;;;;;non;;gros groupe / mail  atee.magasin@wanadoo.fr
+;ATCE;20 R CLOS BARON;35400;SAINT MALO;223525870;;;;;;;;;;non;;dérogation fabricant sur une grande partie de leur produits / pense que ca peut affecter ses relations avec ses distributeurs / pas intérrésé 
+;ATEE (Application Technique Equipement Electrique);ZONE INDUSTRIELLE DE PARON 4 R COMPAGNONS D'EMMAÜS;35300;FOUGERES;299945454;;;;;;;;;;;;
+;Atelier Gallais Plomberie;191 BD FLUSSON;35800;SAINT LUNAIRE;634870813;;;;;;;;;;;;gapc
+;Ateliers Lenormand;3 LA LOYSANCE;35560;ANTRAIN;679210492;;;;;;;;;;;;
+;Atlantic A.D.U (Artisan Dépannage des Usagers) Installateur qualifié;107 BD DE VERDUN;35000;RENNES;698753535;698753535;;;;;;;non;;non;;delo
+;Atlantic Abatis Revendeur;57 BD TOUR D'AUVERGNE;35000;RENNES;223401033;;;manueltorres@abatis.fr;;;;;;;;;www.serrurier-vitrerie-abatis-rennes.fr
+;ATOM'ELEC;50 R BRAY;35510;CESSON SEVIGNE;223456854;688179711;;;;;;;gapc35;;gapc35;;messagerie / fait parti de GAPC35
+;Atout Prise;;35330;;684130691;684130691;;;;;;;;;;;jeune entreprise / peut d'achats pour le moment / ancien militaire qui se lance dans la vie civile -  22/06/15 toujours la meme situation, CA ne bouge pas beaucoup et travail toujours avec YESSS electrique / au 1 avril 2016, doit décider si il reste entrepreuneur ou si il retourne militaire 
+;Atout Rénov;8 LOT DU PRÉ VERT;35720;SAINT PIERRE DE PLESGUEN;299739416;608512140;;;;;;;;;;;rdv lundi 5 17H 30
+;Atouts Plus Plomberie;6 R VICTOR HUGO;35000;RENNES;299793937;611070445;;atoutsplus@wanadoo.fr;;;;;cap achat;;cap achat;;messagerie / 12/05 rendez vous le Lundi 9 Juin a 11H00 / rappeller en debut d'après midi pour confirmer
+;Au Fil Elec;3 AV WRZESNIA;35170;BRUZ;626870693;;;;;;;;;;;;
+;Aubin Alexandre (EURL);LA HAIE TERRÉE;35150;JANZÉ;223313009;;;;;;;;;;;;15/06/15 messagerie  - messagerie direct 19/06/15
+;Aubrée Dominique;R ARISTIDE TRIBALET;35440;MONTREUIL SUR ILLE;;290786155;;;;;;;;;;;messagerie - numéro de sa femme, divorcé, pas d'autre numéro 
+;Aumaire Patrick;LANDE DES BRUYÈRES;35440;DINGÉ;299450482;;;;;;;;;;;;bientôt en retraite /ne sait pas si reprise 
+;Aurel'Ec Jourdan;6 LE BAS DOMAINE;35140;GOSNE;614279761;299663642;;;;;;;;;;;pas de groupement / appeler en soirée M Jourdan
+;Avenco-Elec;17 R DU DOCTEUR LE FRÊCHE;35640;MARTIGNE FERCHAUD;299479985;687190880;;;;;;;;;;;www.avenco-elec.com
+;Avenco-Elec;17 R DU DOCTEUR LE FRÊCHE;35640;MARTIGNE FERCHAUD;299479985;;;;;;;;ims;;;;coopérative / 1 an 
+;Avenel Energie;R JEAN GABRIEL COQUIO;35740;PACÉ;820205353;;;rh@avenel.fr;;;;;;;;;www.avenel.fr
+;Avenir Eco;10 C ALL LANVAUX;35700;RENNES;contactelec@avenirelececo.fr;981432010;;contactenr@avenirelececo.fr;;;;;;;;;
+;Avenir Ouest Energie;ZONE ARTISANALE MÉTAIRIE;35520;MELESSE;299669459;299661906;;;;;;;;;;;mail contact@aeo35.com /chercher a joindre  M Perrou si secretaire
+;Avenir'Elec;10 C ALL LANVAUX;35700;RENNES;981432000;;;;;;;;;;non;;Un seul fournisseur et gèrent tout chez celui-ci, pas intéréssé
+;Avgm;3 R SIMONE DE BEAUVOIR;35135;CHANTEPIE;616730052;;;;;;;;;;;;
+;AVI SDEI;;35400;;299199879;;;;;;;;;;;;13h30
+;A-Z Intérieurs Pays De Brocéliande;MÉRIGNAC;35380;MAXENT;672758060;;;;;;;;;;;;
+;Azé Christian Electricité Générale;1 R TELLE;35131;PONT PEAN;299524201;;;;;;;;;;;;
+;B . F . C .;12 LA HAILLERAIS;35660;CHAPELLE DE BRAIN (LA);659225671;;;;;;;;;;;;
+;B C E (Sarl);2 IMP PAUL VALÉRY;35150;JANZE;609716495;609716495;;;;;;;arret ents;;arret ents;;sur paris en ce moment jusqu'en septembre / appeler pour présenter le groupement interet pour site web
+;B.A. Bat;117 LA CHEVALERAIS;35580;BAULON;642167523;642167523;;;;;;;;;;;messagerie
+;B.H Elec;;35750;;299093708;;;;;;;;;;;;ne fait pas parti d'un groupement / M Ojar 0617969250 / ne prèfère pas changer ses habitudes
+;B.M.S;LE CHAMP NOËL;35132;VEZIN LE COQUET;660549478;299314198;;;;;;;;;;;pas le temps de discuter/nefait pas parti d'un groupement /  15/06/15 messagerie
+;B.S.;BEL AIR COSSINADE;35310;BREAL SOUS MONTFORT;299074759;;;;;;;;;;;;a quitter IMS / ne veut pas se remettre avec un groupement
+;Bactifos ABATIR 35 Install. qualifié;;35000;;299796719;;;;;;;;non;;non;;réseau d'agences / numéro de leur acheteur 07 60 35 41 41 M Vilanova /  directeur absent / rappeller fin du mois  / 02/04/14 en vac pendant 2 mois
+;Baélec;17 R ST LAURENT;35400;SAINT MALO;660719994;660719994;;;;;;;doit passer au bureau vers 14h30 le 19/06/15;;AR;;vu mouchoir vert 29/06/15, en activité depuis 3 ans, fait partis de la capeb, CA environ 30 k e annuel, 95% chez rexel travail un peu avec yess et cged. N'as pas l'air d'être très dynamique. Comportement étrange.
+;Bagourd Jean;;35680;;299963634;;;;;;;;;;;;messagerie 18/06/15
+;Bain-Chauffage (EURL);;35470;;;;;;;;;;;;;;numéro pas attribué
+;Bantho Services Services;10 R DOCT LÉON;35740;PACE;299142624;;;;;;;;;;;;
+;Barbe E . D . I;BÂT D 2 R BORDAGE;35510;CESSON SEVIGNE;698915386;698915386;;;;;;;;;;;domotique exclusivement / ne passe pas par les distributeur 
+;Bardiz Ohannès;2 BIS R ANDRÉ MALRAUX;35136;SAINT JACQUES DE LA LANDE;622701740;622701740;;;;;;;;;;;23/06 moins de 5000E de dépenses - complement d'activité, salarié a coter / AR en septembre pour planifier un rdv / travail avec brosette / Si il ne se souvient pas, jouer sur le fait qu'il ai pas beaucoup d'achat et que du coup les economies sont très interessantes.
+;BARON PLOMBERIE CHAUFFAGE;4 ZONE ARTISANALE FORGE;35830;BETTON;983812410;;;;;;;;;;;;
+;Barp Elec;LES ECOTAIS;35135;CHANTEPIE;278880471;699216471;;aurelien.barp@gmail.com;;;;;;;AR septembre 2015;;cap achat
+;Barrier David;20 LD BRUERE;35500;SAINT AUBIN DES LANDES;299496990;612325937;;;;;;;;;;;le joindre sur son téléphone portable / travail avec MAFAR / Pump plastique… / rdv mercredi 21 à 17 H
+;Basselot Gérard;5 R DU PONT AUX CHÈVRES;35137;PLEUMELEUC;299071700;;;;;;;;;;;;gapc
+;Bat'elec;LE JARDRET;35137;BEDEE;299061991;;;;;;;;;;;;ancien cap achat a voir si retraite
+;Bâti Plus;;35890;;612967278;612967278;;;;;;;;;retraite;;Auto entrepreneur a la retraite
+;Bati Services aux Particuliers;LES LANDES DE PINÇONS;35230;NOYAL CHATILLON SUR SEICHE;608653582;299051188;;;;;;;;;AR mi juillet 2015;;n'as pas le temps, verra ca une autre fois 06/07/15 ar plus tard dans la journée / rdv le mercredi 08/07/15 - travail principalement avec maillard car il s'occupe surtout de salle de baim. Personne très sympatique, en réfléxion
+;Bati'Elec;7 LA MARE PIRON;35440;FEINS;670990659;;;;;;;;;;;;
+;Batiment Confort Service (BCS);;35000;;669561422;669561422;;;;;;;non;;non;;02/04/14 fixe   02 61 88 07 03 , pas interessé
+;Batirenov35;4 LA JEUSSELINAIS;35470;BAIN DE BRETAGNE;770383384;;;;;;;;;;;;
+;Baudot Electricité;8 R DES TILLEULS;35340;ERCÉ PRÈS LIFFRÉ;299683184;;;;;;;;;;;;
+;Baudron Florian;LES DIX CROIX;22490;PLOUËR SUR RANCE;658431700;;;florian-baudron@hotmail.fr;;;;;;;;;www.florian-baudron-electricien-dinan.fr
+;Baudry Noël;;35560;;299983220;681946347;;;;;;;;;;;pas de groupement / rdv mercredi 7 a 16H30
+;Bauer Fabrice;6 R MARIE CURIE;35690;ACIGNE;630533739;;;;;;;;;;;;gapc
+;Bazin David;IMP BOIS MARTIN;35580;GOVEN;628832199;628832199;;;;;;;;;;;entreprise fermée depuis 4 ans
+;BCQ;;;;;0619835367 ???;;;;;;;;;;;vu camion chez legallais - pas sur du numéro
+;BDEC;PICLOS;35600;BAINS SUR OUST;671888939;;;;;;;;;;;;
+;Beaulieu Frédéric;23 R JEAN LEDUBY;35450;VAL D'IZÉ;629689564;299497670;;;;;;;;;;;refuse de payer
+;Bédier Gildas;40 R BIGOT DE PRÉAMENEU;35000;RENNES;299322232;;;;;;;;gapc;;gapc;;GAPC35 / déjà negocier
+;Bedouin CPE (SARL);4 R ST MICHEL;35190;BECHEREL;299668281;;;;;;;;;;;;
+;B-E-I;9 RÉSID POSTE;35850;ROMILLÉ;299691944;670124988;;b-e-i@orange.fr;;;;;ims;;;;IMS
+;Belélec 35;38 R JEANNE DE BELLEVILLE;35740;PACE;647809967;647809967;;;;;;;;;;;entreprise dfermée jusqu'au 5 MAI / 90% des ses achats chez rexxel
+;BELLAY EMERAUDE;LIEUDIT LA BARRIÈRE;35430;SAINT PERE MARC EN POULET;256278021;;;;;;;;;;;;
+;Bellay Jean-Pierre (S.A.S);R BOSQUET;35310;CHAVAGNE;jp@bellay.fr;299642609;;jp@bellay.frSIRET;;;;;;;;;
+;Bellay Vincent (SARL);ZAC DES TROIS MARCHES IMP JONCHÉE;35132;VEZIN LE COQUET;299146364;;;;;;;;;;;;
+;Belliard Emmanuel;50 R DE L'ÉGLISE;35210;SAINT CHRISTOPHE DES BOIS;299760138;627763408;;;;;;;ims;;ims;;IMS satisfait, 2500€, client, coopérative, livraison 2 fois par semaine, global meme tarif pour tous les client, coopérative, installer de 4 ans et anciennement vendeur, belliard.emmanuel@live.fr
+;Benatia François;12 R MESSAC;35390;SAINTE ANNE SUR VILAINE;620408752;;;;;;;;;;;;
+;Benis Electricité;20 BELLE ETOILE;35490;SENS DE BRETAGNE;299555987;682482431;;;;;;;;;;;ne travail aps avec un groupement / fidèle a ses fournisseurs(10ans) / faible volume d'achat / distrilec
+;Benjamin Electricité et Multi Services;3 SQ PIERRE LE DAMANY;35000;RENNES;663730251;663730251;;ben.kibuya@gmail.com;;;;;non;;non;;ne parle pas bien le francais  / mail ben.kibuya@gmai.com / 15/06/15 messagerie directement / sous traite et fait acheter les fournitures par ses clients.
+;Benoist Cédric;LA ROUERIE;35270;COMBOURG;630505673;630505673;;;;;;;;;;;accident de travail / a surement arreter son activité
+;BERISHA;;35310;;971584727;;;;;;;;;;;;17/06/15 messagerie- messagerie 19/06/15 _ 22/06/15 messagerie- 25/06/15 messagerie
+;Bernard Electricité;ZONE ARTISANALE LE BOULAIS;35690;ACIGNÉ;299622603;299622179;;;;;;;;;;;Directeur M Bernard / mail contact@bernard-electricité.fr / reviens la semaine prochaine / fonctionnement  5 chargé d'affaire qui passent leur commande de leur coté auprès de distributeurs
+;Bernard Et Jérôme Pavoine;2 CHEM RUBLARD;35550;LOHÉAC;299340234;;;;;;;;;;;;travail avec des grossistes / M gérome Pavoine / appeler vers 13H30
+;Berot François;LIEU-DIT ROCHER;35150;CHANTELOUP;966971519;;;;;;;;;;;;
+;Berthelot Alain;15 R DE LA PÉROUASSERIE;35210;CHÂTILLON EN VENDELAIS;299761201;689301144;;;;;;;;;;;cap achat
+;Berthelot Jean-Luc;QUELMER 31 R PASSAGÈRE;35400;SAINT MALO;299826912;;;;;;;;;;;;Pas commode messagerie - 13/05/15 messagerie
+;Berthelot Lenaïck;LE DOMAINE;35430;SAINT JOUAN DES GUÉRETS;676118178;;;;;;;;;;;;
+;Berthelot Lenaïck;LE DOMAINE;35430;SAINT JOUAN DES GUÉRETS;676118178;676118178;;;;;;;non;;non;;pas de groupement / possede qu'un fournisseur / peut etre interresser / va regarder notre site internet et en parler avec son commercial
+;Bertin Dominique (SARL);LA HÉLOCHAIS;35460;SAINT BRICE EN COGLÈS;299978265;665030216;;;;;;;;;AR 04/05/15;;part en vacances ce soir / rappeller dans une semaine et demi /  ne fait pas parti d'un groupement / Travaille principalament sur rennes
+;Bertrand & Margain (SARL);1 R CROIX DU CHÊNE;35400;SAINT MALO;299817507;;;bertrand-plomberie@bbox.fr;;;;;;;;;2/04/14 ne travail pas avec un groupement a re contacter  / 17/04  appeler en fin d'année/ pas la tete a ca
+;Besnard Gilbert;;35830;;299559446;;;;;;;;;;non;;numero pas attribuer
+;Besnard Piednoir Plomberie Electricité;1 R DU HELLIER;35510;CESSON SÉVIGNÉ;678130952;223271962;;;;;;;;;non;;pas dispo avant septembre 2014 / AR
+;Besnier Electricité;14 R LOUIS ET JULIEN BOUTIN;35740;PACÉ;299606522;671128162;;besnierelectricite.secretariat@orange.fr;;;;;;;;;www.besnier-electricite-rennes.fr
+;Besnier Electricité;1 R DU PATIS;35600;REDON;299710140;;;besnierelectricite.secretariat@orange.fr;;;;;;;;;www.besnier-electricite-rennes.fr
+;Beucher Sébastien;;35410;;299377264;;;;;;;;non;;;;déjà eu ce type de proposition / ne donnera pas suite
+;Beucherie (Ets);;35420;;681960568;299980115;;;;;;;non;;;;PI
+;Beurel;9 IMP PETITE HUPEE;35400;SAINT MALO;686467134;686467134;;;;;;;gapc;;Gapc;;GAPC 35
+;Bignan Gurvan;15 R XAVIER GRALL;35830;BETTON;685503665;299559245;;;;;;;;;non;;déjà contacter il y a un moment / pas d'interet / cout déjà étudier
+;Biogaz Planet France (SARL);R AMPÈRE;35340;LIFFRE;223255650;;;;;;;;;;;;
+;Biotique Basse Consommation 35 (BBC);;35590;;290560748;;;;;;;;;;;;Non attribué
+;BJ 35;18 R MORDELLES;35590;HERMITAGE (L');223300256;;;;;;;;;;;;prix négocier avec les fabriquant / 
+;Blanchard (EURL);31 AV PELOUINE;35480;MESSAC;299342108;;;;;;;;;;;;
+;Blanchet Alan (SARL);;35310;;223307326;;;;;;;;;;AR septembre 2015;;22/06/15, très occupé, cours partout, ar septembre
+;Blanco Juan;LA CHOUANIÈRE;35560;MARCILLE RAOUL;601741412;;;;;;;;;;;;
+;Blandin Gilles;26 R BADIOLAIS;35114;SAINT BENOIT DES ONDES;686060255;299583106;;;;;;;non;;non;;vous tracassez pas, je suis déjà équipé. Ne travaille pas avec les groupements
+;BLIN ELEC;LA HUTTE AUX RENARDS;35410;SAINT AUBIN DU PAVAIL;299374809;;;;;;;;;;;;arret de travail
+;Blondeau Loic (Eurl);21 R PRUNELLIERS;35160;BRETEIL;299611011;630748369;;;;;;;non;;non;;76000 € chez brosette / travail avec CDO / 
+;Blot Daniel;LE BOIS HUGUET;35430;SAINT GUINOUX;650783175;299582385;;;;;;;gapc;;gapc35;;travail en sous traitence / n'achete pas lui-même ses matériaux
+;BM Plomberie;;35000;;695578019;695578019;;;;;;;arret ets;;arret ets;;entreprise n'existe plus
+;Bobet Eric;2 R LOUIS DELOURMEL;35230;NOYAL CHÂTILLON SUR SEICHE;252420760;299508600;;contact@bobet-plomberie.com;;;;;;;;;bobet-plomberie.com
+;Bobet Yannick (Eurl);1RUE EMILE SOUVESTRE ZONE ARTISANALE MIVOIE;35136;SAINT JACQUES DE LA LANDE;299307080;;;secretariat@yannickbobet.fr;;;;;;;;;www.bobet-yannick-plomberie.fr
+;Bohuon Yves;7 R HERMINETTE;35160;MONTFORT SUR MEU;299091108;682041301;;;;;;;non;;non;;travail avec socolec et maillard / fait elec et plomberie / septembre
+;Boisivon Christian;LE FRESNE;35270;LANRIGAN;299738912;;;;;;;;;;;;répondeur FAX
+;Boisramé Courselaud;19 R GLAIS BIZOIN;35000;RENNES;299504163;;;;;;;;;;;;Rejoignez nous sur Facebook
+;Bompays Pierre;;35230;;299522557;;;;;;;;arrets ets;;arret ets;;messagerie - 22/06/15 entreprise fermer 
+;Bonnier Forages;ZONE ARTISANALE LA GARENNE;35130;GUERCHE DE BRETAGNE (LA);299962308;;;;;;;;;;;;www.forage-35-bonnier.com
+;Bonvoisin Stéphane;1 PL ROULAIS;35400;SAINT MALO;683072470;;;;;;;;;;;;
+;Bordais Alain;9 R HAIE D'IZÉ;35450;VAL D'IZE;613698825;613698825;;;;;;;;;;;messagerie 19/06/15 - 25/06/15 messagerie
+;Boscherie Mickael;LE VILLAGE;35750;IFFENDIC;299099455;678874956;;;;;;;;;;;déjà rencontré il y a 2 a 3 ans / PI
+;Boschet (Sarl);ZA DE LA CORBIÈRE 1 IMP DE LA CERISAIE;35580;GOVEN;299420684;;;;;;;;non;;;;
+;Bosger Claude;LA PERCHELAIS;35330;MAURE DE BRETAGNE;299345060;;;;;;;;;;;;17/06/15 messagerie
+;Bouchet Sylvain;TELHOUET;35380;PAIMPONT;299069701;661089701;;;;;;;non;;non;;mail sylvain.bouchet4@wanadoo.fr / interresser par le groupement d'achats / recontacter pour prendre des nouvelles / 12/05 rappeller la semaine prochaine pour prendre rendez vus /28/05 travail avec brossette et dupont mais refuse le rendez vous car Pas iterresser 
+;Bouée Christian;LES MARDELLES;35590;SAINT GILLES;299648038;;;;;;;;;;AR;;26/03/15 messagerie  - 15/04/15 messagerie - 24/04/15 messagerie - 11/05/15 messagerie - 12/05/15 messagerie - 13/05/15
+;Bougault Louis;6 ALL CHAILLEUX;35890;BOURG DES COMPTES;299521942;;;;;;;;;;non;;En fin d'activité, travail seul, connais Mr Lebretton n,est pas intéréssé.
+;Boulaire Guillaume;6 BIS LIEU-DIT PONT NATUREL;35120;HIREL;299481019;;;;;;;;;;;;16/06/15 messagerie directement
+;Bouland (SARL);R JANAIS;35520;MEZIERE (LA);299664111;;;;;;;;;;non;;interesser mais pour septembre 
+;Boulanger Jean-Yves;12 R RELAIS;35133;CHAPELLE JANSON (LA);979546249;;;;;;;;non;;non;;a la retraite depuis 5 ans / leur fils a repris l'entreprise (existe un jerome boulanger dans le fichier) / travail avec un certains nicolas C / ne fait plus que la partie elec / actuelement en vacances / sa mère lui transmet le message 
+;Boulanger Jérome (EURL);;35133;;299952008;;;;;;;;;;;;Une dame à décroché, ne sais pas quand il est dispo, il était en déplacement
+;Boullé Christian;11 R TEMPLIERS VENEFFLES;35410;CHÂTEAUGIRON;607529838;299378990;;;;;;;;;non;;rappeler semaine pro pour fixer RDV / travail avec CDO mais aucun de nos partenaires/ 25 ans à son compte, bon client MAFART 15/06/15 messagerie
+;Bourdet Cédric (EURL);LA GERMONDAIS;35133;PARIGNÉ;621074709;621074709;;;;;;;;;AR semaine 28;;Ar semaine 28, appeler 3h avant pour savoir sur quel chantier il sera, très occupé,  un gars en arret, bcp de travail pour boucler ses chantiers avant les vacances.
+;Bourdoulous François-Xavier;53 ALL AÇORES;35200;RENNES;674251538;674251538;;;;;;;;;;;messagerie - messagerie 19/06/15 - 25/06/15 messagerie
+;Bourgbarrelec;ALL COUDETTE;35230;BOURGBARRE;299572179;;;;;;;;;;;;15/06/15 messagerie - messagerie 19/06/15 - 24/06/15 messagerie - 25/06/15 messagerie
+;Boussin Michel;LA MOTTE AU SAGE;35360;LOU DU LAC;299070977;;;;;;;;non;;;;proche de la retraite
+;BPC Breizh - Cyril Berthelot;LA LANDE HONOREE;35340;ERCÉ PRÈS LIFFRÉ;299684935;615178603;;bpcbreizh@gmail.com;;;;;;;;;www.plombier-liffre-bpcbreizh.fr
+;Brard Christian;31 R COTIERES;35111;FRESNAIS (LA);299586767;;;;;;;;;;;;J'ai laissé le numéro de christophe a sa femme
+;Brault Jacques (SARL);12 BIS R VENDELAIS;35133;LUITRÉ;299979434;;;;;;;;;;;;AR 06/07/15 rendez vous jeudi a luitré / entreprise de 3 salariés / ne travail pas beaucoup avec nos partenaires / était intéresser par le catalogue de Lorans / client difficile a approcher pour CAP ACHAT
+;Brehier Plomberie;LIEU-DIT 4 ROUTES;35150;CHANTELOUP;299437588;640068210;;;;;;;non;;non;;pas interresser - champion du monde de la négotiation, pense avoir des meilleures tarifs que les groupements d'achats
+;Breizh Clim SARL;10 LES LIZARDAIS;35390;GRAND FOUGERAY;299084747;;;;;;;;;;;;cap achat
+;Breizh Elec;20 ALL BOIS;35830;BETTON;681431277;681431277;;;;;;;ims;;;;travail avec IMS
+;Breizh Elec Industries;9 RÉSID POSTE;35850;ROMILLE;299691944;;;;;;;;;;;;
+;Breizh Energie Confort;21 LIEU-DIT POIRIER;35630;SAINT BRIEUC DES IFFS;299455021;626421635;;;;;;;;;non;;J'ai eu sa femme au telephone, semble intéréssée mais va en parler a son mari car c'est lui qui s'occupe des achats - Pas intéréssé
+;Breizh Sanit' Elec';;35150;;299471935;;;;;;;;retraite;;retraite;;Une vieille voix m'a répondu, ca a coupé, et quand je rappelle, ca ne réppond plus…
+;Breizh Services;2 R MAIRIE;35380;SAINT PÉRAN;633399918;299069090;;breizhservices@orange.fr;;;;;633399918;;;;www.breizh-services-assainissement.fr
+;Bretagne Electricité et Services;ZAC DU CHÊNE VERT R GERHOUI;35650;RHEU (LE);299640070;;;bretagne-electricite@wanadoo.fr;;;;;;;;;messagerie pas disponible rappeler plu tard / joindre le directeur en fin de matinée  ou en fin d'après midi
+;Bretagne Maintenance Service;13 BIS AV PEUPLIERS;35510;CESSON SEVIGNE;299830850;;;;;;;;;;;;
+;Breton Glenn;111 TER R SAINT MALO;35111;FRESNAIS (LA);662692341;662692341;;;;;;;;;AR en septembre;;12/06/15 vu sur St Malo, on roulait derrière lui et on s'est arrété sur le bord de la route. A refusé le GAPC en début d'année
+;Bretonelec;ZA BEAUSÉJOUR 2 BEAUSEJOUR;35520;MEZIERE (LA);299693997;;;;;;;;;;;;
+;Briand Michel;12 PL TILLEULS;35650;RHEU (LE);777345057;777345057;;;;;;;;;non;;PI
+;Brico-Fred;4 PL ST GERMAIN;35520;MELESSE;609734574;;;;;;;;;;;;
+;Briere Gérard;14 R LILAS;35137;BEDEE;299061254;;;;;;;;;;;;ancien cap achat a revoir
+;Brion Benoit;ZA LA CROIX ROUGE;35530;BRECE;695464545;;;;;;;;;;;;
+;Briquel et Quéméner;;35000;;223307867;603038441;;;;;;;;;;;messagerie/ 13/05 messagerie / 12/06/15 messagerie - 16/06/15 messagerie - 24/06/15 messagerie - 26/06/15 messagerie - 29/06/15 messagerie
+;Brit'Energies;LE GOUSSET R LÉON LEVREL;35132;VEZIN LE COQUET;602367772;;;;;;;;;;;;
+;Broceliande E.C.P.S.;PARC ACTIVITÉS DU CHÊNE 1 BÂTIMENT GILLET;35290;GAËL;299077388;681833591;;;;;;;;;;;
+;Broceliande Multi-services (SARL);LE BREUIL;35360;MONTAUBAN DE BRETAGNE;299617378;;;;;;;;;;;;
+;Bruneau Pascal;17 BD PASTEUR;35150;JANZE;299470003;;;;;;;;;;;;
+;Bruneau Pascal;17 BD PASTEUR;35150;JANZE;299470003;;;;;;;;;;;;15/06/15 messagerie - 16/06/15 messagerie - messagerie 19/06/15
+;Buan JMB Dépannage;LA PLEINETIÈRE;35630;SAINT BRIEUC DES IFFS;299454910;621606027;;;;;;;;;;;
+;Buant Didier;8 R MARRE BOUTIER;35270;BONNEMAIN;648244840;982622324;;dbplomberie@bbox.fr;;;;;;;;;16/06/15 messagerie - messagerie 19/06/15 - messagerie direct / téléphone portable probablement souvent eteint
+;Buchon Vincent;ZAC VILLE ES PASSANT II;35800;DINARD;299160905;;;;;;;;;;;;
+;Buchon Vincent;R HAUT BIGNON;35870;MINIHIC SUR RANCE (LE);299887303;;;;;;;;;;;;
+;Buchon Vincent;ZAC VILLE ES PASSANT II;35800;DINARD;299160905;;;;;;;;RDV 11/06/15;;AR;;vu lui et elle sur dinard, dans leur magasin, travail avec socolec et yess principalement. 11/06/15 a annulé le rdv du 11 mais nous y sommes allé quand même pour prendre un nouveau rdv et il était la. Nous avons pus lui expliqué rapidement l'entreprise Cap Achat. Comportement étrange
+;Burban Renov' Electricité (EIRL);BEAUVAIS;35137;PLEUMELEUC;671356846;;;;;;;;;;;;
+;Busson Philippe;15 R BRUZ;35310;BREAL SOUS MONTFORT;223411031;;;;;;;;;;;;17/06/15 messagerie - en vacance tout le mois de juillet, revient en Aout - 
+;C . E . R . I . E . L (Cie Etude Réalisation Instal. Electrique);9 R FONTAINE;35340;LIFFRE;299685591;;;;;;;;;;;;
+;C.Collet (SARL);45 AV EDOUARD VII;35800;DINARD;257400350;;;;;;;;;;;;Mr Collet en déplacement constant, rappeler matin de bonne heure - vu camion dinard
+;C.E.R.I.E.L (Cie Etude Réalisation instal. Electrique);;35340;;299685591;;;;;;;;;;non;;A déjà ses fournisseurs, n'est pas intéréssé,
+;C.V.P. (Chauffage Ventilation Plomberie-SARL);ROCOMPS;35410;CHATEAUGIRON;299375105;;;;;;;;;;;;
+;CA Electricité;LIEU-DIT BEAUHAYE;35630;IFFS (LES);630950006;630950006;;;;;;;;;;;pas intéresser pour le moment
+;Cabizza Georges;3 R BREUNETTES;35650;RHEU (LE);299690059;;;;;;;;;;;;
+;Cadet-legrand Christian;1 R TEILHARD DE CHARDIN;35460;SAINT BRICE EN COGLES;954234724;;;;;;;;;;;;
+;Cadieu Sourisse (EURL);1 ALL JOSEPH CUGNOT;35502;VITRE CEDEX;299750696;;;;;;;;;;;;
+;Cadieu Sourisse (EURL);6 R MARE PAVÉE;35510;CESSON SÉVIGNÉ;299832074;;;;;;;;;;;;
+;Cadieu Sourisse EURL;;35502;;299750696;299832074;;;;;;;;;;;rdv mercredi 7a 9H00
+;Cadot Electricité;ZA LES MOTTAIS 4 R BERNARD PALISSY;35230;SAINT ARMEL;256150243;609783802;;;;;;;;;;;déogation fabricant sur 90% de leurs achats - 24/06/15 rendez vous le jeudi 2 juillet 2015 à 14 Heure 
+;Caillot Potin (SARL-Entrep);3 R LOUIS DELOURMEL;35230;NOYAL CHATILLON SUR SEICHE;;;;;;;;;;;;;mauvais numéro
+;Calieco;PARC D'ACTIVITÉS CHÂTEAU GAILLARD 8 R ESTUAIRES;35470;BAIN DE BRETAGNE;223314137;;;;;;;;;;;;
+;Calin Plomberie (SARL);20 AV PRUNUS;35270;COMBOURG;650415014;;;;;;;;;;;;vu deux fois
+;Callot Denis Associés (CDA);LES ROCHELLES;56350;RIEUX;299919760;;;callot-denis@cda56.fr;;;;;;;;;www.cda-plomberie-energies.fr
+;Came Costard (SARL) Installateur;;35120;;299800662;;;;;;;;;;ar janvier;;Débordés, n'ont pas le temps de s'occuper de ca et ne veulent pas changer leurs habitudes. Ne souhaitent pas nous rencontrer
+;CAP PLOMBERIE CHAUFFAGE;13 RTE DE DINAN;35520;MÉZIÈRE (LA);674509814;686799181;;;;;;;674509814;;;;cap achat
+;Capt Energie;LES BUTTES;35560;SAINT RÉMY DU PLAIN;643985787;299801184;;capt.energie@orange.fr;;;;;;;;;rappeller fin de semaine pour rdv / travail en direct avec Brossette rexxel Distrilec / rendez vous le mardi 20mai a 14H00
+;Carbon-Rak;10 R DU VIEUX COURS;35310;CHAVAGNE;299643373;624073189;;;;;;;;;;;
+;Cardinaud Bernard (Eurl);;35800;;299880003;;;;;;;;;;AR tot le matin pour eviter la secraitaire;;je n'ai pas pus lui parler, la secraitaire faisais barrage. 
+;Carrée EURL (David);1 A ALL DU CHÊNE VERT;35650;RHEU (LE);299647972;673106991;;contact@davidcarree.fr;;;;;gapc;;GAPC35;;Gapc35
+;Castel'Elec;34 R CHÂTEAUBRIAND;35410;CHATEAUGIRON;299377959;673563001;;;;;;;;;;;travail en direct / REXXEL distrilec /  / envoyer brochure
+;Cauchoix Laurent;7 R HAILLETS;35730;PLEURTUIT;631847929;;;;;;;;;;;;
+;CBY;;35480;;;;;;;;;;;;;;CORBEL Denis
+;CD.Elec;2 LA GÂTINE;35250;SAINT AUBIN D'AUBIGNE;671387005;;;;;;;;;;;;
+;CDE35;22 R RIGOURDIÈRE;35510;CESSON SEVIGNE;633080826;;;;;;;;;;;;
+;Cedelec;8 IMP LAËNNEC;35310;BRÉAL SOUS MONTFORT;223411883;667740808;;;;;;;cap achat;;;;cap achat
+;Cedelec Domotique;37 R MAINE;35500;POCÉ LES BOIS;689702831;;;;;;;;;;;;
+;CEME Guérin;5 R ALLORY PARC D'ACTIVITÉS DE LA TEILLAIS;35740;PACÉ;email@email.com;299606352;;contact@ceme-guerin.com;;;;;;;;;
+;Cenet Etienne (SARL);;35500;;299767009;;;;;;;;;;;;12/06/15 messagerie - 25/06/15 non attribué
+;Centauri Confort;ZONE INDUSTRIELLE LES ROLANDIERES 25 R ARMÉE PATTON;35120;DOL DE BRETAGNE;617228980;;;;;;;;;;;;
+;Centre Dépannage Gaz Electricité;2 R JEAN MARIE DAVID;35740;PACÉ;299425638;;;;;;;;;;;;www.cdg-chauffage.fr
+;Centre Technique Froid Chaud (CTFC);;35510;;683911590;683911590;;;;;;;;;;;messagerie 18/06/15
+;Cerisier Nicolas;LA TEILLAIS;35440;DINGÉ;782460603;;;;;;;;;;;;cap achat
+;Certa;;35000;;223302714;;;;;;;;;;;;travail en drect avec fournisseur elect / Joindre M Lebreton avant 8h30
+;Cesson Plomberie Chauffage Sanitaire;12 COURS VILAINE;35510;CESSON SEVIGNE;299860887;;;;;;;;;;;;
+;Cf elec;19 R CHATEAUBRIANT;35770;VERN SUR SEICHE;663096619;663096619;;;;;;;non;;non;;travail avec rexel / mail  franckcarre@live.fr / commence a faire plus de prestation de service et donc n'est pas décider a integrer le réseau pour le moment
+;CGST Save;28 R DONELIÈRE;35000;RENNES;299876994;;;;;;;;;;;;
+;CG-TEC;JETAIS;35330;CHAPELLE BOUEXIC (LA);648705354;;;;;;;;;;;;
+;Chagneau Guillaume;5 BIS ALL CHÊNE FLAUX;35830;BETTON;299553193;;;;;;;;;;non;;ca ne m'interesse pas au revoir et a raccroché….
+;Chaillou Serge;2 R ACQUETS;35650;RHEU (LE);299396876;677071383;;;;;;;;;;;messagerie - 12/05/15 messagerie - 13/05/15 messagerie - mssagerie 18/06/15
+;CHAMEL Michel;;35270;;;967464007;;;;;;;;;;;VERDES Patrick
+;Champalaune Yvon;LA RONCELINAIS;35750;IFFENDIC;299061045;;;;;;;;;;;;
+;Chanut Sébastien;1 LOT HAUTS DE L'ILLE;35440;MONTREUIL SUR ILLE;788499016;788499016;;;;;;;non;;;;numero pas attribuer
+;Chapin Plomberie Chauffage;LA SILLANDAIS;35310;CHAVAGNE;223486994;;;;;;;;;;;;
+;Charlet Patrick;LES PORTES;35750;IFFENDIC;299097969;;;;;;;;;;;;numero pas attribuer
+;Charron David;6 PL FRANÇOIS DUINE;35440;GUIPEL;299697306;670167395;;;;;;;non;;;;pas de groupement / 
+;Chassaing Rémy;3 ALL CLOTURE;35360;MEDREAC;299073104;;;;;;;;non;;;;PI / raccroche
+;Chassan Ludovic;16 LIEU-DIT CLOS FRIN;35190;MINIAC SOUS BECHEREL;299456130;;;;;;;;;;;;
+;Chataignier Jean-Pierre (SARL);4 BIS R HELLERIE;35500;VITRÉ;299750464;;;;;;;;;;;;appeler le lundu matin seulement
+;Chateignère Frédéric;2 R VALLÉE;35490;SENS DE BRETAGNE;299555075;;;;;;;;;;;;
+;Chatel Plomberie;R CROIX GUILLEMET;35220;CHÂTEAUBOURG;299003066;299007073;;yveschatelplomberie@wanadoo.fr;;;;;;;;;www.plomberie-chatel.fr
+;Chaudière Dépannage Service (CDS);2 ZONE ARTISANALE PLACIS;35230;BOURGBARRE;299047134;;;;;;;;;;;;
+;Chauffage Confort Colardeau;31 R LIBÉRATION;35660;RENAC;664483120;;;;;;;;;;;;
+;Chauffage Ecoplus;24 R PIERRE VARIN DE LA BRUNELIÈRE;35700;RENNES;230834605;665343969;;chauffage.ecoplus35@gmail.com;;;;;;;;;www.chauffage-ecoplus-rennes.fr
+;Chauffage Entretien Service - Franck Rolau;;35780;;223170884;223150130;;;;;;;;;;;messagerie 11/05/15 changement de numéro. Nouveau numéeo, LeroyMerlin…
+;Chauffage Maintenance DLT;8 AV CHEMIN VERT;35131;PONT PEAN;299528821;;;;;;;;;;;;
+;Chauff'Eco2;21 R NORMANDIE;35600;REDON;628890433;;;;;;;;;;;;
+;Chauff-Eco-Conseils;LA MAISON NEUVE;35890;LAILLE;675901292;;;;;;;;;;;;ancien cap achat
+;Chauffouest;13 BD DE METZ;35000;RENNES;622951218;622951218;;;;;;;RDV 08/06/15 6 CAP ACHAT;;CAP ACHAT;;contacter fin mai pour prendre un rdv debut juin (vers le 8)/ travail en direct/ travail beaucoup avec brossette et un peu avec beauplet
+;Chautemps Plomberie;LA HAUTE BOSSE;35320;BOSSE DE BRETAGNE;609785057;;;;;;;;;;;;
+;Chauvel Pierre;15 R PERTUE RENAUD;35250;SAINT SULPICE LA FORET;782113137;;;;;;;;;;;;cap achat
+;Chavet Florent;20 R CHÂTEAUGIRON;35000;RENNES;761897727;;;;;;;;;;;;
+;CheakeleC;2 R IFS;35330;COMBLESSAC;650393636;650393636;;;;;;;cap achat;;;;rdv mardi 15 juillet au siège de cap achat / adhérent
+;Ched Homme Jean Marie;18 R HECTOR DES MARES;35136;SAINT JACQUES DE LA LANDE;649886323;;;;;;;;;;;;
+;Cheminel Plomberie;LA RIVIÈRE BASSE VILLE;35580;GUICHEN;299570706;;;;;;;;;;;;
+;Chenevel Chauffage;;35000;RENNES;607423080;;;;;;;;;;;;
+;Cherbonnel Hervé;8 R DE SAULES PA MONT ST MICHEL;50170;PONTORSON;233583926;;;cherbonnel.herve@wanadoo.fr;;;;;;;;;www.elec-plombier-chauffage-pontorson.fr
+;Cheval Maryline;2 R ARDOISIÈRES;56200;FOUGERETS (LES);299914261;;;;;;;;;;;;
+;Cheval Stéphane;2 R ARDOISIÈRES;56200;FOUGERÊTS (LES);633746856;;;;;;;;;;;;
+;Chevalier Pierrick (SARL);4 IMP ALFRED DE MUSSET;35410;OSSE;299377215;;;;;;;;;;;;
+;Chèze Jérôme;;35000;;672848032;672848032;;;;;;;cap achat;;cap achat;;cap achat
+;Choma Jean Charles;LES MESNILS;35480;GUIPRY;299341175;299340563;;jean-charles.choma@wanadoo.fr;;;;;;;;;www.plombier-choma-guipry.fr
+;Choma Jean Charles;;35480;;299341175;;;;;;;;ar;;;;demain matin vers 8H
+;Chouannière Alain;LA HÉMETIÈRE;35250;SAINT AUBIN D'AUBIGNÉ;299629995;;;;;;;;;;;;
+;Chouannière Alain;LA HÉMETIÈRE;35250;SAINT AUBIN D'AUBIGNÉ;299629995;;;;;;;;;;repond pas;;16/06/15 messagerie - 19/06/15 messagerie
+;Chriselec;26 AV ERABLES;35310;MORDELLES;627796545;;;;;;;;;;;;
+;Christian Saulnier;;35653;;299147513;;;;;;;;;;;;numéro pas attribué
+;Christo-Energie;16 R MALOUAS;35270;COMBOURG;299730744;;;;;;;;;;;;www.christo-energie.fr
+;Christophe Auvray (SARL);BOULEE;35610;TRANS LA FORET;679732888;679732888;;;;;;;;;;;possede dérogation fournisseurs / PI
+;Christophe Micault (SARL);ZONE ARTISANALE GRANDS SILLONS;35150;CORPS NUDS;299440392;612417662;;;;;;;;;AR;;AR début septembre
+;Chtaïbi Hicham;LA LORENSSAIS;35330;MAURE DE BRETAGNE;675011578;675011578;;;;;;;cap achat;;CAP ACHAT;;cap achat
+;City Gaz Service;37 R LORGERIL;35000;RENNES;299148221;;;;;;;;;;;;
+;Clairay Bernard;LE GROS CHÊNE LA LEZAIS;35490;GAHARD;299395969;;;;;;;;;;;;AR avant 8h le matin pour joindre Bernard Clairay
+;Clarab;29 R CLOS PICHON;35300;FOUGERES;299998625;;;;;;;;;;;;pas plombier
+;Clarot Yannick;7 R JEAN BOYER;35730;PLEURTUIT;299884155;;;;;;;;;;non;;Yannick Clarot a son compte depuis 25 ans- pas du tout intéréssé
+;Claude Lefeuvre Le Caignard;LE PETIT ROCHER;35530;NOYAL SUR VILAINE;299063615;299060870;;;;;;;;;;;www.lefeuvre.fr
+;Clergeot Electricité;LES HUARDIÈRES;35620;TEILLAY;609711559;;;;;;;;;;;;
+;Clermont (SARL);4 R LEUZIÈRES;35230;SAINT ERBLON;299523653;299051080;;;;;;;;;;;
+;Clermont Yannick;25 R SEINE;35470;BAIN DE BRETAGNE;299437470;614701818;;;;;;;;;;;
+;Climapac 35;;35450;;299768206;631954127;;;;;;;42059;;;;principalement sur du SAV
+;Climapac 35 (SARL);ZA BOURGNEUF;35450;VAL D'IZE;631954127;;;;;;;;;;;;
+;Climatelec (SAS);1 R DE LA FREBARDIÈRE;35510;CESSON SÉVIGNÉ;223303210;223303141;;;;;;;;;;;www.climatelec.fr
+;Climotherm;95 R DE LA FORGE;35830;BETTON;299557994;;;;;;;;;;;;
+;Climotherm;95 R DE LA FORGE;35830;BETTON;608644150;299005385;;;;;;;ims;;;;M.Bojar / messageriefait parti d'un groupement d'achats
+;Clossais Nicolas (Eurl);ZONE ARTISANALE CIMETTE;35133;CHAPELLE JANSON (LA);299952441;;;;;;;;;;AR vendredi 3 juillet 2015;;Secraitaire, il est très occupé en ce moment,AR  semaine 21/22 - 26/06/15 très dur a joindre, ar fin de semaine prochaine, la secraitaire va lui dire qu'on a appelé pour qu'il s'inscrive
+;CLTE;ZONE ARTISANALE BEAUSÉJOUR;35520;MÉZIÈRE (LA);299672464;;;contact@clte.fr;;;;;;;;;cap achat
+;CO DE SA;;;;299676767;;;;;;;;;;;;
+;CO DE SA;;;;299676767;;;;;;;;;;;;
+;Co2p (Sarl);5 R TRENTE;35000;RENNES;299316980;;;;;;;;;;;;messagerie / 13/05 messagerie / 12/06/15 messagerie
+;COBAC (Sarl);R MELESSE;35270;COMBOURG;299730793;299732180;;serge.cobac@wanadoo.fr;;;;;;;;;www.cobac-sarl.fr
+;Codesa (SARL);9 ALL PRAIRIE;35740;PACE;967305192;;;;;;;;;;;;
+;Cogrel Antoine;;35270;;290173290;786466656;;;;;;;;;repond pas;;16/06/15messagerie - messagerie 19/06/15 - numéro pas attribuer
+;COLIPIN (EURL);;35580;;603226655;603226655;;;;;;;;;;;Louis Sourdain
+;Colléaux Franck;1 R DE L'HOTEL DE VILLE;56200;GACILLY (LA);612376659;984594228;;colleaux.electricite@gmail.com;;;;;612376659;;;;www.colleaux-electricite-la-gacilly.fr
+;Collet C;ZA VILLE AU COQ;35800;SAINT LUNAIRE;223153730;;;;;;;;;;;;
+;Collet Couverture;;35600;;299727648;;;;;;;;;;;;mail envoyé, Veux les prix
+;Collet Patrick Electricité;LE CHÊNE VERT;35380;PLÉLAN LE GRAND;299074577;;;;;;;;gapc;;;;GAPC35 depuis plusiquers année
+;Colleu Serge;CHEM NOUETTES;35590;HERMITAGE (L');299640190;686078086;;;;;;;;;AR dans la soiree semaine 13;;Travaille avec legrand, n'a pas l'air trop intéréssé, bizzare
+;Colliaux E.C.S. (SARL);12 BD TRINITÉ;35750;IFFENDIC;299097121;;;;;;;;;;;;
+;Colliaux Jean-Marie;15 R RENNES;35850;IRODOUËR;299398356;;;;;;;;;;gapc;;
+;Combaud (EURL);LA GRAVELLE;35760;SAINT GRÉGOIRE;299685360;608578874;;;;;;;;;;;travail en direct /  pas de gros volumes d'achats 
+;Come Sébastien;PETIT MARVAIZE;35133;SAINT GERMAIN EN COGLÈS;299942688;682245882;;;;;;;non;;non;;Fait partis du bureau du GAPC
+;Communication Electricity & Domotics;;35610;;665727028;665727028;;;;;;;;;;;
+;Concept'elec;11 R SLIMNIC;35740;PACE;223413332;;;;;;;;;;;;11/05/15 messagerie - 13/05/15 messagerie - 09/06/15 messagerie 19/06/15 messagerie
+;Conflant David;21 R DES LAVOIRS;35440;DINGÉ;679736385;;;;;;;;;;;;
+;Confort Sécurité Électrique (C.S.E.);;35022;;608536780;608536780;;;;;;;non;;non;;rencontrer a legallais lors de journée de prospection / ne souhaite pas adhérer
+;Connan Yoland;;35250;;299553522;;;;;;;;;;;;16/06/15 messagerie - 02/07/15 messagerie ne peut plus prendre de messages
+;Corgne Nathanaël;12 R MONSEIGNEUR GUICHARD;35150;CORPS NUDS;678302247;;;;;;;;;;;;
+;CORMIER CSPE;;35170;;299579787;683371951;;;;;;;non;;non;;travail en direct / ne veut pas essayer cap achat pdt un an gratuit car trop compliquer / ne veut pas s'emmerder avec ca
+;Corrette Pascal;COUEDOUAN;35380;PLELAN LE GRAND;299618714;;;;;;;;;;;;
+;Couapel Plomberie Chauffage;25 R FOUGERES;35230;ORGÈRES;299576246;686505136;;;;;;;non;;non;;tourne autour de 100 000 € achats sur une année / travail avec tout les distri sauf mafar / mail D.couapel@voila.fr / 11/05/15 n'a pas le temps, ne veux pas changer ses habitudes, ne souhaite pas etre recontacté
+;Coubrun Gael;;35450;;299498857;615931121;;;;;;;ar;;;;travail avec des partenaires locaux / distrilec par exemple / agenda rempli jjusqua la fin de l'année
+;Coudray Alain;15 R GRÈVES;35120;HIREL;299489476;;;;;;;;;;;;16/06/15 messagerie - 25/06/15 sa femme ne veut pas me donner son numero de portable / appeler en fin de semaine pour essayer de le joindre / j'ai expliquer à sa femme qui nous etions et je lui ai demander de transmettre a son mari
+;Couillard Nicolas (SARL);20 R PAUL VERLAINE;35500;VITRÉ;299742497;683151126;;;;;;;RDV 17/06/15;;;;ne pa retomber sur le principe de la COP / 26 rue des artisans Vitré / RDV 17H/ 17/06/15 ancien ims mais avait de meilleurs prix, comportement prétencieux, travail distrilec, surtout des distributeurs des alentours. Fait travailler le commerce local. Ne s'engage pas à chaud. N'avait pas l'air convaincu. - A recontacter jeudi 25/06 argumentaire spécial pour bien faire comprendre l dif entre IMS + cap achat et le faire signer
+;Coullier Stéphane;2 R JULIEN GRACQ;35690;ACIGNE;959373624;;;;;;;;;;;;
+;COUPEL ELECTRICITE;LA GARGOUILLÈRE;35320;SEL DE BRETAGNE (LE);299446065;614130317;;reynald.coupel@cegetel.net;;;;;;;;;www.coupel-electricite-bain-de-bretagne.fr
+;Courant (SARL);4 G R LIEUTENANT COLONEL DUBOIS;35000;RENNES;222934729;658360742;;;;;;;;;;;www.sarl-courant.fr
+;Courant (SARL);;35700;;222934729;658360742;;;;;;;;;AR septembre 2015;;travail en avec distributeur / activté  menuiserie chauffage electricité / travail avec YESSS Aubade / apeler le lundi 5 pour rdv / 07/05 j'ai laissé un message pour se recontacter / 12/05 laisse un message / 12/06/15 messagerie - 24/06/15 vu camion chez yess
+;Courroux Yvan;28 R RIANCOURT;35400;SAINT MALO;954249346;;;;;;;;;;;;
+;Courtin Thierry;;35630;;299454771;;;;;;;;;;AR;;secraitaire (ou se femme) fait barrage, elle dis que ca ne l'intéressera pas et que si on veux perdre notre temps, on peu rappeler plus tard Mr Courtin serat en déplacement plusieurs jours dans le mois de mai 2015
+;Couvert;R JULES CORVAISIER;35270;COMBOURG;299736002;608431588;;contact@reseau-proeco-energies.fr;;;;;;;;;www.reseau-proeco-energies.fr/artisan/couvert-combourg-35-421
+;Couvert Renaud;3 R ARMAND JOUAULT;35150;JANZE;664382577;664382577;;;;;;;arret ets;;arret ets;;messagerie / entreprise fermer
+;CPCS (Cesson Plomberie Chauffage Solaire);;35510;;299860887;;;;;;;;;;AR 16/04/15;;pas souvent au bureau mais presence entre 8h30 et 9h ou 17h30 et 19h
+;CPE Service;6 R GUÉMENÉ;44290;GUENOUVRY;678201344;;;contact@cpe-service44.fr;;;;;;;;;www.cpe-service44.fr
+;CPO;18 R CROIX DÉSILLES;35400;SAINT MALO;299190419;;;commerce@cpodist.com;;;;;;;;;www.cpodist.com
+;Crooson Jean Michel;CHEM MOULIN DU ROCHER;35800;DINARD;660611964;660611964;;;;;;;ligne occupé;;non;;messagerie
+;Cryofluide;LE GRAND CHEMIN ZI TURBANIERE;35530;BRECE;626943034;;;;;;;;;;;;
+;CSPE CORMIER;ROUTE DE LA CHAUSSAIRIE 2 IMP DU CLOS;35170;BRUZ;299579787;683371951;;cspecormier@wanadoo.fr;;;;;;;;;www.cormier-plombier-electricite-bruz.fr
+;CTFC (CENTRE TECHNIQUE FROID CHAUD);5 R PLANCHES;35170;BRUZ;683911590;;;;;;;;;;;;
+;CV Clim;ZAC CAP MALO AV PHARE DES BALUS;35520;MÉZIÈRE (LA);j.adeux@cv-clim.fr;y.rioual@c-igelec.fr;;jldelaborde@c-igeo.fr;;;;;299658080;;299856442;;
+;D.E.S.C.;LA POMMERAIE;22100;QUEVERT;296395736;689497922;;;;;;;;;;;
+;DA Plomberie Chauffage;40 BD OSCAR LEROUX;35200;RENNES;299778975;;;;;;;;;;;;
+;Daguin Electricité;MONFLON;35130;GUERCHE DE BRETAGNE (LA);299968687;;;;;;;;;;;;
+;Dahan Gérard;20 R AUVERGNE;35490;SENS DE BRETAGNE;964026088;;;;;;;;2015laissemessage;;;;parti en suisse sur un chantier / rappeler a la rentrée / ne travail pas dans un groupement laisser téléphone madame / 26/06/15 messagerie
+;Dalibot Bruno;;35230;;299051231;624972728;;;;;;;ligne occupé;;;;dérogation fabricant /
+;Dallemagne René;ZONE ARTISANALE CHAUVELIÈRE;35150;JANZÉ;299470313;;;;;;;;;;;;Mr Niel en congés, rentre semaine 18, grosse structure
+;Damon Vincent;;35370;;615903808;615903808;;;;;;;ims;;;;IMS
+;Dan'Elec;9 R FRANÇOIS RENÉ CHATEAUBRIAND;35340;BOUËXIÈRE (LA);299044156;;;danelec35@orange.fr;;;;;;;;;www.dan-elec-bouexiere.fr
+;Dan'Elec;9 R FRANÇOIS RENÉ CHATEAUBRIAND;35340;BOUËXIÈRE (LA);299044156;;;danelec35@orange.fr;;;;;ims;;ims;;IMS
+;DARRIOT ANDRE ELECTRICITE;12 PL DU BOURG;35160;VERGER (LE);626728246;626728246;;;;;;;non;;non;;09/07 ne veut pas entendre parler groupement d'achats
+;Dartois Georges;R FONTENELLES;35360;MONTAUBAN DE BRETAGNE;299064905;299065805;;;;;;;;;;;
+;Daugan Christian;PERRAY;35630;IFFS (LES);299681073;;;;;;;;;;;;
+;David (SARL);1 PARC LES LIZARDAIS;35390;GRAND FOUGERAY;299084273;;;;;;;;;;;;
+;David (SARL);25 AV GÉN PATTON;35470;BAIN DE BRETAGNE;299448334;;;;;;;;;;;;
+;David Anthony;5 R BINTINAIS;35230;NOYAL CHÂTILLON SUR SEICHE;299530210;;;;;;;;non;;non;;ne travail pas avec un groupement / sa femme lui transmet le message / AR - Barrage de sa femme, prochaine fois, juste dire que nous rappeleron (et rappeler jusqu’à l'avoir au téléphone) 22/06/15 - 24/06/15 vu camion chez cedeo
+;David Carree;;;;299647972;;;;;;;;;;;;
+;David Louis (EURL);30 R DES DÉPORTÉS;35720;SAINT PIERRE DE PLESGUEN;223162069;663018149;;;;;;;non;;;;doit rappeler / raccroche au nez et ne décroche plus
+;David Maupoint (EURL);9 R JEAN BAPTISTE GUERIN;35740;PACÉ;299606865;609237873;;;;;;;;;;;WWW
+;David Maupoint (EURL);9 R JEAN BAPTISTE GUERIN;35740;PACÉ;299606865;609237873;;;;;;;;;contact AR 1 semaine de juin;;en déplacement dans la manche / 06/07/15 messagerie - ne prend plus de RDV avant la rentré septembre
+;Davy (SARL);ZONE ARTISANALE ORME R INDUSTRIE;35730;PLEURTUIT;299884376;;;;;;;;;;;;
+;Davy Marc;LE CHÊNE AUVESQUE;35160;BRETEIL;299060888;;;;;;;;;;;;
+;De Kerma (SARL);8 R DE RENNES;50170;PONTORSON;233601105;;;;;;;;;;;;siteclient
+;De Mouilpied Michaël;LIEU-DIT MONTIGNÉ;35560;BAZOUGES LA PEROUSE;299183850;;;;;;;;;;;;
+;De Mouilpied Michaël;;35560;;299183850;650573088;;;;;;;parle pas français;;;;
+;Débéa;3 AV HENRI FRÉVILLE;35200;RENNES;620271274;;;;;;;;;;;;
+;Debray Alexandre;LA BOUÈRE;35480;SAINT MALO DE PHILY;603572103;;;;;;;;;;;;
+;DEC (SARL);1 SQ DOCT GUÉRIN;35000;RENNES;299380303;299388221;;dec35@wanadoo.fr;;;;;;;;;www.dec-chauffage.com
+;Déca plomb';LA BETINIERE;35220;SAINT DIDIER;672870039;;;;;;;;;;;;
+;Decavèle Marc;5 R BARENTON;35160;BRETEIL;677532318;;;;;;;;;;;;
+;DECLI'C ELEC SERVICE;8 R COMMDT CHARCOT;35131;CHARTRES DE BRETAGNE;299776392;;;;;;;;;;;;j'ai eu sa femme, appeler vers 18 h pour joindre le gérant
+;Decroi Yannick;;35400;;299817424;;;;;;;;;;;;secraitaire fais barrage
+;Delacour Jean-Charles;LA LOUVIÈRE;35170;BRUZ;299050015;608841012;;;;;;;;;;;11/05/15 - mauvais numéro de portable  messagerie fixe - 12/05/15 messagerie - 13/05/15 messagerie - 16/06/15 messagerie fixe
+;Delalande Hubert;22 R FOSSE GAUCHÈRE;35770;VERN SUR SEICHE;299627155;666707768;;;;;;;42039;;non;;CDO
+;Delalonde Sébastien;;53220;;243059406;;;;;;;;AR début juin;;;;IMS mais patron de sanifluides du coglais, à contacter pour reprise de sanifluides
+;Delamarre Claude;;35400;;299567087;;;;;;;;;;retraite ;;retraite
+;Delbert Franck;;35400;;299195403;;;;;;;;;;Arret;;messagerie
+;DELEC;;35400;;299213960;;;;;;;;;;non;;numéro non attribué
+;Delepine Emmanuel;6 R DOCT REGNAULT;35000;RENNES;626643981;626643981;;;;;;;arret ents;;arret ents;;messagerie pas disponible rappeler plu tard / 18/04 messagerie / 06/05 messagerie direct
+;Delesgues Patrick;17 R NATHALIE LEMEL;35000;RENNES;256516637;;;;;;;;mauvais numero;;mauvais numero;;mauvais numero
+;Delienne Elec;22 PLACIS NOES;35520;MONTREUIL LE GAST;299550953;645670199;;;;;;;lundi 23/02/15 chantier;;;;fixer rendez-vous  / ravail avec yesss / aucun des partenaires en plomberie / 
+;Deloraine Florian;2 R CHAPELLE SAINT DENNERY;35430;CHÂTEAUNEUF D' ILLE ET V.;668063005;;;;;;;;;;;;
+;Delorme Chauffage Plomberie;;35000;;625171687;625171687;;;;;;;gapc;;GAPC35;;GAPC 35 / groupement a but non lucratif / récupère leur cotisation au bout de 5 ans /
+;Delourmel Bernard;8 R GALERNE;35850;ROMILLE;977926347;299232775;;;;;;;;;non;;
+;Demare Serge;BÂT B AUTOENTREPRENEUR 2 SQ AMBROISE PARÉ;35890;LAILLE;612967278;;;;;;;;;;;;
+;Demasse Marc;15 R COURTILS;35630;HEDE BAZOUGES;299628571;689095972;;;;;;;;;non;;a la retraite depuis le debut de l'année
+;Demay Loïc (SARL);4 R DENIS PAPIN;35230;SAINT ARMEL;299627293;;;;;;;;;;;;
+;Demé Christian;LA BÉNARDIÈRE;35380;SAINT PERAN;299068367;606409894;;;;;;;RDV 27/04/15;;AR 11/05/15;;Auto entrepreneur depuis 2012, formation d'éléctricien, à crée une SCI avec un ami, fait du locatif, à plusieurs activités, voulais absoluement voir les tarrifs, sans meme signer de contrat. Pas intéréssant.  travaille avec Mafart / CDL / Yess
+;Deniel & fils (SARL);ZONE ARTISANALE LA CROIX;22350;YVIGNAC LA TOUR;296860800;;;;;;;;;;;;
+;Denieul menuiserie;;35890;;299424073;632653508;;;;;;;;;;;vu camion legallais
+;Denoual Adrien;LA CROIX VERTE;35220;SAINT DIDIER;623608691;623608691;;;;;;;2015laisse message;;;;rappeler en septembre / travail electricité menuiserie / travail avec beauplet et nos partenaires elec / 60 000€ d'achats sur la partie elec
+;Denoual Electricité Générale;LIEU-DIT TRESOLEIL;35190;SAINT THUAL;299668472;688560510;;;;;;;message 26/03/15;;AR fin juin;;sébastien Denoual - déroguation sur shneider courant abb / pas d'interret - nous prend pour des représentants, n'a pas le temps etc… AR en mai - 26/06/15 messagerie - 30/06/15 messagerie - 02/07/15 messagerie
+;Denoual Entreprise;;35000;;686006979;686006979;;;;;;;;;;;15/06/15 secrétaire a pris mes coordonées
+;Denoual Ludovic;;35500;;686323663;686323663;;;;;;;message;;;;12/06/15 denoual ludovic - 25/06/15
+;Dépan. Brière Gerard;14 R LILAS;35137;BEDEE;663231254;;;;;;;;;;;;
+;Dépannage 2000;1 R CHARLES NICOLLE;35760;SAINT GRÉGOIRE;299322000;676779826;;;;;;;;;pls;;
+;Depannage Chauffage Hulin;5 R ACACIAS;35310;MORDELLES;760694192;;;;;;;;;;;;
+;Dépannage Pannetier Brahim;43 R ANJOU;35370;ARGENTRE DU PLESSIS;299750276;785634845;;;;;;;rdv 17/06/15;;AR janvier 2016;;Racheté par Gaetan Brahim Ben Amar - rdv 17/06/15 travail avec cedeo majoritairement et cider. Ne pense pas avoir besoin de nous pour l'instant car entre dans sa deuxième année et n'a pas encore trouvé son rythme. Très grosse première année, 170 Ke de CA. 
+;Desbois Dépannage;13 R OUESSANT;35760;SAINT GREGOIRE;299688859;;;sarldesbois@orange.fr;;;;;;;;;www.desbois-depannages.fr
+;Desevedavy Thierry;6 R VILLIERS DE L'ISLE ADAM;35770;VERN SUR SEICHE;299621196;;;;;;;;;;;;
+;Deshoux Franck;;35380;;299068959;628047750;;;;;;;;;Adhérent CAP ACHAT au 08/07/15;;17/06/15 messagerie - RDV mardi 23/06/15 - AR - n'a pas signé car très préssé mais m'as dis qu'il allait s'inscrire / 06/07/15 messagerie - 08/07 inscription aujourd'hui normalement sinon rappeler pour savoir ce qu'il c'est passé, demander si nous avions bien expliquer  / devenu adhérent dans l'après midi
+;Desloges Cyril;LE PETIT MONT NOËL;35460;MONTOURS;299185774;699007611;;;;;;;RDV 05/05/15;;;;messagerie
+;Desnos Erwan;LE CHAMPROU;35350;SAINT MELOIR DES ONDES;661262840;661262840;;;;;;;;;;;06/05/15 messagerie - 13/05/15 messagerie - 17/06/15 messagerie - messagerie 19/06/15 - 25/06/15 messagerie
+;Despres Samuel;2 ALL BOSQUET;35500;BALAZE;676405452;676405452;;;;;;;non;;;;petite structure / mail  despres.samuel@gmail.com / travail chez YESSS et distrilec/ argument  ne travail qu'en electricité avec 2 fournisseurs et cap achat peut etre une ouverture si un jour il désire etendre son activité / hésite a cause des partenaires
+;Desrues - Guinard et Associés;20 R CROIX DESILLES;35400;SAINT MALO;299820303;;;;;;;;;;;;
+;Detoc Robert;LE PONT BRETON;35310;BREAL SOUS MONTFORT;299605933;;;;;;;;;;non;;Va prendre sa retaite
+;DG Plomberie (Sarl);15 R DOUVES;35370;TORCE;967468486;;;;;;;;;;;;
+;Dianemo;13 R LOGES;35135;CHANTEPIE;299622529;617136904;;;;;;;RDV22/01/2015;;AR  septembre 2015;;rapeler fin de semaine car sur un chantier / jeudi ou vendredi / travail avec rexel / AR en septembre et prendre rdv /  voulais monter un reseau / nous avons discuté longtemps mais n'était pas près a signer
+;DILAMMAT;LD BEZALAIS;35230;NOYAL CHATILLON SUR SEICHE;621224680;;;;;;;;;;;;
+;DIM' ELEC;LA BOUGUENAIS;35136;SAINT JACQUES DE LA LANDE;669223454;669223454;;;;;;;RDV 25/06/15;;;;occupé en ce moment, AR début juin- 22/06/15 rendez vous le mercredi 24/06/15 - n'est pas venu au rdv / probleme de genoux / 06/07/15 rdv le 07/07 à 14H chez lui. - 07/07/15 formulaire resque rempli, semble bien partant. Il faut attendre u'il termine l'inscription  / 10/07 renvoyer un petit message mercredi prochain si il ne fait pas l'inscription car il part en weekend 
+;Dipp Elec;13 R VIEUX CHÊNE;35510;CESSON SÉVIGNÉ;615345303;615345303;;;;;;;non;;non;;Appeler debut septembre pour se rencontrer / deborder tout le mois d'aout / est venu au siege en fevrier
+;Dism & Ram;30 R BOURBONNAIS;35000;RENNES;299073922;;;;;;;;;;AR;;messagerie  vacances scolaires
+;DLF 35;ZAC AIRLAND R JACQUELINE AURIOL AIRPARC 3;35136;SAINT JACQUES DE LA LAND;673342847;673342847;;;;;;;2015;;AR fin 2015/ début 2016;;Hesite a entrer dans un groupement / mail  info@dlf35.fr / approché par GAPC35 / trè occuper cette semaine / Lundi 19 à 8H30 - 29/06/15 pas le temps, court partout, un salarié en vacances semaine prochaine. En pour parler pour fusionner 2 entreprises, se souvient qu'on l'a contacté mais n'a pas le temps de voir ca. AR fin 2015 début 2016 pour savoir ou en est la fusion.
+;Dlp Elec;FREVAL;35550;BRUC SUR AFF;666620210;;;;;;;;;;;;
+;DM Electricité;13 SQ SETUBAL;35200;RENNES;0223307763 ou 0223367763;681071726;;;;;;;contrôle;;contrôle;;travail avec rexxel socolec  / rappeler fin juin pour rendez-vous / rappeler mardi pour rendez vous / rendez vous mercredi 9 à 18H - 24/06/15 vu camion chez socolec
+;Dom et lux;2 ZI LA JANAIE 60 RUE AUGUSTE PAVIE;35240;RETIERS;299477693;;;;;;;;;;;;acheteru mr yannick… travaillent avec rexel, maillard aubade, distrillec
+;Dom-elec;;35550;;632528493;632528493;;;;;;;;;;;mauvauis num
+;Domo Plus;LE CLOS CARRÉ LE TRONCHAY;35250;SAINT SULPICE LA FORET;223274658;672385394;;;;;;;;;AR mi-juillet;;70 000 € d'achats / fonctionne avec appel d'offre - AR le 6 juillet pour un rendez vous / achete chez leroi merlin/ 06/07/15 part en vacance 3 semaines, AR debut Aout
+;Domotycité;4 PL ST GERMAIN;35000;RENNES;951097933;662242346;;;;;;;non;;non;;messagerie pas disponible rappeler plu tard / 18/04 a déjà rencontré cap achat /  ne désire pas changer ses habitudes de conso
+;Dos Santos José;22 R LORIENT;35000;RENNES;630505679;;;;;;;;;;;;
+;DOUET (EURL);ZA DE MELESSE R JULES CORVAISIER;35270;COMBOURG;299736002;;;;;;;;;;;;16/06/15 messagerie - abcent appeler le soir
+;Douet Dominique;10 BIS R MAR LECLERC;35870;MINIHIC SUR RANCE (LE);299885842;668460671;;;;;;;;;AR debut septembre 2015;;Depuis 32 ans, prend sa retraite en septembre, va proposer a son fils de reprendre ou a son salarié
+;DPC Delorme Plomberie Chauffage;11 R BASCULE;35000;RENNES;299592192;625171687;;;;;;;;;;;
+;DS Chauffage;LE TERTRAIS;35720;PLEUGUENEUC;677770979;677770979;;;;;;;;;;;mauvais numero
+;DT ELEC;LA GALAICHERIE;35530;NOYAL SUR VILAINE;661116753;661116753;;;;;;;AR MESSAGE;;;;messagerie - messagerie 18/06/15 - 22/06/15 pas interesser pour se rencontrer 
+;Dubois Pierre;LE PONT DOUET;35590;HERMITAGE (L');299640305;699085860;;;;;;;;;Arret ets;;prestation de services donc trè peu d'achats
+;DUBOSCQ PLOMBERIE (SARL);5 QUENON;35250;CHEVAIGNÉ;650619293;650619293;;;;;;;;;;;fréderique Duboscq messagerie / 12/05 messagerie - 12/06/15 messagerie - 15/06/15 messagerie - 19/06/15 Pas intéréssé pour le moment
+;Ducloyer Pascal;LA BLANDINAIS;35660;CHAPELLE DE BRAIN (LA);610224788;610224788;;;;;;;;;;;
+;Dudelec 35 (SARL);2 R POSTE;35540;MINIAC MORVAN;659449836;;;;;;;;;;;;
+;Dufil (SARL);;35310;;966403326;299642788;;;;;;;;;;;17/06/15 messagerie- messagerie 19/06/15 - 22/06/15 messagrie - 25/06/15 mesagerie
+;Dufrien Loïc (Société);60 BIS R FONTAINE AUX PÉLERINS;35400;SAINT MALO;299560371;;;;;;;;;;;;AR mardi dans la matiné, joindre Mr Dufrien
+;Dugué Chauffage (EURL);14 R MÉTIERS;35160;BRETEIL;665368877;665368877;;;;;;;?;;;;yannick dugué 15/06/15 messagerie 16/06/15 messagerie - messagerie 19/06/15 - 22/06/15 messagerie - 24/06/15 messagerie directement - 25/06/15 messagerie
+;Duguet Trielec;ZAC LA VILLE ES PASSANT II 78 BD JULES VERGER;35801;DINARD CEDEX;299466056;;;;;;;;;;;;www.electricite-duguet-trielec.fr
+;Duovolt (SARL);8 R COQUELICOTS;35320;PETIT FOUGERAY (LE);646741211;;;;;;;;;;;;
+;Dupré (SARL);1 R CHAUVIÈRE;35133;SAINT GERMAIN EN COGLÈS;299954509;;;;;;;;;;;;secraitaire, AR jeudi matin avant 10h 30/04/15
+;Duval Philippe;LA THEOTIERE;35390;SAINTE ANNE SUR VILAINE;299085431;;;;;;;;;;;;
+;Dy Alexandre;11 T R PETIT FOUR;35800;DINARD;299167464;681825707;;;;;;;;;gapc;;
+;Dy et Fils (SARL);11 TER R PETIT FOUR;35800;DINARD;299167464;681825707;;;;;;;;;;;www.dyalexandre.fr
+;Dynamo;8 R LA VILLE GEFFRAY;56490;EVRIGUET;615545963;;;;;;;;;;;;
+;E Elec;LA HANTARDAIS;35380;MAXENT;603387696;603387696;;;;;;;non;;;;froid et semble pas interresser / travail avec socolec et CSO
+;E P B (Electricité Plomberie Bainaise);ZI CHÂTEAU GAILLARD;35470;BAIN DE BRETAGNE;299448335;;;;;;;;envoi mail pour rdv;;;;secretaire mme kelo / ne sait pas grand-chose / demande a son mari si ils connaissent / chercher a joindre le responsable / rappeler en fin de semaine / Mr levoyer difficil a joindre AR septembre
+;E. Thermie Ingenierie;ZA DES 3 PRÈS 9 R PLAINE;35890;LAILLE;296011208;;;;;;;;;;;;
+;E.C.D;13 B R SOLEIL;35320;CREVIN;299424219;;;;;;;;;;;;messagerie
+;E.C.P.S Cormy;LES GRÉES DE PÊCHE RTE GUERCHE DE BRETAGNE;35640;MARTIGNE FERCHAUD;299479380;;;;;;;;;;;;
+;E.G.A.O Electricité;20 LA BELLENAIS;35270;TRÉMEHEUC;647258587;647258587;;;;;;;rdv28/01/2015 chantier;;;;inetrresser pour se rencontrer  / en déplacement pour 2 semaine en normandie / contacter fin juin / travail avec socolec principalement 28/05/15 en déplacement pour 2 semaine en normandie / contacter fin juin - 23/06/15 2 semaines en normandie, ar mi juillet
+;E.G.D (Electricité Générale Diguet);COUÉRY;35330;SAINT SÉGLIN;299345920;;;;;;;;;;;;messagerie
+;E.G.T.R;28 R ST LAMBERT;35310;CINTRÉ;964108607;650762331;;;;;;;;;;;Pas dispo avant fin de semaine prochaine rappelelr pour prendre rendez-vous / beaucoup en déplacement / thoerry romari / RDV vendredi 11 à 14H
+;E.L.P.C.;9 R BEDORIERE;35440;MONTREUIL SUR ILLE;671547962;671547962;;;;;;;42024;;cap achat;;messagerie / M Alexi Lefèvre
+;E.R.I.C Dépannage;LA VILLE ES ROLAND;35360;MEDREAC;660488779;660488779;;;;;;;non;;;;plus a son compte
+;Easy Ballon;19 R LANDELLES;35510;CESSON SEVIGNE;222932070;;;;;;;;;;;;
+;Ec Elec 35;187 BD ST J B DE LA SALLE;35000;RENNES;649239866;649239866;;;;;;;;;;;rappeler a 18h00
+;EC Thermie (EURL);ZONE ARTISANALE DU MOULIN RUE DU PUISATIER;35310;CINTRÉ;299221511;670804289;;;;;;;gapc;;;;GAPC35
+;Eco-bio Concept Diffusion;ZA LES GRANDES LANDES 6 R LAËNNEC;35580;GUICHEN;223501481;;;;;;;;;;;;
+;Ecomotic;LIEU-DIT BOUTREUILLE;35190;SAINT DOMINEUC;632017433;632017433;;;;;;;rdv 4/11/2014;;NON;;très bon contact / travail avec rexel cso et socolec / pense etre environ a 10 000€ d'achats sur l'année / envoyer unn mail  ecomotic@ecomotic.fr / j'ai eu le temps de lui présenter le réseau + groupement d'achats / 
+;Ecoter;11 AV BELLEVUE;35235;THORIGNE FOUILLARD;223275042;;;;;;;;;;;;
+;E-g-f-b- Electricite Generale;5 R LAVOIR;35460;COGLES;610977788;610977788;;;;;;;;;;;Faux numéro
+;EGPJ ELEC GEN PIQUET JOUBAIRE ;;56380;;;650936575;;;;;;;;;;;vu camion chez yess et mafart - Aurelien JOUBAIRE
+;EI BOSCHER MAURICE;2 A R MAIRIE;35120;ROZ LANDRIEUX;618053512;618053512;;;;;;;non;;non;;contact en double dans le fichier / pas interresé
+;EIC BAT;18 R TANNERIES;35390;GRAND FOUGERAY;695142525;695142525;;;;;;;;;;;17/06/15 messagerie
+;Eiffage Energie Thermie Ouest;8 R OUESSANT;35760;SAINT GREGOIRE;299688585;;;;;;;;;;;;
+;EIMI (Etude Installation Maintenance Industrie);50 BD HAIE DES COGNETS;35136;SAINT JACQUES DE LA LANDE;299351148;;;;;;;;;;;;
+;Ekoelec (Entreprises D'electricite Generale;42 R LOUIS PÉTRI;35200;RENNES;954046735;;;;;;;;non;;non;;déjà leurs fournisseurs, pour l'instant ca ne va vraiment pas les intérésser
+;Elcom;R JEAN GABRIEL COQUIO;35740;PACE;299856030;;;;;;;;;;;;
+;ELDM;12 BIS R BELLE ECUELLE;35760;SAINT GREGOIRE;783482512;;;;;;;;;;;;
+;Elec 35;LIEU-DIT LA GRAVELLE;35510;CESSON SÉVIGNÉ;625367277;625367277;;;;;;;contrôle;;contrôle;;messagerie / ligne tempo / impossible a joindre
+;Elec Confort;PARC D'ACTIVITÉ DE LA HAUTE MADELEINE 9 R DE L'HERMINETTE;35350;SAINT MÉLOIR DES ONDES;299562249;;;;;;;;;;;;messagerie  06/05/15 messagerie - 13/05/15 messagerie - messagerie 19/06/15 - 25/06/15 messagerie
+;Elec Création 35;THELIN;35380;PLELAN LE GRAND;633452722;633452722;;;;;;;;;;;travail avec YESSS / rappeller la semaine du 9 juin pour prendre rendez-vous / appeler lundi 23 pour rdv
+;Elec Energies Equipements Communicants;31 R JANNAIE;35520;CHAPELLE DES FOUGERETZ (LA);299132803;;;;;;;;;;AR;;11/05/15 messagerie - 12/05/15 messagerie - 13/05/15 messagerie - messagerie 22/06/15 - 25/06/15 messagerie
+;Elec Service;ZONE ARTISANALE TROIS PRÉS;35890;LAILLE;299425242;;;;;;;;;;AR semaine prochaine;;rappeler le matin de bonheur pour joindre le gérant
+;ELec'Chauf (EURL);8 R DE L'HERMINETTE;35160;MONTFORT SUR MEU;299091108;299092132;;;;;;;;;;;
+;Elecphone;CTRE ARTISANAL LOUAI 15 BD FRANKLIN ROOSEVELT;35200;RENNES;299856434;781453968;;;;;;;2015rdv21/01 - envoi mail avec lien page adhésion cap achat;;AR 3ème semaine de juillet;;rencotré lors d'un salon je créer ma boite avec la CCI / pour le moment n'est P I - Mr Leborgne 22/06/15 plein plein plein, ne prend plus de rdv pas le temps de nous recevoir sur chantier. AR 3ème semaine de juillet
+;Elect' pann;6 R SIMONE DE BEAUVOIR;35230;NOYAL CHATILLON SUR SEICHE;686552345;686552345;;;;;;;pls nantes;;non;;trè mauvaise reception du tel / je ne comprenais pas ce qu'il me disait / AR yesss rexel cso - 22/06/15 pas le temps
+;Electre Th.L;1 R D'ARTOIS;35131;CHARTRES DE BRETAGNE;685280779;685280779;;;;;;;arrete ets;;arret ets;;Interresser mais veut absolument un base tarrifaire / veut obtenir nos prix interet pour logiciel car paye cher sa mise a jour
+;Electricien multiservices (Auto entrepreneur);26 LE DOMAINE;35580;GUICHEN;299520318;;;;;;;;;;;;
+;Electricite Cohaut David;13 BIS R SOLEIL;35320;CREVIN;626342455;626342455;;;;;;;;;AR 29/06/15;;vacances semaine 26 
+;Electricité de l'Ouest (EDO);LA VILLE POILLEVÉ;35137;NOUAYE (LA);963585378;;;;;;;;;;;;16/05/15 messagerie - 29/06/15 messagerie
+;Electricité du Couësnon;LE LIÈVRE;35560;FONTENELLE (LA);299983220;;;;;;;;;;;;
+;Electricité Générale Azé Christian (Sarl);;35131;;299524201;;;;;;;;RDV 19/05/15;;AR debut septembre 2015;;Part en retraite dans 1 an, cherche repreneur depuis 3 ans, ne souhaite pas rentrer dans un groupement maintenant mais accepte de nous rencontrer pour lui trouver un repreneur - 04/06/15 prétend avoir 3 demandeur pour le batiment. AR dans 3 mois
+;Electricité Générale Lefeuvre;12 R GUSTAVE EIFFEL;35230;NOYAL CHÂTILLON SUR SEICHE;299651884;;;;;;;;;;;;www.lefeuvre-electricite.fr
+;ELECTRICITE GULLIENT;7 R ROCHELETTES;35133;LECOUSSE;299997669;;;;;;;;;;;;Bizzare, ne veux pas accorder de temps a quiconque, va parler de nous chez CDL pour savoir s'ils nous connaissent
+;Electricité J-L Elec (SARL);;35120;;299800548;;;;;;;;;;;;16/06/2015 messagerie - 24/06/15 messagerie
+;Electricité Lemoine;2 R DES ECOTAIS;35200;RENNES;299531497;610911526;;;;;;;2015laissemessage;;;;occuper lors de l'appel / travail en direct / a un collegue qui fait parti d'un groupement / rappeler en demandant si il a eu le temps d'en parler avec son collegue / en arret maladie 
+;Electricité Manuel Michel (SARL);1 R MAIRIE;35160;MONTERFIL;299079782;;;;;;;;;;;;16/06/15 messagerie -messagerie 19/06/15 - 25/06/15 messagerie
+;Electricité Ménard Lainé;21 R JANAIE;35400;SAINT MALO;299811285;;;;;;;;;;;;
+;Electricité Moigneu;341 R DE NANTES;35136;SAINT JACQUES DE LA LAND;299304592;;;;;;;;;;;;
+;Electricité Plomberie Chauffage installation;;;;;;;;;;;;;;;;vu camion mafart
+;Electricité Rennaise;LE BAS LEPINAY;35137;BEDEE;299061624;607142442;;;;;;;NON;;;;travail avec socolec / seul dans son entreprise / dérogation hager  / un peu  occuper en ce moment / rappeler fin du mois pour prendre un rendez vous et signer le contrat  / veux tester le catalogue / 04/07 changement d'avis  ne pose que du hager / sur la région depuis 30 ans / veut recevoir des prix / mail  electricitérennaise@wanadoo.fr
+;Electricite Securite Du Coglais;LA BOURDONNIÈRE;35460;MONTOURS;619991811;;;;;;;;;;;;
+;Electricite Securite Du Coglais;LA BOURDONNIÈRE;35460;MONTOURS;299977614;619991811;;;;;;;;;;;Travail en sous traitance en ce moment, lui envoyer un mail car prèfère savoir ce qu'on lui propose au lieu de perdre du temps à nous écouter
+;Electricité Sévigné;16 R GRAND DOMAINE;35510;CESSON SEVIGNE;299831124;;;;;;;;arret ets;;arret ets;;retraite
+;Electrik Concept;1 R NOISETIERS;35850;PARTHENAY DE BRETAGNE;619866504;619866504;;;;;;;2015laissemessage;;;;principalement prestation de service / achete chez rexel et sur internet (grossiste indépendant) / ne fat pas8000€ d'achats sur une année
+;Electro 2000;27 R JEAN BART;35300;FOUGERES;977928795;;;;;;;;;;;;
+;Electro meca fluid;PL GRANIER;35571;CHANTEPIE;687157485;687157485;;;;;;;AR;;;;sonne dans le vide
+;Electrom Services (SARL);6 R LEGUEN DE KERANGAL;35200;RENNES;608053570;608053570;;;;;;;arret;;arret;;messagerie / ligne tempo / impossible a joindre
+;ELECTROMAGNETIQUE.COM;ZA DE LA HAUTIÈRE 3 R TERTRAIS;35590;HERMITAGE (L');299641168;;;;;;;;;;;;entreprise de service et diagnostique 
+;ELECT'SERVICE;LA GRIMAUDAIS;35330;MAURE DE BRETAGNE;299345158;613982105;;;;;;;2015laisse message;;;;a la retraite dans 1 an et demi / ne sait pas si il y aurat un repreuneur / rappeler pour voir l'évolution de la situation dans 2 ou 3 mois
+;Elitis;2 ALL PLANCHE FAGLINE;35740;PACE;299856651;670327201;;;;;;;;;AR;;11/05/15 messagerie - 12/05/15 renouvler appel semaine prochaine
+;ELM Proxiserve Réparateur agréé;19 R DES LANDELLES;35510;CESSON SÉVIGNÉ;222932071;;;;;;;;;;;;agence.proxiserve.fr/247895-proxiserve-rennes
+;Elor;;35652;;629923535;629923535;;;;;;;;;;;AR semaine pro 18/06/15 - AR semaine prochaine 22/06/15
+;Emc Renov;ZA DES TARDIVIERES 13 IMP EBRANCHOIR;35160;MONTFORT SUR MEU;299074133;;;;;;;;;;;;16/06/15 messagerie - messagerie 19/06/15 - 25/06/15 messagerie 
+;Emeraude Chauffage Plomberie;737 BD SAINT CAST;35800;SAINT LUNAIRE;686791184;686791184;;;;;;;coopérative;;coopérative;;coopérative
+;Emeraude Concept Systèmes (SARL);LA CHAPELLE DE LA LANDE;35430;SAINT JOUAN DES GUERETS;299195094;;;;;;;;;;;;entreprise de télégestion / ce n'est pas un electricien
+;Emeraude Propreté Service Lanoë (EPS);;35730;;299466189;;;;;;;;;;AR sept 2015;;13/05/15 - en pleine saison, grand rush ar en septembre 2015
+;Emeraude Solaire;6 R BRÉGEONS;35400;SAINT MALO;299817850;607982084;;;;;;;;;non;;
+;Emile Christophe;BELLE PERCHE;35550;SIXT SUR AFF;299700558;;;;;;;;;;;;
+;EMS Protek;LA SOULIÈRE;35540;PLERGUER;299589043;689264843;;;;;;;;;;;numéro non attribué
+;ENEH20 (Eurl);10 R CYTISES;35450;LANDAVRAN;299498857;615931121;;;;;;;;;;;
+;Ener 24;2 R MABILAIS;35000;RENNES;811240024;;;;;;;;;;;;
+;Energia Engie;9 BIS R LA CROIX IGNON;35310;MORDELLES;299339805;;;;;;;;;;;;
+;ENERGIE & CO;1 BIS R OUESSANT;35760;SAINT GREGOIRE;299252177;;;;;;;;;;;;
+;Energie Plomberie;1 R PRÉ ROBIN;35250;SAINT AUBIN D'AUBIGNÉ;689279299;689279299;;;;;;;cap achat;;cap achat;;il se demande si il ne va pas fermer son entrerpise / plus de chantier / trésorerie mauvaise … - adhérent
+;Energie Systeme Innovation;48 R MARTIN PÊCHEUR;35690;ACIGNE;950787460;;;;;;;;;;non;;pas intéréssé
+;Energies Eco;50 AV MOKA;35400;SAINT MALO;299564733;;;;;;;;;;;;
+;Energiezh;29 R RENNES;35590;HERMITAGE (L');299641144;;;;;;;;;;;;
+;Energos Industries;19 R DOCT LAENNEC;35550;PIPRIAC;659447215;;;;;;;;;;;;
+;Enersud;8 AV HENRI FRÉVILLE;35200;RENNES;299509551;;;;;;;;;;;;
+;Engie Réseaux (SA);12 AV HENRI FRÉVILLE;35200;RENNES;299222801;;;;;;;;;;;;
+;ENRCI;;35460;;299956394;;;;;;;;;;;;numéro non attribué
+;Entreprise Berthelot;ZONE ARTISANALE DE L'ORME;35730;PLEURTUIT;299884649;;;;;;;;;;;;
+;Entreprise Bobet Eric (EURL);;35230;;299422664;;;;;;;;gapc;;gapc35;;gapc35
+;Entreprise Caillot Potin;3 R LOUIS DELOURMEL;35230;NOYAL CHATILLON SUR SEICHE;299860286;;;;;;;;;;;;
+;Entreprise Cayre;1 R LÉEZ;35610;PLEINE FOUGERES;299486604;;;;;;;;;;;;
+;Entreprise Colombel Loic;235 LAUNAY LA PORTE;35310;BREAL SOUS MONTFORT;619967110;619967110;;;;;;;;;;;accident de travail depuis décembre 2013 / medecins ne savent pas quand il purra retravailler
+;Entreprise Costard (SARL);LA COTERAIS;35120;BOUSSAC (LA);299800662;;;contact@entreprisecostard.fr;;;;;;;;;www.entreprisecostard.fr
+;Entreprise Courtin Thierry;6 R BARRIÈRE;35630;HÉDÉ;299454771;299454242;;;;;;;;;;;
+;Entreprise Dagnaud;LE CLOS DU BIGNON;35600;BAINS SUR OUST;299917206;;;;;;;;;;;;AR vers 13H30 pour joindre le directeur / travail avec mafar / entreprise de 6 salariés / 12/06/15 messagerie
+;Entreprise E. Belliard;LA GOMBAIS;35310;MORDELLES;680444626;680444626;;;;;;;non;;;;mauvais numero / orange vous previens que le correspondant ne peut etre joint
+;Entreprise Hubert;9 LOT FOSSE PIQUET;35600;BAINS SUR OUST;625942630;625942630;;;;;;;;;;;messagerie 18/06/15
+;Entreprise Hulbert Jacques;ZAC VILLE ES PASSANT R ISSAC NEWTON;35800;DINARD;299462746;;;;;;;;;;non;;sympathique mais pense avoir les meilleurs prix du marché
+;Entreprise Jahier Jean-Claude;13 ALL CLOS MARGOT;35590;SAINT GILLES;299646729;;;;;;;;;;AR;;Une femme, rappler en fin de soirée pour joindre Mr Jahier
+;Entreprise Joel Huet;PL BOISOUZE;35400;SAINT MALO;299812762;;;;;;;;;;Gapc;;gapc
+;Entreprise jouaux;;35150;;689959858;689959858;;;;;;;arret ents;;arret ents;;plus a son compte depuis 3 ans
+;ENTREPRISE JOUBREL;3 R CORDIERS;35160;MONTFORT SUR MEU;299090110;;;;;;;;;;;;sonne sans fin
+;ENTREPRISE LE COURTOIS THIERRY;17 R BERTHE MORISOT;35310;CINTRE;299609066;;;;;;;;;;;;
+;Entreprise Le Louarn;;35400;;299811131;;;;;;;;;;non;;racheter par le goupe brunet
+;Entreprise Le Roux-Lebret;29 LA ROGERAIS;22490;TRÉMÉREUC;296881037;673928923;;;;;;;;;;;
+;Entreprise Lemoine Pierrick;15 R CHAMP MORIN;35360;MONTAUBAN DE BRETAGNE;299611629;;;;;;;;gapc;;;;GAPC 35
+;Entreprise Letel;2 R GASCOGNE;35520;MONTREUIL LE GAST;788022158;;;;;;;;;;;;
+;Entreprise Lodé Bodin (SARL);27 R ANATOLE LE BRAZ;35300;FOUGÈRES CEDEX;299944242;;;;;;;;;;;;
+;Entreprise Lonchamp;;35690;;299622197;;;;;;;;;;;;09/06/15 messagerie
+;Entreprise Monnier;LA CROIRIE;35440;GUIPEL;630407840;;;;;;;;;;;;
+;Entreprise Paris;AU FIL DE L EAU 8 AV GARE;35250;SAINT GERMAIN SUR ILLE;299555640;;;;;;;;;;;;anciennement dans une entreprise de 70 personnes, travail en direct avec les distributeurs, connait bien les prix d'achats qu'il peut obtenir chez les fournisseurs, ne vois pas ce qu'on pourrait lui apporté gratuitement
+;Entreprise Perrier (Sarl);7 R NORMAND D'ETRELLES;35370;ETRELLES;299966247;;;;;;;;;;;;
+;Entreprise Pierre Legendre;;35135;;299415121;;;;;;;;;;retraite;;messagerie
+;Entreprise Pierrick Chevalier (SARL);;35410;;299377215;;;;;;;;Coopérative;;Coopérative;;Coopérative
+;Entreprise Rak Nicolas;;35230;;;;;;;;;;non;;non;;entreprise en fusion / déjà contacter par GAPC35 / ne fait pas parti d'un gruopement / rappeler en septembre après fusion
+;Entreprise Ren Elec;16 R BRIZEUX;35700;RENNES;299382928;299384280;;renelec3@wanadoo.fr;;;;;;;;;www.renelec.fr
+;Entreprise Voidie;13 R CLÉMENT ADER;35340;LIFFRÉ;299390603;;;;;;;;ar demain;;;;travail avec brosette YESSS CDL SOCOlec brosette / entrepreuneur recent dans l'entreprise / envoyer vers notre site internet / rappelle pour fixer un rdv si interresser
+;Entreprise Yannick Decroi SARL;14 R DE LA MONNERAIE;35400;SAINT-MALO;299817424;299820570;;;;;;;;;;;
+;Environnement Confort Sécurité E.C.S;CHÈVRE;35340;BOUEXIERE (LA);650101101;;;;;;;;;;;;
+;EPC;;35520;;607023017;607023017;;;;;;;;;cap achat;;entreprise onouvelle depusi le debut d'année / envoyer mail  Herve.eon35@gmail.com
+;Epc Du Couesnon;BAS MONCHEVRON;35140;SAINT JEAN SUR COUESNON;612953353;612953353;;;;;;;;;gapc35;;1 an chez GAPC
+;Ermel Denis;LA LANDE;22630;SAINT JUDOCE;296275972;;;;;;;;;;;;
+;Erwan Cocault;;35220;;223278588;;;;;;;;ims;;ims;;ims
+;Erwan Cocault Plomberie Chauffage (SARL ECPC);5 GUINARD;35220;CHATEAUBOURG;223278588;;;;;;;;;;;;
+;Etablissement Barrel;;35200;;299509762;608830164;;;;;;;arret;;arret;;va arreter son entreprise
+;Etablissement Lefaix-Desvaux;LES COURS NOGUES;35720;PLEUGUENEUC;299694505;970620157;;;;;;;;;;;
+;Etablissements Glédel (SARL);PA CHÂTEAU GAILLARD 2 R GIRONDE;35470;BAIN DE BRETAGNE;299437501;299437150;;;;;;;;;;;
+;Etablissements Jamier;14 R DES LAVANDIÈRES;35370;ARGENTRÉ DU PLESSIS;299966273;299966084;;;;;;;;;;;
+;Etablissements Morinais;2 BIS R SAINT BRICE;35140;SAINT OUEN DES ALLEUX;299393827;;;;;;;;;;;;
+;Etablissements Sébastien Raut (SARL);ZONE ARTISANALE MESAUBERT;35133;JAVENE;299994831;;;;;;;;;;;;
+;Etablissements Voidie;13 R CLÉMENT ADER;35340;LIFFRÉ;299390849;;;contact@voidie.com;;;;;;;;;www.entreprisevoidie.com
+;Etao Géoressources;3 R ARDOISIÈRES;35310;BREAL SOUS MONTFORT;299771717;;;;;;;;;;;;25/06/15 messagerie
+;ETB 35;LA HANNETIÈRE;35320;LALLEU;299442980;624960776;;;;;;;non;;;;se dit déroger sur tout / il arrive a avoir les meme tarifs qu'un groupement (sois disant) / demande a avoir un catalogue de prix / peu honnete a mon sens / souhaite que l'on se rencontre en septembre
+;ETDE;;35730;;299888687;;;;;;;;;;non;;grosse entreprise, service achat à nantes
+;Ets Barrel (EURL);9 R ALFRED LAVANANT;35200;RENNES;608830164;299509762;;;;;;;608830164;;299509762;;
+;Ets Fumel;2 R BLETTERIE;35000;RENNES;299593139;682297743;;;;;;;non;;non;;N'a pas beaucoup de temps en ce moment et apprécie le coté familiale avec ses fournisseurs
+;ets pavoir;;;;299340234;;;;;;;;;;;;
+;EURL Geslin Michel;;35500;;299494381;;;;;;;;non;;;;travail avec distrilec et dupont / aucun de nos partenaire
+;EURL Hunault Roland;4 ALL PRIMEVÈRES;35680;VERGEAL;299495690;;;;;;;;;;;;
+;EURL Lac François;20 SQ CORBIERES;35170;BRUZ;299529227;626353530;;;;;;;MARDI 27 /01 ;;Arret mais verification dans 1 an;;travail avec socolec / pas intéresser pour le moment /a refuser d'aller chez IMS/ dis qu'il va arreter … a rappeler dans 1 ans pour verifier - 24/06/15 vu camion chez cso
+;EURL Les Fontaines;CHEM FONTAINES;35130;GUERCHE DE BRETAGNE (LA);299964720;;;;;;;;;;;;
+;EURL PINSARD;7 R MANOIRS;35680;VERGÉAL;299495527;622372723;;contact@coherence-communication.fr;;;;;;;;;www.pinsard-plomberie.com
+;Euro Energie;2 R JEAN MARIE DAVID;35740;PACÉ;223220200;299844703;;;;;;;;;;;www.euro-energie.fr
+;Evadys;PL GRANIER;35571;CHANTEPIE CEDEX;contact@evadys.fr;820203406;;service.clients@evadys.fr;;;;;;;;;
+;Eveillard Patrick;8 R HERMITIÈRE;35230;ORGERES;299577492;679584263;;;;;;;gapc;;gapc;;fait parti d'un groupement 
+;F . B Elec (ARTISAN);LE PLACIS SUZAIN;35630;LANGOUET;661940110; ;;;;;;;;;non;;sympathique, travail avec Calvez, a l'air intéréssé, AR lundi 23/03
+;F Z Electricité (EURL);8 R COURTILS;35250;SAINT AUBIN D'AUBIGNE;299552485;;;;;;;;;;;;
+;F.Elec;10 SQ DES HAUTES OURMES;35200;RENNES;652762288;;;;;;;;;;;;
+;F.P Plomberie;;35490;;299395071;665137636;;;;;;;arret ets;;;;très bon contact / AR septembre / pense avoir de très bon tarifs sur la partie plomberie / travail avec maillard cdo et dupont
+;F.Tec.;LA BESNERAIE;35590;CHAPELLE THOUARAULT (LA);671111929;;;;;;;;;;;;
+;Fabiani Bernard;56 R SARZEAU;35000;RENNES;607667001;;;;;;;;;;;;
+;Fabiani-Pirio (Sarl);2 ALL DES BOUVREUILS;35170;BRUZ;299630641;607667001;;fabianipirio@orange.fr;;;;;;;;;www.fabianipirio-plombier-rennes.fr
+;Facilapose;ZONE ARTISANALE LES ROLANDIÈRES;35120;DOL DE BRETAGNE;299464943;;;;;;;;;;;;
+;Fafin Electricité;6 R PETITS CHAMPS;35760;SAINT GREGOIRE;299235525;;;;;;;;;;;;
+;Fafin Electricité;;35760;;299235525;;;;;;;;;;;;Meme dirigeant que L.E.G
+;Falck Energies Renouvelables;5 R JEAN MACÉ;35700;RENNES;223450699;;;;;;;;;;AR;;messagerie - Francoise Tanou
+;Faucheux (Sarl);32 R ARTISANS;35500;VITRE;299750813;;;;;;;;;;;;bureau ouvert le lundi de 9h a 2h et le vendredi
+;Faye Plomberie Chauffage (EURL);17 BIS R CROIX ST MICHEL;35580;LASSY;616242550;;;;;;;;;;;;
+;Faye Plomberie Chauffage (EURL);LES QUATRE ROUTES;35310;BREAL SOUS MONTFORT;981619901;;;;;;;;;;;;
+;FD Elec;LE GROS CHÊNE;35190;LONGAULNAY;689479598;689479598;;;;;;;;;;;travail a 70% avec rexel / travail un peu avec yesss et calvez mais ne fait pas 8000e d'achats ave eux pour le moment
+;FD. ENERGIES;1 R AULNES;35590;SAINT GILLES;672394502;;;;;;;;;;;;
+;Feldmann Pascal;7 R BELLE EPINE;35132;VEZIN LE COQUET;633001646;633001646;;;;;;;non;;non;;appeler semaine pro pour fixer un rendez vous / travail avec st gaubain / rdv mardi 17 à 11H30 / Lundi 30 à 13H30 pas cool
+;Feneux Jacques;;35730;;299888733;;;;;;;;;;;;11/05/15 messagerie - 12/05/15 messagerie - 13/05/15 messagerie - 09/06/15 messagerie - 19/06/15 messagerie
+;Ferand Sébastien;R MALADRIE;56350;RIEUX;647327162;299919926;;;;;;;647327162;;;;
+;Ferjani Farid;22 R CITÉ DES COGNETS;35800;DINARD;256527134;;;;;;;;;;;;
+;Ferret Sylvain;7 IMP MICHEL VAULEON;35520;MONTREUIL LE GAST;665203848;;;;;;;;;;;;
+;Festoc Marcel;12 R CHRISTIAN DE KERGARIOU;35350;GOUESNIERE (LA);299588504;;;;;;;;;;AR dans 1 mois;;Décés dans la famille
+;FEVRIER;;35000;;964303556;;;;;;;;non;;non;;non attribué
+;F-I-D-E-L;15 BIS LA HALTE;35580;GUICHEN;290021102;683512159;;;;;;;AR;;;;messagerie directement
+;Flaux François;5 BIS R FRÉDÉRIC BAZILLE;35400;SAINT MALO;299821053;;;;;;;;;;;;
+;Florian Elec;5 R HERVELIN;35430;SAINT PERE MARC EN POULET;;665732956;;;;;;;RDV 01/07/15;;CAP ACHAT;;electricien, se lance dans la plomberie cette année, 80 k e d'achat chez fournisseurs élec 2014. Travail bcp avec cdl, part en vacances avec cdl, participe au repas cdl. Proche de ses commerciaux/ veux des commerciaux de confiance et réactifs. Ne travail plus avec hager suite à une  embrouille et est dérrogé schneider. CAP ACHAT
+;Fluélec Ingénierie;;35510;;223455151;;;;;;;;;;;;messagerie 18/06/15
+;Fontaine Jean François;12 LA FORGE;35137;BEDEE;602045931;;;;;;;;;;;;
+;Forget Marc;10 R PÊCHERS;35850;GEVEZE;;643437599;;;;;;;RDV 22/05/15;;AR;; a déjà contacté le GAPC mais a été refusé car sa femme travaille chez socolec . Travail avec soco et rexel. Ne semble pas interessé, se débrouille bien avec ses fournisseurs. Ancien de chez SPIE. A son compte depuis 4 ans.
+;Foucher Fabien (SARL);LA CHARDRONNAIS;35680;LOUVIGNÉ DE BAIS;299490226;;;;;;;;;;;;
+;Foucher Fabien (SARL);LA CHARDRONNAIS;35680;LOUVIGNÉ DE BAIS;299490226;;;;;;;;;;;;
+;Fougères ;;35500;;299750563;;;;;;;;;;non;;gapc35 
+;Fougères Maintenance Interventions;LULAGUERRE;35133;BEAUCÉ;299998279;608350799;;;;;;;non;;non;;déjà contacté / prefere continuer a travailller avec rexxel pour la rapidité des livraison
+;Fouillet Erwan;10 R GENÊTS;35500;CORNILLE;299496766;;;;;;;;;;;;25/06/15 sa fille a répondue
+;Fourcin Dominique;1 BIS R GUÉRETS;35260;CANCALE;299898383;;;;;;;;non;;non;;retraite dans 3 ans / travail a70% avec CGED / pas grand interet
+;FOUREL ELEC SERVICES;9 LIEU-DIT DOUAZEL;35230;SAINT ERBLON;299654959;646498088;;;;;;;2015laissemessage;;;;ne fait pas 8000€ d'achats hors derog
+;Francelec;7 R DES CHARMILLES;35510;CESSON SÉVIGNÉ;299519107;299519558;;francelec@espritled.fr;;;;;;;299519558;;www.espritled.com
+;Frangeul Gilles;LES RUES COLAS;35550;SAINT JUST;661024128;;;;;;;;;;;;
+;FRAUD FREDERIC;10 LE CLOS DES ROSES;35460;COGLES;645732060;;;;;;;;;;;;
+;Fréderic Popineau;LES CHÊNES;35430;SAINT PÈRE MARC EN POULET;299582629;674864350;;;;;;;;;gapc35;;? Gapc
+;Frigoult Cyrille;;35420;;975573467;;;;;;;;;;;;messagerie directement
+;Frigoult Jean-Luc;;35420;;299971208;;;;;;;;;;;;numéro non attribué
+;Fromont Loïc;;35136;;607854202;607854202;;;;;;;NON;;;;a la retraite depuis 1 an / a vendu son matériel a une entreprise avant de fermer la sienne mais n'a pas voulu me donner le nom du repreneur
+;FTEC;;35590;;290305205;;;;;;;;;;non;;Sa femme a répondu, présentation rapide, elle lui en parlera et doit me recontacter
+;FZ Electricité;;35250;;299552485;698472514;;;;;;;;;;;Mr jouab, débordé semaine 25, AR semaine 26 - 23/06/15 messagerie - 30/06/15 messagerie - 02/07/15 messagerie - 07/07/15 messagerie
+;G . D . Elec;30 R PIERRE SÉMARD;35200;RENNES;782328070;;;;;;;;;;;;
+;G.Energie;;35137;;241650632;;;;;;;;non;;non;;numéro pas attribué
+;G.S Electricité;LA GOMBAIS;35310;MORDELLES;299640165;627401267;;;;;;;arret;;;;particulier / mauvais numéro
+;G.T.S Guérin Teychney Services;35 R ALPHONSE GUÉRIN;35000;RENNES;299638976;;;;;;;;;;;;travail en direct avec les distributeurs depuis longtemps /  tarifs deja négocier / rappeler après 17 H pour le joindre directement
+;Gab-Ille Elec;BEAUSEJOUR;35250;SAINT MÉDARD SUR ILLE;632426335;;;;;;;;;;;;
+;Gaignoux Alain;121 R CHÂTILLON;35000;RENNES;299500940;;;;;;;;retraite;;retraite;;en retraite
+;Galeine Nicolas;LIEU DIT GIBARY;35133;LÉCOUSSE;658655063;658655063;;;;;;;non;;non;;travail avec brossette CDl CDO CEF Cop lorans / se renseigne sur e groupement / contact a relancer
+;Gallais Frères (Sarl);ZONE ARTISANALE DE LA VILLE AU COQ;35800;SAINT LUNAIRE;681384114;299166307;;;;;;;681384114;;299166307;;
+;Galle (Ent.);ZONE ARTISANALE DES ESTUAIRES;35133;ROMAGNÉ;299994296;;;;;;;;;;;;Rappeler le matin
+;Gamallo Joseph;;35290;;299077532;;;;;;;;;;;;mail  jalu.chauffage@orange.fr
+;Garnier - Revault;7 R NOYER;35000;RENNES;299539753;;;;;;;;;;;;travail en direct / jamais fait parti d'un groupement / appeler M Garnier le soir après 17H30 sauf le vendredi
+;Garnier (EURL);20 R MELIANTE;35140;GOSNE;614381932;614381932;;;;;;;;;;;travail avec beauplet / me dit qu'il n'est pas interresser mais n'a pas de raison particulière - 24/06/15 messagerie
+;Garnier Revault (Entrep);7 R NOYER;35000;RENNES;299539102;;;;;;;;;;;;
+;Gaslain Hervé;8 R GARE;35350;SAINT MELOIR DES ONDES;299582077;;;;;;;;;;;;
+;Gat' Elec;42 BIS AV GÉN DE GAULLE;35270;COMBOURG;686546034;686546034;;;;;;;;;;;se débrouille pour que le client achete le matériel / travail avec yesss et cged 
+;Gaubert Pascal (SARL);16 R TISSERANDS;35830;BETTON;299559019;;;;;;;;;;;;
+;Gauchet Electricité;28 R CROIX DÉSILLES;35400;SAINT MALO;299196666;;;gauelec@wanadoo.fr;;;;;;;non;;ne repond pas aux questions au téléphone
+;Gaudin Thierry;;35560;;299974291;;;;;;;;;;;;AR entre 8h et 8h30 mat
+;Gaudré Aurélien;9 R ETANG;35410;OSSE;630562881;;;;;;;;;;;;
+;Gaugain Michel;28 R MOULIN;35130;GUERCHE DE BRETAGNE (LA);299961126;;;;;;;;;;;;16/06/15 messagerie - 19/06/15 messagerie
+;GAUTIER Pierrick;ZONE ARTISANALE LA JANAIS;35120;DOL DE BRETAGNE;299483761;;;;;;;;;;;;www.pierrickgautier.com
+;GAUTIER Yvan;4 R CHRISTOPHE COLOMB;35400;SAINT MALO;662140317;662140317;;;;;;;RDV 07/05/15;;AR 19/05/15;;Vu st malo,  habite en face de G Rebequet, travail quasiement qu'avec Cedeo et un petit peu avec Mafart. Assez jeune, profil intéréssant, près de 300K de CA, a son compte depuis 3ans . Peut etre intéréssé mais ne pense pas faire un reel bénéfice grace a Cap Achat. Pense a essayer un an pour voir. Veux réfléchir
+;Gauvineau Dominique;8 R PAUL SIGNAC;35530;SERVON SUR VILAINE;979632792;632818922;;;;;;;AR 27/03/15;;AR sept 2015;;travail avec 3 partenaires non cap achats notamment beaucoup avec rexel /déjà contacté en 2010 / travaille bcp avec rexel / vu en RDV le 13/02/15 / doit reflechir
+;Gaz Dépannage 35;31 B R LANDELLES;35510;CESSON SEVIGNE;299650901;;;;;;;;;;;;
+;Gaz Service (Jean Luc Morel);10 R FOURS À CHAUX;35131;CHARTRES DE BRETAGNE;299413153;608690621;;;;;;;;;;;
+;GB Eclairage (Gilles Bellay Eclairage);ZA CORBIÈRE 12 R CHATAIGNERAIE;35580;GOVEN;299353838;;;gb-eclairage@orange.fr;;;;;;;;;www.gb-eclairage.com
+;Gefflot;1 R BOIS;35550;PIPRIAC;299343417;;;;;;;;appel 2015;;;;avant 7h30 un autre groupement a daja contacte
+;Gelineau Daniel;LIEU-DIT VIEUX PRESBYTÈRE;35130;VISSEICHE;299763883;661927642;;;;;;;;;AR septembre 2015;;19/06/2015 messagerie02/07/15 travail avec son fils, ne prennent jamais de rdv chez les clients, estime que ce n'est pas correct. Pas de prise de rdv avant les congès ar en sept
+;GEN. Y ELEC;15 BIS R TEILLAC;35410;NOUVOITOU;299372548;;;;;;;;;;;;messagerie - répondeur 24/05/15 - 25/06/15 messagerie
+;Genay Manuel;PARSAC;35550;SAINT JUST;609594251;609594251;;;;;;;gapc;;;;société arreter
+;Gendry Yannick (Ets);5 R LILAS;35370;ARGENTRÉ DU PLESSIS;299966696;689575197;;;;;;;;;;;mail  gendry-plomb-elec@hotmail.fr / ne veut pas se sentir obliger de travailler avec cap achat /je lui ai dit qu'il n'y avait pas de quota / rappeler plus tard pour voir si il a changer d'avis
+;Genevé (SARL);26 R VENDELAIS;35500;TAILLIS;299769529;;;;;;;;non;;non;;administrateur coopérative
+;Georgelin Fabrice;LA VILLE ES MOINES;22130;LANGUENAN;658162058;296827967;;;;;;;658162058;;;;www.sarl-georgelin-fabrice22.com
+;Georges Pierre-Yves;16 R ROSSIGNOLIÈRE;35590;HERMITAGE (L');648892098;;;;;;;;;;;;
+;Gerard Loïc;LIEU-DIT MALADRIE;35420;POILLEY;299951080;;;;;;;;;;;;
+;Gergaud Industrie (SARL);R MARCEL QUERCIA;35600;REDON;299711165;299721391;;;;;;;;;;;www.gergaud.fr
+;Geslin Alexandre;6 ALL PINSONS;35500;CORNILLE;299496017;;;;;;;;;;;;
+;Gicquel Eric (EURL);3 R DU SOUVENIR;35490;CHAUVIGNÉ;687864557;687864557;;;;;;;non;;;;02/04/14 ne travail pas avec des groupements. Rappeler dans 2 jours, lui recommander d'aller sur notre site internet. adresse mail eurlgicquelecric@orange.fr / 12/05 rappeller vers 11H00 /17/07 mail eurlgicqueleric@orange.fr / AR semaine pro / travail avec maillard/ veux du prix du prix du prix, ne souhaite pas nous rencontrer s i on ne lui amène pas des prix
+;Gicquel Olivier (EURL);23 R DU CREUX CHEMIN;35550;BRUC SUR AFF;661008366;;;;;;;;;;;;
+;Gilbert Michel;19 R STADE;35460;SAINT MARC LE BLANC;299187131;633339360;;;;;;;;;;;entreprise fermée depuis 2 ans
+;Gilbert Yves;LA HAISE;35260;CANCALE;299895490;;;;;;;;;;AR 2017;;messagerie - 13/05/15 messagerie - 20/05/15 travaille dans l'industrie, rexel et yess, ne veulent pas travailler avec des intérmédiaires, retraite dans trois ans ( 2018) et c'était sa femme
+;Gilles Lohr Service;5 R BEAUSÉJOUR;35270;COMBOURG;668940713;;;;;;;;;;;;
+;Gilliers Anthony;29 R LESQUEN;35420;BAZOUGE DU DESERT (LA);299980274;681274264;;;;;;;ims;;;;entreprise de 4 personnes / mail anthony.gilliers@orange.fr / secteur elec plomberie / IMS
+;Girard Vincent;3 R SIMONE DE BEAUVOIR;35135;CHANTEPIE;223303158;;;;;;;;;;;;
+;Girault Stéphane;9 R CLOS DU BOIS;35370;MONDEVERT;299493933;687307004;;;;;;;;;;;17/06/15 messagerie - messagerie 19/06/15
+;Gislard (SARL);ZA DU CHAMP MULON 10 BIS R PRÉS MELES;35230;SAINT ERBLON;299576164;;;;;;;;;;;;
+;Gloriant Christophe;EPRON;35410;NOUVOITOU;299372608;685724299;;;;;;;;;non;;meme pas 8000€ d'achats année
+;Gloriant Christophe;EPRON;35410;NOUVOITOU;685724299;685724299;;;;;;;;;;;faible volume,seulement  prestations
+;Godal Laurent;6 LIEU-DIT CRAPAUDIÈRE;35190;SAINT DOMINEUC;299453889;;;;;;;;;;;;
+;Gotteri Thierry;;35340;;299044938;;;;;;;;;;;;13/05/15 messagerie - 17/06/15 messagerie
+;Goude Gilles;7 R FOUGÈRES;35400;SAINT MALO;299815664;;;;;;;;;;;;
+;Gouedard Emmanuel;12 LES PLÉ DU CLOS HERBET;35960;VIVIER SUR MER (LE);685634801;685634801;;;;;;;RDV chez lui le 19/03;;Cap achat;;Paneaux photovoltaiques, lumieres leds. Auto entrepreneur cherche un emploi a temps plein
+;GOUGEON;;35310;;966410899;;;;;;;;;;;;A controller
+;Goupil Alain (SARL);R DES DOUVES;35560;BAZOUGES LA PÉROUSE;299974731;299974688;;;;;;;;;;;
+;GP Energies;1 R VILLE OGER;35190;SAINT PERN;299666712;624162773;;;;;;;gapc;;gapc;;GAPC depuis 6 ans
+;Grange Philippe;32 R ANDRÉ DÉSILLES;35000;RENNES;299056224;662873456;;grangebains@hotmail.fr;;;;;;;;;www.plombier-chauffagiste-rennes.fr
+;Grasset Bertrand;LIEU-DIT PETITE RIVIÈRE;35130;MOUTIERS;611453912;611453912;;;;;;;;;;;a debuter au mois de novembre / attends de se stabiliser
+;GreenConfort;18 R RENNES;35130;GUERCHE DE BRETAGNE (LA);223552370;;;;;;;;;;;;
+;Grenier Bernard;92 BIS R GAËL;35290;SAINT MÉEN LE GRAND;299096879;;;;;;;;;;;;
+;Gresle (SARL);RTE ANTRAN ZA VALLÉE;35560;BAZOUGES LA PEROUSE;299974256;;;;;;;;;;;;grosse structure environ 20 personnes 18/06/15
+;Grimaud Johan;L'ECLARDAIS LE THÉLIN;35380;PLÉLAN LE GRAND;608675298;608675298;;;;;;;non cause frs;;;;travail avec yesss/ peut etre inerresser / accepte que l'on prenne rendez-vous fin Juin pour debut juillet / RDV le 7 Juillet a 11H00
+;GRIPPE HOUSSE PHOTOVOLTAIQUE;LIEU-DIT GRIPPE HOUSSE;35130;RANNEE;299963321;;;;;;;;;;;;
+;Grohan Frédéric;LA TOUCHE CHAMPAGNE;35740;PACÉ;299695858;628230812;;;;;;;;;non;;a son compte depuis 16 ans, a travailler 3 mois chez beauplet et est de nouveau a son compte. Se mefier de lui, pas digne de confiance.
+;Groult Thierry;;35310;;610958421;610958421;;;;;;;arret ents;;arret ents;;17/06/15 messagerie- messagerie 19/06/15
+;Groupe F2E;3 PORTE DE KER LANN;35170;BRUZ;299529640;299529198;;;;;;;;;;;
+;Gruel Roland;15 LE BAS BOURG;35250;MOUAZÉ;299554991;645808027;;;;;;;cap achat;;cap achat;;travail en direct / envoyer brochure par mail  gruel.roland@free.fr
+;Gtelec;9 R CHARLES RICHET;35340;LIFFRÉ;299683893;671200952;;;;;;;non;;non;;pas d'achats / pas artisant de métier
+;Guenee Raymond;LA PETITE RENAISIÈRE;35420;SAINT GEORGES DE REINTEMBAULT;643924692;299971101;;;;;;;;;AR juillet pour rdv aout;;ar / 06/07/15 messagerie
+;Guérin Chauffage (SARL);18 ZONE ARTISANALE LA MONTGERVALAISE 2;35520;MÉZIÈRE (LA);299660323;;;guerinchauffage@orange.fr;;;;;;;;;pro.pagesjaunes.fr/guerin-chauffage
+;Guerin Fluides Services;;35133;;299973146;;;;;;;;non;;non;;entreprise vient d'être rachetée par un groupe basé à caen. Service achat a Caen 
+;Guilbert (SARL);LA RICHERAIS;35460;SAINT BRICE EN COGLES;623811753;;;;;;;;;;;;
+;Guillé Louis;;35640;FORGES LA FORET;;;;;;;;;;;;;pas attribué
+;Guillemer - Sabot;12 R VAUTENET;35270;MEILLAC;223164035;644267323;;;;;;;;;arret ets;;numero pas attribué
+;Guillon Florent;;35250;;223371189;689279299;;;;;;;CAP ACHAT;;cap achat;;problemes d'impayer / pense eut etre fermer sa boite / AR
+;Guillotel Xavier;4 R ALETH;35430;VILLE ES NONAIS (LA);618441401;296868710;;;;;;;gapc;;gapc35;;GAPC
+;GUY Jean-Paul;ZA LA HALLERAIS 10 ALL DU BLOSNE;35770;VERN SUR SEICHE;299868868;;;;;;;;;;;;
+;Guyomard Fabien;ZONE ARTISANALE CORDERIE;35750;IFFENDIC;299065609;;;;;;;;;;Cap Achat;;messagerie
+;Guyon Elec;25 R ST JEAN;35800;SAINT LUNAIRE;299460062;678321869;;;;;;;;;non;;Travail avec calvez et socolec mais ne veux pas travailler avec un groupement
+;Guyon-Lesault (SARL);8 ALL DES TOURTERELLES;35770;VERN SUR SEICHE;966927944;;;;;;;;;;;;www.plombier-chauffagiste-35.com
+;H.V.E. (SARL);5 ALL BOURGONNETTE;35000;RENNES;299321628;;;;;;;;rdv 03/067/15;;;;demander mr Marollo / 06/07/15 doit rappeler dans l'après midi pour fixer un rendez vous
+;Habitat Multi-Services;;35170;;607395388;607395388;;;;;;;non;;non;;à la retraite
+;Hachemi Sofiane;16 ALL CORMIER;35136;SAINT JACQUES DE LA LANDE;751334384;;;;;;;;;;;;
+;Hamard Bertrand;2 R CAMÉLIAS;35133;PARIGNÉ;299973378;;;;;;;;;;;;sonne sans messagerie
+;Hamard Maudet;LA BARRETIÈRE;35500;CHAPELLE ERBRÉE (LA);299003864;;;;;;;;;;;;
+;Hamard Pierrick;LA CROIX DE LA BARRE;35130;RANNÉE;299964916;299960680;;;;;;;;;;;www.electricite-chauffage-hamard.com
+;Hamel Jason;5 ALL FONTENELLES;35770;VERN SUR SEICHE;785607631;;;;;;;;;;;;
+;Hamon (SARL);ZI RENNES NORD;35760;SAINT GRÉGOIRE;299382977;;;;;;;;;;non;;envoyer mail avec présentation de cap achat 12/05/15 travail avec mafart beauplet CDO, la secraitaire dis que ce n'est pas la peinne d'insister…
+;HAMON GOUPIL;1 R MAIRIE;35120;SAINT BROLADRE;661777410;661777410;;;;;;;non;;non;;travail avec CDO et DUPONT / 3 ans d'activité / tourne entre 40000 et 50000 € d'achat / mail  hamon-goupil-plomberie@hotmail.fr / pas de rendez vous possible /
+;Hamon Loïc (SARL);LA GRÉE;35580;BAULON;686412608;299854406;;;;;;;non;;;;travail avec CDO  / fonctionne spécialement avec ses achats / prix négocier avec une autre societe / pas d'interet de travailler avec cap achat
+;Hany Maurice;ZA LE CHALAIS 18 R VAL D'IZÉ;35500;VITRÉ;299744543;;;;;;;;;;;;
+;Hardythermie (SARL);7 R ALFRED JARRY;35770;VERN SUR SEICHE;981604407;623641041;;;;;;;;;CAP ACHAT;;stéphane hardy - cap achat
+;Harel Electricité;7 LOT RUETTES;35420;SAINT GEORGES DE REINTEMBAULT;299970881;;;;;;;;;;;;
+;Haugeard Bernard;LE CHENE HARDY;35750;IFFENDIC;299093708;;;;;;;;;;;;
+;Havard Xavier;LA HERSE;35850;IRODOUER;299398709;;;;;;;;;;;;
+;HB tuyauterie;MÉNARD;35310;CHAVAGNE;761439597;;;;;;;;;;;;
+;Helary Pierrick;9 RÉSID BROCELIANDE;35850;IRODOUER;660807716;;;;;;;;;;;;
+;Heliante;;35708;;257840432;;;;;;;;;;;;
+;Hélios Habitat;;35302;;299172130;;;;;;;;;;;;17/06/15 messagerie
+;Heluard Anthony;3 R YVONNICK LAURENT;35490;VIEUX VY SUR COUESNON;299395819;;;;;;;;;;;;13/05/15 messagerie
+;Henot;;;;;;;;;;;;;;;;vu camion chez cdl
+;Heraud Etienne;5 LA HERVIAIS;35390;GRAND FOUGERAY;299084601;643513969;;;;;;;;;;;
+;Heraud Etienne;5 LA HERVIAIS;35390;GRAND FOUGERAY;961423431;;;;;;;;;;non;;IMS
+;Hervault Sébastien (Sarl);ZONE ARTISANALE LE BREIL;35380;TREFFENDEL;609026404;299610448;;;;;;;ims;;;;IMS
+;Hervé (SARL);9 BD DENIS PAPIN;35500;VITRÉ;299750085;;;;;;;;;;;;grosse entreprise, + 1 million de ca. Sa secraitaire va parler de nous au directeur et il nous rappelera s'il est intéréssé.
+;Hervé Pierrick;LA MAGDELEINE;35270;COMBOURG;299732914;;;;;;;;;;;;
+;Hervé Thermique;5 R BAS VILLAGE;35510;CESSON SEVIGNE;223354900;;;;;;;;non;;non;;
+;Hervieu Plomberie Chauffage (SARL);4 RTE LANDRET;35830;BETTON;607688872;;;;;;;;;;;;
+;Hinaut Entreprise Ouest (HEO);10 R NOYER;35000;RENNES;256353401;;;;;;;;non;;non;;siege a Paris/plus d'antenne sur rennes/fonctionne en direct 
+;Hitchman Craig;3 IMP GRAND PRÉ HENRI;35111;FRESNAIS (LA);299586946;;;;;;;;;;;;gapc
+;HL Plomberie Chauffage (SARL);8 BD P DUMAINE DE LA JOSSERIE;35740;PACE;299691748;0671380436 ( Herbel) - 0679987730 ( Leau);;;;;;;AR sept 2015;;RDV 10/04/15 a 14h;;AR, ne prennent des RDV que le vendredi apès midi. Entreprise de 4 personnes. Joindre Mr Gerard Herbel. Travail avec maillard principalement. Vu associé ( Mr Jérôme LEAU), jeune sympathique décontract, très bon échange.
+;Holland (SARL);1 AV FONTENELLES;35310;MORDELLES;299604065;;;;;;;;;;;;Mr Holland - AR après 18h
+;Hp Energetik;ZONE ARTISANALE DE ROLIN;35190;QUÉBRIAC;299132894;;;;;;;;ims;;ims;;IMS depuis 10 ans
+;HPEnergetik (SARL);ZONE ARTISANALE ROLIN;35190;QUEBRIAC;299132894;;;;;;;;;;;;
+;Hubert Jean Marc;14 R MAQUIS DE ST MARCEL;35000;RENNES;299388048;;;;;;;;non;;non;;en réunion / ne pense pas etre intéresser / 02/05 PI
+;Huet (SARL);50 R ST MARTIN;35500;BALAZÉ;299769671;299769759;;accueil@huet-energies.fr;;;;;;;;;messagerie 18/06/15 - pas disponible, j'ai laisser les coordoonnées à la secretaire 
+;Huet Christian;3 R GUSTAVE EIFFEL;35230;NOYAL CHATILLON SUR SEICHE;223304408;;;;;;;;;;;;
+;Huline Patrice;48 R DE BRAY LA MONNIAIS;35510;CESSON SÉVIGNÉ;299837428;223451077;;patricehuline@orange.fr;;;;;;;;;www.hulineplomberie.fr
+;Hunault Roland;;35680;;299495690;;;;;;;;;;;;
+;Hydra-Elec;LA TREMBLAIS;35250;SAINT GERMAIN SUR ILLE;299556494;;;;;;;;;;;;fax
+;Hydr'Eau Forage;LES LONGUERAIS;35890;LAILLÉ;299524309;;;;;;;;;;AR;;messagerie - 24/04 messagerie - 12/05/15 messagerie
+;ID-Elec;8 LA HAUTE TOUCHE;35160;TALENSAC;626739360;626739360;;;;;;;rdv 30/01 mais ar / rdv 24/06/15;;;;beaucoup de dérogation fabricant / shneider legrand … / très peu d'achats hors déroguation / Cso, socolec et aubade maillard / AR mi juin, a eu de mauvaises imformations sur nous
+;ID'Home;13 BD RENÉ LAËNNEC;35000;RENNES;670502072;670502072;;;;;;;;;AR 2016;;02/07/15 - pas le temps de voir ca maintenant AR en 2016
+;Igélec;ZAC CAP MALO AV PHARE DES BALUS;35520;MÉZIÈRE (LA);299656001;;;;;;;;;;non;;groupe NEWORLD ENERGIES
+;Imbert David;;35370;;664110622;664110622;;;;;;;arret;;;;
+;Inovia;ZONE ARTISANALE LA CROIX ROUGE;35530;BRÉCÉ;299001969;;;;;;;;;;;;
+;Inovia;;35530;;299001969;;;;;;;;;;non;;travail avec rexel/coopérative des agriculteurs de la mayenne
+;Ip'Elec;10 R GÂTIS;35850;PARTHENAY DE BRETAGNE;;618056158;;;;;;;RDV 23/04/15;;non;;Pascal ISOREZ - Vu a st servant, habitait avant a parthenay de Bretagne.Intéréssé par le fait que CAP ACHAT soit uniquement composé d'entrepreneurs et non d'employés Ents depuis 14 ans, travail seul, aubade maillard, yess, très proches de ses commerciaux, a meme suivi un commercial chez aubade. Séptique, veux avoir les prix sans et avec cap achat pour comparer => fait une confiance aveugle à ses fournisseurs mais est très suspicieu pour nous. Veux parler de Cap achat avant de s'engager mais peux etre intéréssé
+;IRCE;;35360;;299073527;;;;;;;;non;;;;ne souhaite pas travailler avec nos partenaires pour des raisons perso / 
+;ITEA;7 SQ LUCIEN ROSE;35000;RENNES;651703274;;;;;;;;;;;;
+;Iveneo;;35480;;687693298;687693298;;;;;;;;;arret;;
+;J.C.L. (SARL);;35720;;299456135;;;;;;;;;;;;a travailler avec IMS mais pas satisfait / mail jclplomberiechauffage@bbox.fr
+;J2S (SARL);15 R HENRI POLLÈS;35136;SAINT JACQUES DE LA LANDE;;299509653;;;;;;;message;;;;travail en plomberie chauffage elec / entreprise de 30 ans / 9 personnes / joindre Mr Joucan entre 7H30 et 8H15 le matin
+;Jagot-Dubois;3 R LUCET;35404;ST MALO CEDEX;299560076;;;;;;;;;;;;secraitaire fait barrage  elle transmettra le message a son directeur
+;Jahier Jean-Claude;13 ALL CLOS MARGOT;35590;SAINT GILLES;299646729;;;;;;;;;;;;
+;Jalu Chauffage;ZI DU MAUPAS;35290;SAINT MÉEN LE GRAND;299096155;;;;;;;;;;;;femme au téléphone / AR - sonne dans le vide
+;Jamault Patrick;LA BARRE GUIBOURG;35740;PACE;299601592;683330380;;;;;;;gapc;;gapc;;GAPC35 depuis le debut d'année
+;Jamelot Patrick;1 R ANCIENNE MAIRIE;35230;BOURGBARRE;299576081;;;;;;;;;;;;11/05/15 messagerie - 12/05/15 messagerie - 13/05/15 messagerie - messagerie 19/06/15 - 24/06/15 messagerie - 25/06/15
+;Jamier (Ets);;35370;;299966273;;;;;;;;;;;;toutes les lignes sont occupés
+;Jaunay Electricite Generale;;35320;;299424687;676194536;;;;;;;;;;;numéro pas attribué
+;Jaunay Electricite Generale;;35320;;299424687;;;;;;;;;;;;messagerie
+;Jazuel Franck;14 R LE PLESSIX;35580;BAULON;299854294;;;;;;;;cap achat;;;;30 000€ par mois achats / 4 peronnes dans l'entreprise / travail beaucoup avec maillard / en parle avec son commercial et le commercial de maillard / mail  contact@ent-jazuel.fr / 16/07 pas disponible pour le moment / j'ai laisser le numéro de cap achat pour qu'il puisse rappeler
+;JC Plomberie;13 R NÉNUPHARS;35230;BOURGBARRE;640963558;640963558;;;;;;;GAPC;;GAPC;;interet pou capbox sympas mais teavail avec rexel
+;JCL Plomberie Chauffage (SARL);156 R DE LORIENT;35000;RENNES;299456135;;;jc@jcl35.fr;;;;;;;;;www.jcl-plomberie.fr
+;Jcy Moreau Elec;4 PL EGLISE;35290;QUEDILLAC;299062539;62539;;;;;;;;;;;pas sympa - rappeler plus tard
+;J-D Services;LA MARTINAIS;35380;SAINT PERAN;222095002;638721323;;;;;;;;;AR en septembre;;julien davas 25/06/15 travail avec rexel tabur et CEF (Yess) n'a pas le temps de nous recevoir meme sur un chantier
+;Jde;13 R GUTENBERG;35000;RENNES;631437813;631437813;;;;;;;arret ets;;arret ets;;entreprise fermée
+;Jean-Luc Jouaux (SARL);3 R BÉLIER;35320;PANCÉ;299430401;299430478;;;;;;;;;;;www.jean-luc-jouaux-pance.fr
+;Jean-Paul Lebreton (SARL);;35300;;299998468;607148161;;;;;;;;;;;17/06/15 messagerie - messagerie 19/06/15
+;Jehanno Jean-François;9 RTE DE LA ROUGERAIE;35410;DOMLOUP;299415592;;;jehanno.ent@wanadoo.fr;;;;;;;;;www.jehanno-chauffage.fr
+;Jehn Matthieu;LES CHEINTES;35380;MAXENT;659333688;;;;;;;;;;;;
+;Jeldes David;;35136;;781237827;781237827;;;;;;;;;;;travail avec rexel et cged / mail  jeldes.david@gmail.com
+;Jeproduitsmonelectricite.com;24 R FOUCYBOURDE;35410;CHÂTEAUGIRON;612497719;;;contact@g-jpme.com;;;;;;;;;www.jeproduismonelectricite.com
+;Jeremy Potier;1 TER R VINCENT GRELLE;35460;TREMBLAY;671626098;671626098;;;;;;;;;AR fin mai 2015;;Sympathique, jamais contacté par un groupement, à son compte depuis 2006, environ 40 ke d'achat. Travaille principalement avec brossette, beauplet, un peu yess cesson, distrilec fougère. Veut réfléchir. Il avait l'air assez mou. Semble avoir quelques problèmes d'organisation au niveau de l'administratif. / 06/07 je l'ai motiver à s'inscire en ligne, AR fin du mois
+;Jerome Michaud;;35390;;;683671142;;;;;;;;;;;vu camion chez soco
+;Jimelec (SARL);18 R BELLANGERIE;35370;ARGENTRE DU PLESSIS;299965724;612760960;;;;;;;;;;;pas interrreser
+;J-L Elec (SARL);LE PETIT ROUVRAY;35120;DOL DE BRETAGNE;299800548;;;;;;;;;;;;
+;JL Legendre;LA MALADRIE 12 RTE DINAN;35120;DOL DE BRETAGNE;677250670;299802028;;;;;;;non;;non;;pas intéréssé, au revoir
+;JLB Diag. Confort;1 BIS IMP ORÉE D'ARMOR;35720;PLESDER;641686743;641686743;;;;;;;;;;;
+;JNL Services;LA TEMPLERIE;35150;JANZÉ;677339436;677339436;;;;;;;30/01/2015 A 10H;;AR rentré 2015;;08/07 travail avec maillard et yesss / rdv vendredi 18 juillet a 10H30 - a relancer mais pas par téléphone - 29/06/15 très occupé, ne sais pas comment il va faire pour boucler ses chantiers avant les vacances
+;Joël Kieffer Plomberie Chauffage;9 HAMEAU DE LA SOURCE;35800;DINARD;299160347;;;;;;;;;;;;www.kieffer-plomberie.fr
+;Jolive Elec;4 R NOUE;35530;SERVON SUR VILAINE;299002472;;;;;;;;AR;;arret;;messagerie directement - 24/06/15 vu camion chez cedeo
+;Joseph Fougères;5 R ARTISANS;35500;VITRÉ;299750563;299751651;;;;;;;;;;;www.fougeres-joseph.com
+;JOSSELIN (SARL);ZONE ARTISANALE COUTELOUCHE;22650;PLOUBALAY;296272515;296273027;;;;;;;;;;;
+;Jouan (Sas);13 R EDOUARD BRANLY;35170;BRUZ;299687071;;;;;;;;;;;;
+;Jouault Electricite;9 R CAMELINS;35580;BAULON;299853651;;;;;;;;;;;;
+;Jouault Patrick;9 R CAMELINS;35580;BAULON;299853651;683010894;;;;;;;RDV 14/04/15;;AR 21/09/15;;déjà vu 4 ans plus tot, anciennement 15 salariés, entreprise de 4 salariés actuellement, sa fille est la secraitaire, va prendre sa retraite courant 2015, le repreneur sera son fils Herman. Va rester quelques temps en mi-temps pour superviser son fils. RDV très court (25 min). va en parler avec son fils mais ne semble pas du tout intéréssé. reprendre contact avec son fils dans quelques mois.
+;Joulan (Sarl);4 ALL DU CHÊNE VERT;35650;RHEU (LE);786136492;786136492;;;;;;;;;;;S'orguanise avec des collegues pour faire une sorte de groupement d'achats / AR dans deux semaines 18/06/15 
+;Jouquand Sébastien;7 LES GRANDES HAIES;35360;MÉDRÉAC;642704468;;;;;;;;;;;;
+;Jourdan (SARL);ZA DU CHÊNOT 10 R DU ROCHER GLISSANT;56380;BEIGNON;297757335;;;;;;;;;;;;
+;Jourdan Crespin (Sarl);ZONE ARTISANALE LES OLIVETTES;35520;MELESSE;02 99 69 34 09 - 09 65 25 39 81;06 60 82 59 78;;;;;;;;;;;vu camion cedeo - auto collant grohe sur le camion
+;JPC (Jean-Paul Chevrel);;35580;;252860170;614986235;;;;;;;2015mars;;contrôle;;showroom 
+;JPC Dépannage;8 R MAR DE LATTRE DE TASSIGNY;35580;GUICHEN;614986235;;;;;;;;;;;;
+;JPR;22 BIS R FRÉBARDIÈRE;35000;RENNES;299228490;;;;;;;;;;;;personne en charge non disponible
+;Jr Services;54 R PAS HUBERT;35136;SAINT JACQUES DE LA LANDE;646430939;646430939;;;;;;;NON;;;;pas le temps de voir ca avant septembre - 23/06/15 champion du monde, très bien niveau prix
+;JS Elec;LA RENAUDAIS;35320;CRÉVIN;299426219;621703020;;;;;;;CAP ACHAT;;CAP ACHAT;;partie elec et plomberie / travail a 90% avec YESSS et Brosette, Mr Nourisson
+;Juet Domotech;21 R FRÉBARDIÈRE;35000;RENNES;299557420;299376379;;;;;;;;;;;www.sogex.net
+;Juret;1 R GROS GUILLAUME;35650;RHEU (LE);299869726;;;;;;;;;;non;;SPIE
+;Kaléo;LA GARE;35133;SAINT GERMAIN EN COGLES;299956810;;;;;;;;AR debut semaine 19;;;;Rapide, très occupé cette semaine, ce qui l'interesse c'est les prix, veut pouvoir comparer prix lors de la rencontre
+;Kali-Tech;9 AV GÉN DE GAULLE;35170;BRUZ;603458892;603458892;;;;;;;non;;non;;entrepris fermé depuis 1 an
+;Kalys Environnement;;35510;;261530298;;;;;;;;;;;;
+;Kamaie Mehran;11 R PRÉ PERCHÉ;35000;RENNES;299311458;659578764;;;;;;;;;;;répondeur / 18/04 rappeller vers 11h30
+;Kavea;11 R CLOS DU NOYER;35400;SAINT MALO;299190275;;;;;;;;;;non;;tavail avec tout le monde, pas du tout intéréssé ne veux même pas nous rencontrer
+;Kemano;LIEU-DIT VÉZIGNEUL;35740;PACE;676594114;676594114;;;;;;;non;;non;;entreprise HS
+;Ker Elec SARL;1 R CHARLES ET GABRIEL VOISIN;35730;PLEURTUIT;648360249;;;;;;;;;;;;
+;Keravec Electricité Réseau KER;;35000;;677686051;677686051;;;;;;;arret ents;;arret ents;;met la clé sous la porte
+;Kernéïs Loic;61 COSSINADE;35310;SAINT THURIAL;952643065;644987081;;;;;;;;;;;
+;Kerneis Loïc;;35300;;622420577;622420577;;;;;;;;;;;17/06/15 messagerie - messagerie 19/06/15
+;Khiar Karim;11 SQ GALICIE;35200;RENNES;771079082;;;;;;;;;;;;
+;Kibenn;33 RTE DE RENAC;35660;LANGON;615194395;615194395;;;;;;;;;;;messagerie 18/06/15
+;L.G.P.;6 R PIERRE ET MARIE CURIE;35500;VITRE;299741151;;;;;;;;non  ;;non;;son meilleur ami travail chez Sonepar, c'est un ancient sonepar. Va rester fidele à ses fournisseurs
+;La Boit'A Luis;26 BIS R MONTFORT;35590;HERMITAGE (L');671265211;;;;;;;;;;;;
+;La Boîte;ZA DU BOURIDEL ZA DU BOURRID 25 R CHANTEPIE;35770;VERN SUR SEICHE;299624812;659422000;;;;;;;cap achat;;Cap Achat;;directeur super agréable au téléphone / travail avec cged princiapelement / 5 personnes / AR septembre car été chargé / mail yann@laboiteonline.fr
+;LA PETITE PLOMBERIE 35;14 IMP PLANCHE FAGLINE;35740;PACE;982391969;;;;;;;;;;;;
+;La Plomberie Du Merle;3 R LAFOND;35700;RENNES;698413637;698413637;;;;;;;;;non;;
+;Lachaise Francis;;35430;;299583195;;;;;;;;;;;;femme fait barrage 
+;Lachaise Gauton Electricité;LA HALTE;35430;SAINT PERE MARC EN POULET;299583195;;;;;;;;;;;;
+;Lainé Eric;ZA 3 R DE LA NOUE;35530;SERVON SUR VILAINE;299698977;663842004;;;;;;;;;;;en plein travaux rappeller deman
+;Laine Michel;FINVERT;35830;BETTON;299559820;;;;;;;;;;AR;;Absent, j'ai eu sa femme / messagerie 12/05/15 - ents fermé du 18 au 26 avril…….
+;Laisné Electricité;LE GRAND LAUNAY;35770;VERN SUR SEICHE;613185258;;;;;;;;;;;;
+;Laisne Jean-Noël;25 R MONTFORT;35310;BREAL SOUS MONTFORT;299608494;;;;;;;;;;;;17/06/15 messagerie directement - sur un chantier AR soon
+;Laisne Nicolas;LA MARCHAIS;35580;BAULON;299057892;687827308;;;;;;;;;;;
+;Laizé Lionel;22 R DES TROIS FRÈRES;35260;CANCALE;647570350;647570350;;;;;;;;;non;;pas intéréssé du tout
+;Langlet Anthony;6 IMP BOIS RENOU;35350;GOUESNIERE (LA);678155908;678155908;;;;;;;gapc;;gapc;;GAPC
+;Lapierre Jean-Philippe;;35770;;299418585;642725922;;;;;;;gapc;;gapc;;GAPC
+;Lapierre Philippe;;35000;;685106329;685106329;;;;;;;arret;;arret;;arrive en fin de carrière / pas besoin / travail en direct 
+;Lardeux Mickaël;;35650;;299351998;;;;;;;;;;arret;;numéro non attribué
+;Lardoux Alain;8 R PORT HUÉ;35870;MINIHIC SUR RANCE (LE);299885133;;;;;;;;;;;;
+;Larrieu Christophe;12 R VAL;35400;SAINT MALO;299402215;;;;;;;;;;;;
+;Latruffe Montmeylian Christophe;;35520;;671636288;671636288;;;;;;;;;non;;ne fait que de l'antene
+;LCO Plomberie Chauffage;14 PIERRE LOTI;35131;CHARTRES DE BRETAGNE;299412630;662201326;;;;;;;AR juin;;;;travail avec brosette mais ne fait pas 8 000€ d'achats avec les partenaire cap achat. 15/06/15 sur un chantier, a rappeler vendredi pour mettre un rdv semaine suivante - AR entre 12h et 2h00 sur fixe
+;LDC Electricité;LE GRAND BAS MÉE;35310;CHAVAGNE;299642243;;;;;;;;non;;;;rdv le mardi 17Juin a 8H
+;LDR;LE MESNIL DES AULNAYS;35540;PLERGUER;642637760;299589326;;;;;;;;;;;Mr Midal messagerie
+;Le Bars Gwendal;33 R CHAMP JOUAN;35540;PLERGUER;675361031;675361031;;;;;;;vu non;;;;interreser par l'offre / en parle avec le commercal de CDL / travail aussi avec rexel / 17/07 AR plus tard/ na tjs pas vu ca avec son commercial
+;Le Berre Joël;;35520;;299666320;632509691;;;;;;;;;gapc;;GAPC 35 bientôt / 
+;Le Chapelain;;35400;;299583986;698149701;;;;;;;;;;;
+;Le Colloec Jean Claude;31 RTE HIREL;35111;FRESNAIS (LA);299587650;;;;;;;;;;;;
+;Le Courant Malouin;78 LE SILLON;35111;LILLEMER;299586037;684050494;;;;;;;non;;non;;rendez vous le mercredi 11à 14H30
+;Le Gall;12 D R DES LANDELLES;35510;CESSON SÉVIGNÉ;299414926;;;;;;;;;;non;;
+;Le Gall Jean-Luc;2 R CHAMP DU VERGER;35410;CHATEAUGIRON;603107685;603107685;;;;;;;;;non;;travail avec rexxel socolec (pour le depanage) / se renseigner si il y a d'autre partenaire cap achat sur la zone de chantepie / il existe un yess au dessus de chantepie pareil pour cdl / dispo du 7 au 13 juillet pour fixer un rdv / rendez vous le mercredi 9 Juillet à 11H
+;Le Goff Electricité;ZONE ACTIVITÉ;35850;ROMILLÉ;299690012;;;;;;;;;;AR fin mai;;AR fin mai pour rdv début juin - 02/07/15 ar 09/07/15 pour rdv 10/07/15. doit passer au bureau - 07/07/15 AR lundi prochain pour fixer un RDV
+;Le Goff Yoann;3 R JOSÉPHINE BAKER;35135;CHANTEPIE;667466977;;;;;;;;;;;;
+;Le Gonidec Lionel;7 AV MARVILLE;35400;SAINT MALO;299402469;;;;;;;;non;;non;;messagerie - 06/05/15 messagerie  - 13/05/15 messagerie - arrete activité en fin d'année pour retraite , ne vend pas de fond de commerce
+;Le Grand Thomas;1 BIS R BLETTERIE;35000;RENNES;647886322;299058942;;;;;;;lundi26/01 a 13h30;;non;;2 frèreassociés / Simon legrand / interresser pour entrer dans un groupement / appeler demain pour rendeez vous semaine pro fin de journée
+;Le Guen Arnaud;;35400;;963018409;;;;;;;;;;;;messagerie - 13/05/15 messagerie - messagerie 19/06/15 - 25/06/15 messagerie
+;Le Jeune Renaud;;35400;;;686900431;;;;;;;;;;;Connait felix, adhérent cap achat. A essayé d'avoir les mêmes pris que felix chez CDL. Avait une entreprise d'éléc, ouverte en 2011 et en liquidation judiciaire en 04/14. A créé une nouvelle société avec un partenaire. Comportement et questions bizzares... ne semblent pas digne de confiance, probablement personnes à problèmes
+;Le Jolivet Yvan;LA VILLE AURAY 3 R ANSE DUGUESCLIN;35350;SAINT COULOMB;299895601;673833879;;;;;;;;;AR pas avant janvier;;Maillard, CDL RDV 23/04/15 près de st coulomb, veut reflechir mais peut etre intéréssé, travaille seul depuis 14 ans et n'a jamais été contacté. 09/06/15 - Pas intéréssé pour le moment
+;LE LOUARN;20 R DES PETITS CHAMPS;35400;SAINT MALO;299811131;299821869;;;;;;;;;;;www.brunet-groupe.fr
+;Le Louarn Didier;17 R DES CYCLAMENS;35400;SAINT MALO;299825603;673663525;;;;;;;;;non;;N'est pas venu au rdv du 23/04/15, je l'ai appelé la veille et il avait déjà un autre rdv pris par sa secraitaire à la meme heure, impossible de le voir dans l'aprem.
+;Le Neindre Richard;21 R GÉN LECLERC;35580;GUICHEN;682873196;682873196;;;;;;;ims;;;;fait parti d'une coopérative
+;Le Roux Plomberie Energie;10 R TISSERANDS;35410;CHÂTEAUGIRON;663510339;663510339;;;;;;;2015septembre;;;;Appeler lundi pour fixer rdv / travail avec maillard et fait que de la plomberie / 16/07 / M. le roux très sympathique / me dit qu'il ne veut pas s'y interresser pour le moment mais je pense qu'il va changer d'avis / AR 
+;Lebastard Jean-Paul;2 R GASCOGNE;35520;MONTREUIL LE GAST;299693044;;;;;;;;;;;;
+;Lebeau Didier;LE HAUT VILLAGE;35240;THEIL DE BRETAGNE (LE);608942781;608942781;;;;;;;non;;NON;;100 000€ d'achats / 2 ersonnes dans l'E / travail en direct /
+;Leblanc Robert;9 R JEAN SULLIVAN;35360;MONTAUBAN DE BRETAGNE;299617186;684609909;;;;;;;ims;;;;IMS
+;Leblay Daniel repris faisant;;35120;;299480916;;;;;;;;2015laisse telephone;;;;entreprise en rachat / depart en retraite / rappeler fin d'année car changement de prévut / travail en direct reprise gendre contact avec belle mère implantation a dol 10 rue paris
+;Leblay Joël;LA MANCELLIERE;35120;BAGUER PICAN;299482591;;;;;;;;;;;;16/06/15 messagerie
+;Leblay Vereecque Electricité;64 TER R RENNES;35120;DOL DE BRETAGNE;674907018;674907018;;;;;;;gapc;;gapc;;GAPC depuis 9 ans
+;Lebon André;1 IMP CARRIÈRE;35800;DINARD;299468355;;;;;;;;;;;;messagerie / 06/05/15 messagerie - 13/05/15 messagerie - 26/06/15 messagerie
+;Lebouc Patrick;15 R DOY DURTELLE DE ST SAUVEUR;35000;RENNES;299338485;;;;;;;;;;AR dans deux ans pour joindre le repreneur;;Elu a la CAPEB, son fils doit reprendre, part a la retraite mais en avance
+;Lebranchu Hugues;36 R VILLE ÈS COURS;35400;SAINT MALO;299813894;;;;;;;;rdv 29/06/15;;CAP ACHAT;;vu 29/06/15 - 300 ke chiffres d'affaire, depuis 25 ans, 5 employés, 60 heures semaine, cedeo, rexel, tabur. Cap achat
+;Lebret Michel;4 LE CALVAIRE;35540;PLERGUER;299589210;;;;;;;;;;;;
+;LEBRETON;ZONE ARTISANALE ROLIN;35190;QUEBRIAC;962268050;;;;;;;;;;;;
+;Lebreton Didier Electricité;CHARPENTAIS;35590;CHAPELLE THOUARAULT (LA);964286487;626699860;;;;;;;RDV 14h chez CAP ACHAT;;non;;En chantier sur st aubin d'aubigné semaine 21 - 04/06/15 toujours en chantier St Aubin  - 02/07/15 non, ne veux pas perdre son temps, ne pense pas avoir d'interet
+;Lebreton Electricité Générale;ZONE ARTISANALE ROLIN;35190;QUÉBRIAC;299680674;662502695;;;;;;;RDV - 27/04/15 - 14h;;AR début juillet 2015;;Entreprise depuis 2009, 210 000 euros d'achats annuel, travail principamlement avec Calvez et Yess et un petit peu avec aubade maillard. Pourrais être intéréssé mais veut réfléchir. Olivier Lebreton. Rappelé en mai et en juin mais préfère réfléchir. Ar plus tard. 06/07/15 Arplus tard 
+;Lebreton Jean-Paul SAS;30 BIS R DU CDT VICTOR PANNIER;35300;FOUGÈRES;252880109;;;;;;;;;;;;
+;Lebreton Rémy;ZONE ARTISANALE CRECHETTES;35960;VIVIER SUR MER (LE);299489765;;;;;;;;;;;;
+;Lecamus Norbert;4 LA MENAGERAIS;35580;GUIGNEN;299578911;608053421;;;;;;;;;;;
+;Lecart Kévin;1 R BRUYÈRES;35530;NOYAL SUR VILAINE;661441279;661441279;;;;;;;non;;;;pas motivé / CDO BROSSETTE … 40 000€ achats anuel
+;Lecompte Électricité;LE PÂTIS BOURDAIS;35150;CORPS NUDS;678626383;223311237;;;;;;;678626383;;223311237;;
+;Lecompte Jérémy;;35000;;674247474;674247474;;;;;;;non;;non;;refus de discuter / PI / plus d'entreprise / entreprise fermée
+;Lecomte Patrick;ZA LA HAUTIÈRE R TERTRAIS;35590;HERMITAGE (L');299640124;;;;;;;;;;;;
+;Lecomte Patrick;ZA LA HAUTIÈRE R TERTRAIS;35590;HERMITAGE (L');299640124;;;;;;;;;;AR dans 3  mois;;Départ en retraite .en fin de carrière, ne cherche pas de repreneur. Je n'ai pas insisté
+;Lecorgne Christopher;;35400;;643866668;643866668;;;;;;;;;;;29/06/15 rdv st malo annulé car en déplacement au maroc pour enterrement
+;Lefaix- Desvaux;;35720;;299694505;;;;;;;;;;;;appeler après 18 heure
+;Lefaix Jean-Yves;23 R DINAN;35730;PLEURTUIT;608357545;;;;;;;;;;;;
+;Lefeuvre - Mickael Bernard;;;;299651884;;;;;;;;RDV 26/06/15 ;;AR semaine 29;;un salarié en arret semaine 27 et 28, mr bernard doit le remplacer. 
+;Lefeuvre (SARL);LA CORMERAIS;35450;DOURDAIN;679722391;;;;;;;;;;;;
+;Lefeuvre Emmanuel;12 R PARC DE PENTIÈRE;35750;SAINT GONLAY;681237380;;;;;;;;;;;;
+;Lefeuvre Gérard;4 R ETANG;35630;HEDE BAZOUGES;299454063;;;;;;;;;;;;telephone fax
+;Lefeuvre Roger;;35200;;299502547;;;;;;;;retraite;;retraite;;en retraite depuis 7 ans
+;Lefèvre Alain;13 BD ROI ARTHUR;35740;PACE;619288775;299855212;;;;;;;vendredi 6 a 13h30;;Cap Achat;;messagerie
+;Leforestier Plomberie;19 BIS R BEAUFORT;35540;PLERGUER;688128295;688128295;;;;;;;;;;;cyril Leforestier / messagerie
+;Lefort (SARL);13 R RENNES;35140;MÉZIÈRES SUR COUESNON;299393344;;;;;;;;RDV 30/04/15 - 10h30/11h00;;;;Le calvez fabrice / fabricelecalvez@aol.com
+;Legault Sébastien;10 R BARENTON;35160;BRETEIL;781918296;;;;;;;;;;;;
+;Legavre (Sas);BRUYÈRE;35000;RENNES;299602367;;;;;;;;non;;non;;déjà été contacté par des groupements. N'est pas intéréssé 
+;Legavre Jean-Paul (SARL);2 R DOMAINE;35137;BEDEE;299070032;;;;;;;;;;;;
+;Legendre Vincent;94 D R DE LA VILLE MAUNY;35800;DINARD;624376243;624376243;;;;;;;;;non;;Pas aimable
+;Legrand Eric;;35400;;299565732;634953097;;;;;;;;;arret;;arret
+;Lehuger Camille;38 R MONTREUIL;35520;MELESSE;299669075;;;;;;;;;;;;
+;Lejart Claude;BELLE VUE;35360;MEDREAC;299062043;;;;;;;;;;;;17/06/15 messagerie - messagerie 19/06/15
+;Lejas Didier;19 R LOUIS PÉTRI;35530;NOYAL SUR VILAINE;299040824;;;;;;;;AR;;arret;;messagerie directement
+;Lemercier Anthony;13 R BRETÈCHE;35760;SAINT GREGOIRE;687311144;687311144;;;;;;;;;arret;;messagerie
+;Lemeux Eric;2 R SOURCE;35320;COUYERE (LA);299443408;;;;;;;;;;;;
+;Lemoine Patrice;1 BD ROI ARTHUR;35740;PACE;680151990;;;;;;;;;;;;
+;Lemoussu (Sarl);7 R EDOUARD BRANLY;35170;BRUZ;299050692;;;;;;;;;;;;joindre Mr Lemoussu le matin avant 8h - 24/06/15 vu camion chez mafart
+;Leo Morgan Plombier;;35440;;619994681;619994681;;;;;;;;;arret;;messagerie
+;Lepage Bernard (SARL);8 LA BLOSSERAIE;35550;SIXT SUR AFF;682565624;299700054;;;;;;;ims;;;;IMS
+;Lepage Eric;13 R PIERRE ET MARIE CURIE;35370;ARGENTRÉ DU PLESSIS;299966379;;;;;;;;;;;;www.ericlepage.fr
+;Lepage Eric;13 R PIERRE ET MARIE CURIE;35370;ARGENTRÉ DU PLESSIS;299966379;;;;;;;;;;;;IMS depuis 10 ans
+;Leprêtre Elec;27 BAS POSÉ;35530;NOYAL SUR VILAINE;299040852;627768144;;;;;;;non;;non;;fournisseur principal socolec / finalement PI
+;Leray Elec;66 RTE FOUGÈRES;35510;CESSON SEVIGNE;299620285;687963032;;;;;;;cap achat;;cap achat;;femme au tl / son mari travail sur les chantier avec les distributeur / difficile a joindre
+;Leresteux Alain;LA PILAIS 64 R ANTRAIN;35250;SAINT AUBIN D'AUBIGNE;299552995;;;;;;;;;;;;
+;Leresteux Alain;LA PILAIS 64 R ANTRAIN;35250;SAINT AUBIN D'AUBIGNE;299552995;681656400;;;;;;;;;non;;
+;Leroi Olivier Electricité;LE GRAND BOIS ROGER;35210;MONTREUIL DES LANDES;675364431;;;;;;;;;;;;
+;Leroux Cédric;13 R SIAM;35400;SAINT MALO;290101357;;;;;;;;;;;;
+;Les Marches De Bretagne Services;LIEU-DIT CROIX;35420;BAZOUGE DU DESERT (LA);682660958;;;;;;;;;;;;
+;Lesaignoux Bertrand;12 R RESISTANCE;35800;SAINT BRIAC SUR MER;299880142;;;;;;;;;;AR;;AR début d'aprem/ 06/05/15 messagerie
+;Leseine Plomberie Chauffage;1 R RANGÉE;35290;MUEL;660598701;966815493;;;;;;;;;;;6000€ achats a l'année / entreprise de 2ans / fonctionne en sous traitance
+;Lesné Service;ZONE ARTISANALE LA BOURDONNAIS;35520;MÉZIÈRE (LA);299688282;;;lesne.service@orange.fr;;;;;;;;;www.lesneservice.com
+;Lesné Service;ZONE ARTISANALE LA BOURDONNAIS;35520;MÉZIÈRE (LA);299688282;;;;;;;;AR vers 11h;;;;entreprise avec beaucoup de dépannage 
+;Lesueur Mathieu;13 R BELLEVUE;35210;CHATILLON EN VENDELAIS;626992463;626992463;;;;;;;arret;;arret;;arret
+;Letard (EURL);;35140;;299187953;678820719;;;;;;;RDV26/01/2015;;Cap Achat;;Cap achat
+;Letué Loïc;90 BIS R FOUGÈRES;35700;RENNES;299355128;;;;;;;;;;;;
+;Letué Loïc;;35410;;299355128;;;;;;;;;;non;;Cow Boy - ne veux pas payer pour les autres, les groupements exploitent les petits artisans, pas de temps a perdre etc…………..
+;Levacher Thierry;LA LANDE DU BREIL;35190;SAINT PERN;299668267;;;;;;;;non;;non;;pas interresser
+;Levêque Dominique;4 R BIORD;22750;SAINT JACUT DE LA MER;296277300;296277105;;habitatconfort22@gmail.com;;;;;;;;;www.habitatconfort-electricite-plomberie.fr
+;Levieil Eric (SARL);LA CROIX MADAME;35170;BRUZ;299050364;;;;;;;;;;;;11/05/15 messagerie - 12/05/15 messagerie - 13/05/15 messagerie - 16/06/15 messagerie - messagerie 19/06/15 - 25/06/15 messagerie
+;L'Haridon;8 R ANGE FONTAN;35400;SAINT MALO;677686985;223150854;;;;;;;RDV 03/06/15;;Cap Achat;;envois de mail - rappelé le 23/04/15. n'avait toujours pas regardé le mail, n'a pas souhaité nous rencontrer le 23 pendant que nous etions sur le secteur .A repris l'entreprise de son père en 2011. Travail à 99 pour cent avec cedeo, est intéréssé par le comparateur mais surtout par le logiciel. Utilise en ce moment EBP, il fait les devis facturation, sa femme fait la compta. Doit s'inscrire dans le réseau
+;Lhermitte Jean-Pierre;LE PONT LÉCHARD;35120;MONT DOL;299488551;608688914;;;;;;;2015message;;;;joindre semaine prochaine / pas de groupement / a déjà eu plusieurs propositions / 17/07 absent cette semaine / AR semaine pro - 29/06/15 messagerie
+;LICHIGARAY DAVID (SARL);ZONE ARTISANALE DE LA VILLE AU COQ;35800;SAINT BRIAC SUR MER;299160988;;;;;;;;;;;;
+;Liffré Electricité Générale (L.E.G);6 R PETITS CHAMPS;35760;SAINT GREGOIRE;299235400;;;;;;;;RDV 20/03/15 - 45 min a son bureau;;Reprendre contact pour discuter;;travail avec CSO, distrelec, calvez et yes. Ne voit pas trop ce que l'on pourrait lui apporter. Christian Boismartel, 57 ans, a son compte depuis 25 ans a racheter fafin elec. Environ 10 salariés. Un partenair, n'aime pas trop le p^rincipe de la sous traitance car il a eu vent de mauvaises experiences. déplore le travail au black des auto-entrepreneurs. Fidèle a ses fournisseurs. cap achat n'a aucun interet pour lui mais il faut garder contact. 
+;LIVENAIS (SARL);;35460;;979359037;;;;;;;;;;;;25/06/15 - messagerie
+;LMV Distribution;ZONE DE LORIENT 6 R RETARDAIS;35000;RENNES;299624718;;;;;;;;;;;;
+;Lodé Bodin (SARL);;35300;;299944242;;;;;;;;;;gapc35;;chez concurrent
+;Lohezic Aurélie;21 AV GUILLOTIN DE CORSON;35470;BAIN DE BRETAGNE;299437699;;;;;;;;;;;;
+;Lohézic Daniel (SARL);11 R CHARTREUSE;35470;BAIN DE BRETAGNE;299439969;;;;;;;;;;;;secraitaire, ne sais pas du tout quand appeler pour joindre responsable
+;Lohier Régis;5 R VICTOR BASCH;35700;RENNES;678944534;950836585;;;;;;;;;non;;s'en fous royalement
+;LOISEL ELECTRIQUE SERVICES;LES ROCHERS;35530;SERVON SUR VILAINE;299040118;664722912;;;;;;;AR semaine pro pour connaitre sa reponse;;CAP ACHAT;;Travail avec cged, distrilec et yess, jeune sarl, très sympa, travaillait anciennement chez Calitec (mr Dos), n'a pas signé, je pense qu'il ne travaille pas avec assez de nos fournisseurs pour etre intéréssé. A posé bcp de question intéréssantes
+;Loisel Gustave;LIEU DIT BLANCHE ROCHE;35430;SAINT JOUAN DES GUÉRETS;223523558;;;;;;;;;;;;femme dis que ca ne va pas l'intérésser
+;Lollivier (Sarl);;35700;;299631327;;;;;;;;;;non;;très compliqué, pose bcp de questions pointilleuses et innabituelles et n'a pas souhaité nous rencontrer
+;Lonchamp (Ets);LE BOIS DE LA GRETAIS;35690;ACIGNÉ;299622197;660072010;;;;;;;;;;;
+;Lorcet Teddy;2 IMP CLÉMENT ADER;35730;PLEURTUIT;679809363;679809363;;;;;;;;;AR en septembre 2015;;auto entrepreneur, création de son entreprise en 2012, réalise entre 20k et 30k euros d'achats de matériels. Travail avec cedeo majoritairement. N'est pas marié à son distributeur, est très intéréssé par les prix , se dis prêt à acheter chez des distibuteurs types legallais, mafart, aubade etc... Doit s'incsrire dans le réseau
+;Loret Maurice;8 ALL CAMILLE GODET;35700;RENNES;967103895;;;;;;;;;;;;
+;LORY Christophe;18 R ELISE DE ROCHE;35730;PLEURTUIT;663493322;663493322;;;;;;;;;gapc;;gapc
+;Loureiro Thomas;5 LE FOUGERAY;35350;SAINT MELOIR DES ONDES;675587311;;;;;;;;;;;;
+;LOUVIGNE;;35800;;971239028;;;;;;;;;;;;numéro non attribué
+;Loyer Daniel;2 IMP MARGUERITES;35620;ERCE EN LAMEE;299442384;;;;;;;;;;;;messagerie 18/06/15
+;Lucas (SARL);LIEU-DIT JANAIE;35240;THEIL DE BRETAGNE (LE);299430883;683957825;;;;;;;;;;;
+;Lucas Guy;2 R MORINAIS;35650;RHEU (LE);680251322;680251322;;;;;;;;;AR;;mauvais numero 
+;Luneau (SARL);15 LIEU-DIT RALLIÈRE;35140;SAINT JEAN SUR COUESNON;299391538;;;;;;;;;;;;
+;Lustrelec;ZONE ARTISANALE LA MASSUE;35170;BRUZ;299526884;;;;;;;;;;;;plusieurs conducteurs de tavaux, envoyer mail pour qu'elle le redistribu à tous les conducteurs de travaux.  24/06/15 vu camion cso
+;Lutzelec;26 RTE LOHON;35580;GOVEN;622493354;622493354;;;;;;;non;;;;part en déplacement pour 2 semaine / rdv le mardi 8 à 8H45
+;M Bourgeault Sanithermie;14 R DUCHESSE ANNE;35120;SAINT BROLADRE;299802860;607670360;;;;;;;;;;;
+;M P A;;35470;;299433620;;;;;;;;2015mars;;;;a arreter la plomberie car déborder en toiture / SARL Pado ancin employer qui s'occupait de la plomberie / il s'ets mis a son compte
+;Ma Solution Energetique;LA BARRE;35850;ROMILLÉ;637036582;299230020;;;;;;;637036582;;;;
+;Macé Electricité;;35370;;299967099;627876915;;;;;;;non;;;;rendez vous vendredi 27 à 13H30
+;MACE PHILIPPE;10 R ETANG;35450;VAL D IZE;299768095;;;;;;;;;;;;AR le soir vers 18h30
+;Macé René;9 AV HENRI FRÉVILLE;35200;RENNES;299509235;;;;;;;;;;;;15/06/15 messagerie - 16/06/15 messagerie - 25/06/15 messagerie appeler matin/midi ou soir
+;Maddi Elec (SARL);7 ALL RUISSEAU;35410;DOMLOUP;634291993;634291993;;;;;;;ar24/02/2015;;non;;travail avec yesss / probleme de volume d'achats qui ne sont pas assez mportant hors déroguation. Nous a planté plusieurs fois, change d'avis…
+;MAHEY;5 IMP GRAND JARDIN;35400;SAINT MALO;299190303;;;;;;;;;;non;;Rappeler semaine 18 pour prendre rdv avec la responsable des achats
+;Maigret Patrice;;35220;;223550586;;;;;;;;ims;;ims;;grosse entreprise / IMS
+;Maillot Maxime;1 BD DE GAULLE;35560;ANTRAIN;223511171;;;;;;;;;;;;messagerie 18/06/15
+;Maisoning;75 R LORIENT;35000;RENNES;252080167;;;;;;;;arret ents ;;arret ents;;numéro pas attribué
+;Malecot Ludovic;LIEU-DIT GRANDE COUR;35500;CORNILLE;299495343;;;;;;;;;;AR 12h30/1h;;j'ai eu sa femme  
+;Marais Gilles;R PASTEUR;35137;PLEUMELEUC;299852432;;;gillesmarais1@orange.fr;;;;;;;;;www.qualithermie.com
+;MARC ELECTRICITE ET DEPANNAGE;2 R ROSIERS;35370;ARGENTRE DU PLESSIS;223553996;;;;;;;;;;;;
+;Marcenr;;35240;;670529440;670529440;;;;;;;2015laisse message;;;;messagerie
+;MARCHAND ANDRE (SARL);;35680;;299765096;;;;;;;;;;;;
+;Marchand Michel;LE BROUSSAIS;35600;SAINTE MARIE;;;;;;;;;;;;;numéro pas attribué
+;Marchand Père & fils;11 R DES COLOMBES;35680;BAIS;299765096;;;;;;;;;;;;
+;Marechal Olivier;LES FOUTEAUX;35250;SAINT AUBIN D'AUBIGNE;299555417;;;;;;;;;;;;13/05/15 messagerie 16/06/15 messagerie - messagerie 19/06/15
+;Marest chauffage;9 R CÔTE D'EMERAUDE;35830;BETTON;680569855;680569855;;;;;;;;;AR;;mauvais numero / l'aboné ne peut etre joint
+;Marsolier Electricité (SARL);23 R DE L'YSER;35300;FOUGÈRES;299996400;299993384;;;;;;;;;;;
+;Marsolier Roger;5 R LAENNEC;35530;SERVON SUR VILAINE;299002378;;;marsolier-roger@wanadoo.fr;;;;;;;;;www.electricien-roger-marsolier-rennes.fr
+;Marti Xavier;2 IMP PEUPLIERS;35850;IRODOUER;299398216;;;;;;;;;;;;
+;MARTIN PIERRICK SERVICES;LIEU-DIT LA GRANDE BRETONNIÈRE ST MÉLAINE;35220;CHATEAUBOURG;299623413;;;;;;;;;;;;
+;Mass'elec (EURL);;35560;;299983143;;;;;;;;AR;;;;travail en direct / pas de groupement d'achats / 18/06/15 - 
+;Masson Eric;3 BIS R MAR FOCH;35240;RETIERS;299436348;;;;;;;;non;;non;;pas dispo en juillet / AR aout - messagerie très etrange / probablement plus en activité 22/06/15
+;Mat'Eco;;35520;;299553654;619154844;;;;;;;;;;;messagerie - Denis leconu  11/05/15 messagerie - 12/05/15 messagerie - 13/05/15 messagerie
+;Maudet Didier;16 R ERIC TABARLY;35131;PONT PEAN;299771784;617938507;;;;;;;non;;non;;pas le temps de discuter/ne fait pas parti d'un groupement / trvail avec Cdo / brosette loarans et maillard / 50 000€ achats a l'année / ne désire pas de rendez vous ou adhérer préfère rester come ca / n'as pas voulu me donner de raison particulière
+;Mauger Bertrand;LA MÉTAIRIE;35520;MELESSE;607629328;607629328;;;;;;;;;arret;;11/05/15 numéro non attribué
+;Maurais Yannick;3 LOT VERGER;35850;PARTHENAY DE BRETAGNE;299690054;;;;;;;;;;;;
+;Maurillon Frédéric;LIEU-DIT ST JULIEN;35134;THOURIE;672862579;299431533;;;;;;;RDV27/01/2015;;AR septembre 2015;;en train de démonter une colone d'immeuble / rappeler demain matin pour rdv / seul dans son entreprise / travail avec Dupont LTM / n'accroche pas vraiment avec nos partenaires mais interresser par l'offfre de test gratuit / recontacter debut septembre
+;MD Elec;2 R ANDRÉ MALRAUX;35136;SAINT JACQUES DE LA LANDE;618096951;;;;;;;;;;;;
+;Medina Ludovic;26 R FORT;35430;CHÂTEAUNEUF D'ILLE&VILAINE;667623178;;;;;;;;;;;;
+;Melot (EURL);;35390;;299729743;;;;;;;;;;;;17/06/15 messagerie
+;Ménard Henri;;35400;;299811285;;;;;;;;;;;;J'ai eu sa fille, pour joindre le père, appeler le midi ou a partir de 18h00
+;Ménard Plomberie Chauffage;2 BIS R BACHELOT DE LA PYLAIE;35300;FOUGÈRES;659905540;659905540;;;;;;;;;ims;;pense aller GAPC 35 / je lui ai recommander d'aller sur notre site internet/ 15/07 rattachement au gapc tjs pas fait AR pour prendre des nouvelles et proposer de comparer nos offres au cours d'un rdv
+;Meneust (SARL);11 R FORGES;35640;CHELUN;299474484;;;;;;;;;;;;
+;Menuco;;35340;;637530572;637530572;;;;;;;laisse message;;non;;Patrick hardi
+;Menuis'Elec;72 R PINTERIE;35300;FOUGERES;631574485;;;;;;;;;;;;
+;Menuiserie multiservices;;;;;603187805;;;;;;;;;;;vu camion chez legallais - Gerard Monnerais
+;Mérel Francis;LIEU-DIT PIN;35500;SAINT M'HERVE;299767310;;;;;;;;retraite;;retraite;;retraite
+;Messager Patrick;16 R ANATOLE LE BRAZ;35590;HERMITAGE (L');299641119;967437554;;;;;;;;;;;vu camion mafart - 2 dans la boite, 15 ans d'existance
+;Metallerie serrurerie ARCom;;35320;;299426363;;;;;;;;;;;;vu camion legallais
+;Michael Roussel (SARL);6 BD GEORGES CLEMENCEAU;35420;LOUVIGNE DU DESERT;299981742;;;;;;;;;;;;messagerie - toutes les lignes de votre correspondant sont occupés 24/05/15
+;Michaud Jérôme;LA DEVORIAIS;35390;GRAND FOUGERAY;683671142;;;;;;;;;;;;
+;Michel Gérard;PETIT MONT NOEL;35460;MONTOURS;299977503;;;;;;;;;;;;
+;Migaud Daniel;LA CHAPELLE DE LA HAYRI;35580;GOVEN;299420987;;;;;;;;;;;;
+;Missenard Quint B (SA);66 BD HAIE DES COGNETS;35136;SAINT JACQUES DE LA LANDE;299312633;;;;;;;;;;;;
+;MODERNIZ ET VOUS;17 ALL ALBERT CAMUS;35160;MONTFORT SUR MEU;686741793;;;;;;;;;;;;
+;Monsieur Issa;APPARTEMENT 301 22 PL SERBIE;35200;RENNES;695889253;;;;;;;;;;;;
+;Monsifrot Peyrouny (SARL);ZONE ARTISANALE GRAVELLE;35560;MARCILLÉ RAOUL;299736367;;;;;;;;;;;;
+;Morais Pascal;;35430;;299582261;;;;;;;;;;arret;;
+;Moreau Daniel;;35500;;299745792;;;;;;;;;;;;12/06/15 messagerie - fermer jusqu'au 26/08/15
+;Moreau Jean-Luc;4 R MAIRIE;35370;BREAL SOUS VITRE;634985372;;;;;;;;;;;;
+;Morel Bâtiments (SARL);;35130;;299962077;;;;;;;;;;;;
+;Morel Stéphane;LA CHOUANIÈRE;35560;MARCILLÉ RAOUL;624844581;;;;;;;;;;;;
+;Moren' (SARL);;35310;;299600101;;;;;;;;;;;;numéro non attribué
+;Moriceau Philippe;BEREGOVOY R ST PIERRE;35150;CORPS NUDS;299441051;;;;;;;;;;;;
+;Morin Laurent;8 R VERGERS;35800;DINARD;299468097;607677754;;;;;;;;;;;
+;Morvan Oresve;;35380;;624375897;624375897;;;;;;;;;;;non attribué
+;Moucet (E.U.R.L);R LIBERTÉ;35540;MINIAC MORVAN;777790973;;;;;;;;;;;;
+;Mougin (Sarl);30 R CROIX GUILLAUME;35800;DINARD;299466333;;;;;;;;;;AR fin mai;;en déplacement, a rappeler semaine prochaine 06/05/15 - AR fin mai
+;MPC Morgan Plombier Chauffagiste;13 ALL FONTENELLES;35770;VERN SUR SEICHE;763903535;;;;;;;;;;;;
+;MR E.P.C.;LA JAUNAIS;35330;MERNEL;;0640125045 ;;;;;;;;;;;CASSET Kewin / LUMUTRICY Cedric
+;Mr Perrin;13 RTE MOTTE;35250;CHEVAIGNE;670906266;;;;;;;;;;;;
+;MSP-Instal;LE BOIS NEUF;35490;VIEUX VY SUR COUESNON;625950617;;;;;;;;;;;;www.msp-plomberie-35.com
+;Mullier Bruno;15 ALL PIERRES D'ABAS;35830;BETTON;604419371;;;;;;;;;;;;
+;Munch Gilles;1 R LIBÉRATION;35210;PRINCE;299767459;;;;;;;;;;;;rappeler en fin d'après midi
+;My'Elec (SARL);5 R BARENTON;35160;BRETEIL;299060728;;;;;;;;;;;;16/06/15 messagerie - messagerie 19/06/15
+;NB Dépannage;8 R ABBÉ HUCHET;35400;SAINT MALO;299807372;677990741;;;;;;;;;gapc35;;gapc35
+;Née Pascal;9 CHEM COUDRAIS;35170;BRUZ;299526818;631395447;;;;;;;;;AR début juillet 2015;;12/05/15 - femme, rappeler semaine prochaine - 10/06/15 envoyer numéro par sms, nous rapellera quand il sera dispo
+;Nev Energie;;35510;;810610670;;;;;;;;;;;;
+;Neveu Frédéric (EURL);4 R LILAS;35137;BEDEE;681518636;;;;;;;;;;;;
+;Next Generation Solar;ZI BASSES FORGES;35530;NOYAL SUR VILAINE;299005775;;;;;;;;AR;;;;numéro pas attribué
+;Nextenergies;55 BD JULES VERGER;35800;DINARD;299166535;;;;;;;;;;AR;;messagerie
+;NGPlomberie;20 ALL DU DANEMARK;35200;RENNES;689124635;689124635;;;;;;;;;;;messagerie / 13/05 messagerie / 04/06 travail principalement avec CDO Dupont/ 12/06/15 messagerie - 26/06/15 messagerie
+;Nicolas LEVY;;35720;;;647149634;;;;;;;;;;;
+;Nicolas Loîc;1 R PONT SEL;35410;CHATEAUGIRON;299373250;;;;;;;;;;;;
+;Nicolas Mazurais;11 LOT PRÉ MIROUZE;35150;ESSÉ;675932248;299471617;;;;;;;675932248;;;;
+;Nicolas Mazurais Electricité;;35150;;675932248;675932248;;;;;;;NON;;non;;travail avec distrilec CGED YESS / pas interresser pour le moment pour des question d'habitude
+;Nivolle Franck;R PATIS DES NOES;35230;SAINT ARMEL;299047066;;;;;;;;;;;;
+;Nobilet (Sarl);LES QUATREVAIS;35260;CANCALE;299897363;;;;;;;;;;;;
+;Nouaze Bertrand;19 R NOGUETTE;35400;SAINT MALO;637854995;637854995;;;;;;;;;Arret ents;;messagerie/ 06/05/15 messagerie
+;Nourrisson;;35320;;964135390;;;;;;;;;;;;
+;Nouvel'Air Habitat;40 R BIGNON;35510;CESSON SEVIGNE;222443990;;;;;;;;;;;;en cours de liquidation
+;Ntambwe Kankonde Roger;78 BD GUÉRINAIS;35000;RENNES;623390083;623390083;;;;;;;;;;;16/06/15 messagerie
+;O.L.C Habitat;9 R HÔTEL DE VILLE;35890;LAILLÉ;299423584;662333584;;;;;;;RDV 19/05/15;;AR en juillet 2015;;AR début de semaine 18 - Loic orain - 15/06/15 ne semble pas intéréssé pour le moment. Lui laisser le temps de réfléchir
+;OB2E;38 R GIMBERT;35580;GUIGNEN;671360483;;;;;;;;;;;;
+;Okwind (SAS);R JEAN MARIE TEXIER;35500;VITRÉ;223557820;;;;;;;;;;;;
+;Olivier Lionel (Eurl);60 AV DU PORT;35480;GUIPRY;299347208;;;;;;;;;;;;messagerie- messagerie 19/06/15
+;Ollivier Daniel;4 IMP GROS CHÊNE;35590;SAINT GILLES;299648913;662530372;;;;;;;Cap Achat;;Cap Achat;;en vacnces semaine 20, AR 18/05/15
+;OMEGA ELECTRIC SERVICES;;35000;;645799160;645799160;;;;;;;arrret ents;;arret ents;;03/04/14 travail en direct sans groupement / jamais aucune adhésion a cause des tarif / envoyer un mail avec documenta tion et recontacter dans 15 J / nom dirigeant Pascal Millotte / 18/04 ne souhaite pas changer sa manière de travailler pour le moment / a recontacter pour prendre des nouvelles sur sa sitution / 12/05 cessation d'activité
+;Optima services;;35132;;299149621;;;;;;;;;;;;vu camion chez legallais
+;Orain Bruno;BONNE FONTAINE;35390;SAINT SULPICE DES LANDES;672400542;672400542;;;;;;;;;AR mi- mai;;entreprise dans sa 2eme année/ très peu de demande / travail principalement avec CSO
+;Orgelec;4 R ANCIENNE GARE;35230;ORGERES;299572033;674753856;;;;;;;rdv siege 15/10 a 15h30 non;;non;;fabrice / messagerie / travail en direct ave c YESS / traite le sprix avec les fabricant 
+;Orhan (SARL);ZONE ARTISANALE BELLEVUE;35330;MAURE DE BRETAGNE;299349549;299345511;;sarlorhan@orange.fr;;;;;;;;;www.sarlorhan.fr
+;Ory Yves;;35000;RENNES;607536107;607536107;;;;;;;non;;non;;mauvais numéro  
+;Ouest Colonnes;3 PAS ST LÉONARD;35230;NOYAL CHÂTILLON SUR SEICHE;624158418;223354939;;;;;;;non;;non;;ne veut pas entendre parler de groupement / ne sert a rien de rappeler / 
+;Ouest Confort;LE LIMONAY;35350;SAINT MELOIR DES ONDES;299585015;;;;;;;;;;;;
+;Ouest Inside (SARL);3 R CHÊNES;35630;LANGOUET;782491715;782468384;;contact@ouest-inside.fr;;;;;782491715;;;;www.ouest-inside.fr
+;Ouest Thermelec;;35131;;299411520;;;;;;;;RDV 15/06/15;;AR mi juillet;;Mail à envoyer puis ar dans 2 semaines / travail au coup par coup / industriel, particulier / fonctionne par appel d'offre fournisseurs/ travail avec rexel tabur … / n'a pas le budget pour les conseils/ nous rappel fin mai début juin pour passer au bureau.  RDV 15/06/15 siège Cap Achat, pose beaucoup de questions notamment sur l'organisation de Cap Achat.  entre 50 et 60 k e de CA. très procédurié. Veut prendre 2,3 mois pour réfléchir. 
+;Ounekham.M;;35540;;223520261;;;;;;;;;;;;
+;Ozdemir Mazlum;10 SQ NIMÈGUE;35200;RENNES;620642548;;;;;;;;;;;;
+;Ozdemir Mazlum;10 SQ NIMÈGUE;35200;RENNES;620642548;620642548;;;;;;;non;;non;;coupe pendant la discution / a pas le temps 
+;P Et T Technologie;R PRÉ LONG;35770;VERN SUR SEICHE;299367740;;;;;;;;;;non;;Bureau d'études
+;P.B.I (Particulier Bâtiment Industrie);51 R TEMPLE DE BLOSNE;35136;SAINT JACQUES DE LA LANDE;299309760;;;contact@pbisas.com;;;;;RDV 01/07/15;;AR;;Ar, était en clientelle au moment de l'appel
+;P.C.D.M;12 R COTEAU DE LA ROSAIS;35132;VEZIN LE COQUET;671082326;;;;;;;;;;;;
+;P.P.S.;;35320;;675608072;675608072;;;;;;;non;;;;numero pas attribuer
+;P.S.C Plomberie Sanitaire Chauffage;LE COUDRAY;35430;SAINT JOUAN DES GUERETS;299811430;614983923;;;;;;;;;;;fait déjà parti d'un groupement d'achat
+;P.S.C Plomberie Sanitaire Chauffage;LE COUDRAY;35430;SAINT JOUAN DES GUERETS;299811430;;;;;;;;;;;;
+;Pain Christophe;18 R MÉDRÉAC;35290;QUEDILLAC;299062577;;;;;;;;;;;;17/06/15 messagerie - 22/06/15 messagerie
+;Pairin SARL;250 R NANTES;35136;SAINT JACQUES DE LA LANDE;299651366;;;;;;;;;;;;
+;Pamiseux Hugues;LIEU-DIT BOURG;35140;CHAPELLE SAINT AUBERT (LA);299187048;;;;;;;;RDV 30/04/15;;AR septembre 2015;;Sympathique, intéréssé, à son compte depuis longtemps, travail uniquement avec poujoulat, un peu avec beauplet, fait bcp d'usines, ne travaille persque pas avec des particuliers. Réalise plus de 30k d'achat mais pas forcément chez nos fournisseurs. Pense a diversifier ses fournisseurs mais ne se sent pas près à changer poujoulat. Il a 3/4 gars employés. est associé avec poujoulat dans une autre structure. Plus gros poseur de poujoulat sur la bretagne. pas besoin de nous pour le moment mais aura besoin de nous plus
+;Pannetier (SARL);LA RUE CREUSE;35530;SERVON SUR VILAINE;252880663;299001653;;;;;;;ims;;;;IMS depuis sa création
+;Pardo Electricité (SARL);10 R DU VILLAGE DE LA MÉTAIRIE;35131;CHARTRES DE BRETAGNE;299411293;;;;;;;;RDV 07/07/15;;;;trè bon contact / 4 dans l'entrperise dont 1 secrétaire / travail avec YESSS principalement et socolec rexel / 150 000€ d'achats sur l'année / AR en septembre / insister sur l fait de faire gager du temps avec le logiciel car secrétaire as peur de perdre du temps avec un interlocuteur suppl/ 07/07 n'était pas au rdv, nous avons laisser un message, AR
+;Pasco Jacky;30 R VIGNE;35540;MINIAC MORVAN;299569650;;;;;;;;;;;;
+;Payart Frédéric;1 BD LA TOUR D'AUVERGNE;35000;RENNES;299302302;;;;;;;;;;;;messagerie /02/05 messagerie - 12/06/15 messagerie - 15/06/15 messagerie - 29/06/15 messagerie
+;Pays De Vilaine Electricité;33 GRANDE RUE;35600;BAINS SUR OUST;666354149;;;;;;;;;;;;
+;PC Elec;TERVAUX;35270;COMBOURG;633457458;677307696;;;;;;;633457458;;;;
+;PCB;ZONE ARTISANALE CHENE JOLI;35530;NOYAL SUR VILAINE;230966111;661836617;;;;;;;AR lundi 30/01/15;;CAP ACHAT;;"
+Mafart et legallais, Kwb. Femme sympatique, mais assez pointilleuse, veux tout savoir mais pas désagréable dans sa démarche
+"
+;Pean Artisan;30 AV MAR LECLERC;35310;MORDELLES;299851476;680880469;;;;;;;cap achat;;;;prends sa retraite le mois prochain
+;Péan Cédric;7 R ERIC TABARLY;35360;CHAPELLE DU LOU (LA);617742145;;;;;;;;;;;;
+;Pean Jean-Louis;LA HAUTE OLIVERIE;35150;PIRE SUR SEICHE;299445254;;;;;;;;;;;;15/06/15 messagerie - messagerie 19/06/15
+;PEC (EURL);7 R DU PLESSIS;35770;VERN SUR SEICHE;299628728;;;;;;;;;;;;Joindre gérant Mr bondel 
+;Pelé Didier (EURL);12 R ANDRÉE RÉCIPON;35136;SAINT JACQUES DE LA LANDE;760762145;760762145;;;;;;;AR COURANT FEV2015;;;;coupe pendant la discution / fait plomberie + elec
+;Pellet Anthony;;35120;;650004898;650004898;;;;;;;arret ets;;arret ets;;entreprise fermer depuis février / liquidation
+;Peltier Bernard (SARL);LA HAUTE VILLE;35350;SAINT MELOIR DES ONDES;299891666;680064006;;;;;;;gapc;;gapc;;gapc
+;Pénard Electricité;4 IMP GERHOUI;35650;RHEU (LE);299645728;;;;;;;;doit me rappeler;;;;contact Mme penard / très bon contact / 5 personne dans l'entreprise / entreprise familiale / directeur  Mr penard / mail penardelectricite@wanadoo.fr / envoyer brochure et recontacter semaine pro
+;PERCEL DEGREE (SARL);9 R PUITS GEFFRARD;35130;AVAILLES SUR SEICHE;299960377;;;;;;;;ims;;ims;;IMS / 10 ans
+;Perrin Christophe;23 LA CROIX CHEMIN;35720;SAINT PIERRE DE PLESGUEN;223162956;683474624;;;;;;;;;;;travail en direct / entreprise a taille humaine / messagerie / mail christopheperrin35@hotmail.fr / 02/05 messagerie / 12/05 messagerie / AR debut septembre pour fixer un rdv
+;Perrinel;82 R ALAIN D'ARGENTRÉ;35370;ARGENTRÉ DU PLESSIS;299966139;;;;;;;;;;;;20 employes / derogation et volumes d'achats important
+;Perroteau Alain;128 R TEMPLE DE BLOSNE;35136;SAINT JACQUES DE LA LANDE;299651028;;;;;;;;;;;;
+;Pertois Marc;CHEM TOURAILLE;35260;CANCALE;299897744;0299896129(bureau);;;;;;;;;non;;Sa femme gère les achats, ils ont déjà fait partis d'un goupement il y'a une 20 ène d'années et ne souhaitent plus travailler dans un groupement
+;Pestel Mickael;14 R DOUET FOURCHÉ;35800;DINARD;950609352;652745658;;;;;;;;;Gapc;;
+;Phil'Elec;;35230;;299423832;671934466;;;;;;;non;;non;;déroguation sur legrand …/  pas d'interrert
+;Philippeaux Louis;;35420;;299973009;;;;;;;;;;IMS;;Louis Philipeaux est en retraite, ent reprise par mr Gilier
+;Picard Frédéric;;35560;;223161351;;;;;;;;AR;;Arret ent;;messagerie
+;Pichot Frédéric;23 R CHARMES;35310;CINTRE;603515120;;;;;;;;;;;;
+;Pichot Frédéric;23 R CHARMES;35310;CINTRE;603515120;603515120;;;;;;;non;;;;ne veut pas écouter la proposition
+;Piednoir Philippe;;35510;;223271962;678130952;;;;;;;;;non;;messagerie
+;Pierre Morel Bâtiment (Sarl);ZAC DE BEAUVAIS R JEAN BAPTISTE LEPAGE;35130;AVAILLES SUR SEICHE;299962077;299960024;;;;;;;;;;;
+;Pierrick Martin Services;;35220;;299623413;;;;;;;;;;;;messagerie - messagerie 19/06/15
+;Pigeon Aurélien;LA PETITE VILLENEUVE;35420;LOUVIGNE DU DESERT;620916374;620916374;;;;;;;;;IMS;;n'a pas parlé, je pense qu'il a voulu me faire croire qu'il y avait un probleme de telephone. Quand j'ai rappelé juste après, je suis tombé sur la messagerie - IMS
+;Pilard Maurice;12 R JOLIOT CURIE;35730;PLEURTUIT;299461376;299888291;;;;;;;;;gapc;;gapc
+;Pinard Bertrand;R BESLÉ LE DOMAINE DU NOYER;35390;GRAND FOUGERAY;609254618;299083961;;;;;;;???;;;;travail avec brossette mais n'achete pas beaucoup chez eux / groupement pas rentable pour eux
+;Pineau Thermic Ouest;7 R VICTOR HUGO;35133;LANDÉAN;299973146;;;;;;;;;;;;
+;Pinsard - Viel (EURL);;35680;;299495527;;;;;;;;;;;;
+;Pladys Electricité;4 ALL DU CLOS DE LA GRANGE;35750;BLÉRUAIS;660897556;660897556;;;;;;;gapc;;;;GAPC depuis 1 an et demi - 24/06/15 vu camion chez socolec
+;Planet' Air;;35630;;299698056;;;;;;;;;;;;
+;Plantin Bâtiment;LA CHICHERIE LE CLOS DE L'EPINE;35850;GÉVEZÉ;299699031;;;;;;;;;;AR 22/04/15;; pas ouvert le mercredi après-midi / AR 22/04/15 matin
+;Plessis Denis;14 ALL OLIVIER MOUSSY;35590;HERMITAGE (L');299641607;;;;;;;;;;AR 18/05/15;;19/06/15 appeler le soir pour joindre mr plessis - 02/07/15 messagerie
+;PLIHON Johnathan Patrick;;35111;;;;;;;;;;;;;;CHOQUET Pascal
+;Plihon Le Mauff;ZA R ROLANDIÈRES;35120;DOL DE BRETAGNE;299481227;;;;;;;;42097;;;;10 persnnes / depuis 2001/ travail avec Socolec (colé a son entreprise), Cdl et Calvez de la chapelle/ approche humaine sympatique et agré&able/ ne vois pas ce que l'on pourrai lui apporter/ Bon gestionnaire / d'après le chef d'agence de socolec dol de bretagne, c'est un très bon achateur. A eu 17 salariés avant les années de crises 
+;Plomb Elec 2000;;35000;;299304140;;;;;;;;non;;non;;numéro pas attribué
+;Plomb Service;;35800;;674312388;674312388;;;;;;;;;Arret;;Arreté depuis 2012
+;Plombarteam;14 IMP BLEUETS;35360;MONTAUBAN DE BRETAGNE;299064705;613686290;;;;;;;ar debut mars2015;;;;travail avec brosette lorans maillard aubade / passionner de moto / seul dans son entreprise / en chantier dans le morbihan jusqu’à fin juillet / rappeler pour demander a se rencontrer
+;Plombeco;;35730;;674657016;674657016;;;;;;;;;;;messagerie directement
+;Plomberie Chauffage Guillaume Cadot;LE GUIANEU;35130;GUERCHE DE BRETAGNE (LA);671806934;;;;;;;;;;;;
+;Plomberie Michaud;8 R CHARLES LINDBERGH;35150;JANZÉ;665207918;299443569;;plomberie.michaud@orange.fr;;;;;RDV 16/06/015;;;;super occuper / recontacter a la rentrée / travail en direct plombier chauffagiste / je n'ai pas eu le temps de lui présenter nos partenaire et l'offre cap achat / 16/09/15 n'est pas venu au RDV / AR mi septembre pour planifier un RDV
+;Plomberie Quéré;LIEU-DIT VECTAIS;35190;QUEBRIAC;299455402;;;;;;;;non;;non;;travail avec CDO / AR demain matin
+;Plombreizh;LA COUR VERTE;35113;DOMAGNÉ;677036095;677036095;;postmaster@plombreizh.fr;;;;;ims;;ims;;IMS
+;PM Elec Pelatre-Moriceau;;35150;;299441051;;;;;;;;;;;;AR 27/04/15 avant 8h
+;Pocinho (Sarl);LA RUAUDAIS;35360;MONTAUBAN DE BRETAGNE;299064711;689303310;;;;;;;689303310;;299066761;;
+;Pocinho Antonio;8 LA RUAUDAIS;35360;MONTAUBAN DE BRETAGNE;689303310;299064711;;;;;;;ims;;;;IMS
+;Poidevin-Hertzog (SARL);20 AV DES PINS;35780;RICHARDAIS (LA);667604617;299160509;;;;;;;;;non;;Pas intéréssée par nos services
+;Poilvé Jean-Yves;;35800;;299460090;;;;;;;;;;retraite;;en retraite depuis juillet 2015
+;Pommereul (SARL);3 R THÉODORE LEVANNIER;35133;LÉCOUSSE;299994340;;;;;;;;;;;;messagerie, surement une grosse entreprise
+;Popineau Frédéric (Eurl);LES CHÊNES;35430;SAINT PERE MARC EN POULET;674864350;;;;;;;;;;;;
+;Posson (SARL);12 R MAIRIE;35320;BOSSE DE BRETAGNE;299447341;689118895;;;;;;;non;;;;pas intéresser / tarifs negocier
+;Potdevin Ludovic (SARL);ZONE ARTISANALE;22630;EVRAN;296274157;296274363;;sarl.ludovic.potdevin@orange.fr;;;;;;;;;www.ludovic-potdevin.fr
+;Potrel Christophe;41 R PIERRE HUBERT;35490;VIEUX VY SUR COUESNON;223225486;630824123;;;;;;;;;non;;Pas intéréssé
+;Pouessel Entreprise;RTE CHARTRES;35230;NOYAL CHATILLON SUR SEICHE;299523137;;;;;;;;non;;non;;30 personnes  - 24/06/15 vu camion chez socolec
+;Pouget;ZONE ARTISANALE LA VILLE AU COQ;35800;SAINT BRIAC SUR MER;299460076;;;contact@pouget-confort.fr;;;;;;;ims;;a demandé 2 fois de manger avec nous, IMS, très bizzare, ne semblait pas intéréssé mais voulais des infos sur les prix et le logiciel. Peut etre membre du conseil ims en recherche d'information. N'a pas voulu signé mais voulais qu'on lui laisse les prix pour reflechir 
+;Poulain Franckie;13 RES SILLON;35220;CHATEAUBOURG;623386404;;;;;;;;;;;;
+;Poussin Nicolas;;35500;;;;;;;;;;;;;;12/06/15 messagerie- messagerie 19/06/15 - mauvais numéro
+;Prestelec35;2 R PRESBYTERE;35680;CHANCE;956355107;;;;;;;;;;;;
+;Primard Guy (et Annie);VILLE MAINGUY;35360;LANDUJAN;977858335;;;;;;;;;;;;
+;Pro Volt Elec (SARL);9 R CHARMILLES;35510;CESSON SEVIGNE;299553420;;;;;;;;non;;non;;travail avec un partenaire/ dispose de plusieurs agences / siège a laval et agance sur rennes /09/07 pas interresser pour le moment
+;Prunier Sébastien;LA BERICHERE;35270;BONNEMAIN;290101302;;;;;;;;;;;;
+;Prunier Sébastien;LA BERICHERE;35270;BONNEMAIN;290101302;630833443;;;;;;;non;;non;;en voiture / rappeler plus tard / 09/07 appeler plus tard, sur chantier
+;Qualitec;ZAC DU HILL 1 R ARTISANS;35230;NOYAL CHATILLON SUR SEICHE;299628708;;;;;;;;RDV 26/05/15;;non;;MR Phillipe DOS, depuis 20 ans à son compte, président de la CAPEB, travail avec un associé et un résponsable d'achat. Installé dans la ZA du Hill depuis 7 ans. 450 000 d'achat. Travail avec rexel et CDL majoritairement. Travaille égalament avec yess et un peu beauplet. Ne travaille plus avec CGED. Entreprise très structurée, 9 personnes en tout. Accorde beaucoup d'importance à la confiance et aux services. Leurs fournisseurs on déconseillé Cap Achat. Soit disans qu'ils ont des prix beaucoup plus intéréssant
+;Quebriac Loïc;7 R FOUGERAY;35430;SAINT JOUAN DES GUERETS;299814595;;;;;;;;;;;;
+;QUENEA ENERGIES RENOUVELABLES;10 R ANTOINE DE SAINT EXUPÉRY;35235;THORIGNE FOUILLARD;299624310;;;;;;;;;;;;25/06/15 messagerie
+;R LOUIS BLÉRIOT ZA DE LA CHAUVELIÈRE; 35150 JANZÉ;10086;;;299470103;;SDEL Janzé;;;;;;;;;
+;R S P E C;R BEAUVAIS;35240;THEIL DE BRETAGNE (LE);299477747;;;;;;;;;;;;
+;R.E.I;;35770;;299048020;;;;;;;;;;non;;
+;Ramage Plomberie (SARL);LE PETIT FEUIL;35320;POLIGNÉ;661325692;661325692;;;;;;;41941;;2015message;;très speed au téléphone / demande de rappeler en septembre
+;Ramaré Maxime;;35520;;675215089;675215089;;;;;;;;;arret ets;;arret ets
+;Rance Plomberie;;35430;;681532252;681532252;;;;;;;;;AR septembre 2015;;n'est pas très intéréssé mais j'aurais peut etre pus le convaincre, AR en septembre quand il aura oublié
+;Rannou (SAS);45 R AVENIR;35310;CHAVAGNE;299642112;;;;;;;;;;non;;non
+;Ratel Jean-Luc;LIEU-DIT ROUSSELIÈRE;35150;ESSE;299470735;;;;;;;;;;;;15/06/15 messagerie - 19/06/15 Retraite depuis le mois décembre 2014
+;Raulo Franck;LA VILLE MAHÉ;35780;RICHARDAIS (LA);223170884;;;;;;;;;;;;
+;Rault Daniel & Fils (SARL);5 R DIME;22770;LANCIEUX;296862096;;;;;;;;;;;;
+;Rault Electricite (SARL);;35160;;299060202;;;;;;;;non;;non;;industriel
+;Rault Fabien;72 BIS RTE NATIONALE 12;35235;THORIGNE FOUILLARD;631798672;223273381;;;;;;;arret;;arret;;
+;Rault Samuel;;35800;;299169494;;;;;;;;;;non;;
+;Raut Sébastien (Ets);;35133;;299994831;;;;;;;;non;;non;;déjà contactés par des groupements, ca ne les intéresse pas, travail avec rexel et distrilec
+;RAUX ELECTRICITE GENERALE;LES CORBINIÈRES;35540;MINIAC MORVAN;299580032;;;;;;;;;;;;
+;Raymond Frederic;6 R MOUETTES;35960;VIVIER SUR MER (LE);677190357;;;;;;;;;;;;
+;RDCH;6 R PIERRE ET MARIE CURIE;35500;VITRE;299744889;;;;;;;;;;;;
+;Re Nov Habitat;1 R DE LA BEDANGE;35690;ACIGNE;681189312;681189312;;;;;;;;;;;dominique camari
+;Rebuffé (SARL);LE MOULIN ORY;35340;BOUËXIÈRE (LA);299626716;686283851;;;;;;;;;;;interresser mais AR en septembre / travail avec maillard CDO Mafar et autre … / travail depuis 14 Ans a son compte / personne sympathique au tel / AR en septembre 28/04/15 n'est pas intéréssé pour l'instant, ne souhaite pas nous rencontrer à rappeler plus tard
+;Références Electriques (SARL);4 PL DU SOUVENIR;35200;RENNES;299514033;608004777;;;;;;;42025;;AR semaine 19;;rendez vous mercredi matin 8H30 / 4 place du souvenir rennes 
+;Regie Distri Energie Renouvel Biomasse;35 A AV ACACIAS;35270;COMBOURG;223182749;;;;;;;;;;;;
+;Régnault (Sarl);51 R BASCULE;35000;RENNES;299541639;;;;;;;;non;;non;;coupe pendant la discution  avez-vous déjà penser faire pati d'un groupement
+;Rehault Jean-Claude;LA VILLE ALLÉE BAZOUGES;35630;HÉDÉ;299454207;689773265;;;;;;;;;;;
+;Reland Yoann;LES CHOUANNIÈRES;35170;BRUZ;954292772;;;;;;;;;;;;
+;Ren Elec;;35700;;299382928;;;;;;;;;;AR;;Mr gilard - AR entre 1h30-14h
+;Renard Roger (SARL);BELLEVUE;35133;FLEURIGNE;299952063;;;;;;;;;;;;AR lundi matin avant 9 h - 24/06/15 vu camion chez tabur
+;Renault Albert;TREGU;35380;PLELAN LE GRAND;299069369;607053684;;;;;;;Gapc35;;Gapc35;;occupé au moment de l'appel
+;Renault Christophe;LE RIFFRAY;35150;CHANTELOUP;299470532;683445367;;;;;;;ims;;ims;;IMS
+;Renault Jean-Paul;44 R BEAUMANOIR;35490;SENS DE BRETAGNE;608702048;608702048;;;;;;;non;;;;rendez vous le mercredi 18 Juin 14H00 / a 1 an de la retraite
+;Rennovation generale d'emeraude;;35400;;;;;;;;;;;;;;Fabio ROMANELLI
+;Renou Energies Renouvelables;LIEU-DIT BERU;35680;BAIS;299763009;;;;;;;;;;;;
+;Renov' Et Neuf UNIBAT;30 R RENNES;35600;REDON;;;;;;;;;;;;;
+;Rénov+Solution Globale;MAUFAIRE;35310;MORDELLES;621366361;;;;;;;;;;;;
+;Rénov+Solution Globale;;35310;;299833881;;;;;;;;;;non;;non
+;Rénovation Confort - Jacob Margueritte;;35800;;675036734;675036734;;;;;;;;;AR semaine 19;;mail/pas très sympatique/on devait le rencontrer a st malo le 07/05/15 mais avait bcp de rdv, devait nous rappeler après 15 h, on est partis vers 16h sans nouvelles - vu sur st malo, entretient très rapide, personne sympathique et intéligente, comprend bien l'interet d'un groupement
+;Rénov'Elec;;35520;;674804460;674804460;;;;;;;message;;;;11/05/15 - messagerie directement, ne sempble pas etre le bon numéro… - 25/06/15 messagerie
+;RenovetVous;2 R GÉN DE GAULLE;35410;CHATEAUGIRON;662580548;;;;;;;;;;;;
+;Rénov'Habitat (Eurl);LA BERRAUDAIS;35470;PLÉCHÂTEL;246680610;683561965;;;;;;;;;;;Messagerie - Jean Charles delive
+;Reucheron Dominique;LIEU-DIT BREIL;35500;CHAMPEAUX;618866138;299497132;;;;;;;non;;non;;a ses propres fournisseurs et ca fonctionne bien
+;Richard (SARL);R LOUIS BLÉRIOT;35150;JANZÉ;960520579;;;;;;;;;;AR;;18/03Messagerie 15/04Messagerie  21/04Messagerie - 12/05/15 messagerie - 13/05/15 messagerie probablement a appeller tot le matin
+;Richard Electricité;2 PL MAIRIE;35850;ROMILLE;299232478;;;;;;;;;;;;
+;Richecoeur Elec (ETS);;35400;;659270391;659270391;;;;;;;;;non;;numéro non attribué
+;Ridard Bruno;LA TROUILLAIS;35770;VERN SUR SEICHE;299621591;676114696;;;;;;;RDV 30/06/15;;AR janvier 2016;;vu chez Mafart chantepie, rdv 30/06/15, n'utilise pas internet, ne travaille qu'avec les fournisseurs de Chantepie. Travail avec tabur chantepie (anciennement socolec), Matériaux de L'ouest, bretagne carrelage, et mafart en dépannage plomberie. Travail un peu avec Legallais mais ne veux pas ouvrir de compte car en a déja assez. N'est pas intéréssé par l'offre pour le moment mais a recontacter en janvier 2016
+;Rigaud Gérard;LA CROIX BLANCHE;35320;SAULNIERES;299422841;786185206;;;;;;;ims;;;;pas assez d'achats / personne qui e fait pas 8000€ d'ahats
+;Rigaud Jean-Yves;LE CHAMP BLANC;35850;PARTHENAY DE BRETAGNE;299691665;;;;;;;;;;AR;;j'au eu madame, j'ai laissé le num de portable de christophe. Va en parler à son mari. AR aux heures de repas pour le joindre ex 1h
+;Rihet Patrick (Entreprise);ZONE ARTISANALE LA TOUCHE;35890;BOURG DES COMPTES;299922004;299922134;;sasrihet@rihet.com;;;;;;;;;www.rihet.com
+;Ringenbach Patrick;16 RTE CHANTEPIE;35510;CESSON SEVIGNE;299831419;;;;;;;;;;;;messagerie - messagerie 18/06/15
+;RITTER SAV;29 R DE LORGERIL;35000;RENNES;983547116;675169059;;;;;;;;;;;
+;Roazhon-Elect;R GARE DU TRAM;35520;MEZIERE (LA);299548788;;;;;;;;;;;;
+;Robert Olivier;;35620;;299442250;;;;;;;;;;;;
+;Robert Réhault (SARL);ZONE ARTISANALE TERTRE PIQUE BOEUF;35630;VIGNOC;299698229;;;;;;;;;;gapc35;;gapc35 admin
+;Robin Gilles (SARL);LE CLARAY;44590;SION LES MINES;240289543;;;;;;;;;;;;
+;Robin Luc / Art élec;;35120;;299808202;670620600;;;;;;;rdv 18/06/15 (a confirmer);;AR 22/06/15;;travail avec des distributeur de proximité / sur un chantier pas le temps de parler / AR pour le 18 Aout pour prendre rdv / RDV 18/06/15 travaille avec socolec majoritairement, rexel et yess, un peu aubade maillard. Sympathique, a très bie compris le principe du groupement, n'était pas intéréssé avant mais un ami lui a dis d'essayer. A pour principe de ne pas signer a chaud. AR 26/06/15 doit réfléchir, n'a pas le temps de s'occuper de ca car bcp de chantier et problem de santé. Peut etre intéréssé mais a recontacter dans quelques temps
+;Robin P (SARL);2 R CYTISES;35330;MAURE DE BRETAGNE;299348670;;;;;;;;;;;;
+;Rocher Yann;LA HAUTIÈRE;35550;PIPRIAC;299921788;608000618;;rocher.yann@me.com;;;;;;;;;www.plombier-chauffagiste-redon.fr
+;ROCHER YANN;LA HAUTIÈRE;35550;PIPRIAC;299921788;;;;;;;;;;;;messagerie 18/06/15
+;Rochette Didier;4 ALL GAGNERIE;35130;SELLE GUERCHAISE (LA);619557897;;;;;;;;;;;;
+;Roger Stéphane;11 R ALETH;35400;SAINT MALO;607723750;;;stefane.roger@wibox.fr;;;;;;;;;www.stephane-roger.com
+;Ronceray Pierrick;10 RÉSID MERISIERS;35210;PARCÉ;626246031;;;;;;;;;;;;www.reptronick.fr/Informatique.htm
+;Roquet;R MARCEL QUERCIA;35600;REDON;299711756;;;contact@roquet.fr;;;;;;;;;4/5 chargé d'affaire / mail contact@roquet.fr adrésser au nom de Mme Grimaud suite a notre conversation téléphonique du 18/06/15
+;ROSSELIN RENE DENIS LAURENT;;35290;;299093538;;;;;;;;gapc;;gapc;;messagerie - Rene Rosselin, rentre au GAPC
+;Rouanet Christophe;;35140;;299394860;;;;;;;;;;;;13/05/15 messagerie - 16/06/15 messagerie
+;Rouault Renan;ZONE ARTISANALE LA CROIX COUVERTE;35490;VIEUX VY SUR COUESNON;299457307;;;;;;;;;;;;
+;Rouault Renan;ZONE ARTISANALE LA CROIX COUVERTE;35490;VIEUX VY SUR COUESNON;299457307;;;;;;;;;;;;13/05/15 messagerie
+;Rouault Sébastien;;35770;;299621729;;;;;;;;;;Cap achat;;
+;Rouaut Philippe;LA VILLE ES NOUVELLE;35750;IFFENDIC;299097487;666369822;;;;;;;non;;non;;travail avec cdo et aucun de nos partenaires car cherche certaines marques en particulier / 
+;Roupie Samuel (EURL);65 LIEU-DIT CORNILLÈRE;35120;ROZ LANDRIEUX;695111298;;;;;;;;;;;;
+;Rousseau Frédéric;LIBORÉ;35450;VAL D'IZE;299497769;611613090;;;;;;;message;;;;messagerie- messagerie 19/06/15 - 25/06/15 messagerie
+;ROUSSEL ELECTRICITE (SARL);6 BIS BD GEORGES CLEMENCEAU;35420;LOUVIGNE DU DESERT;611112880;;;;;;;;;;;;
+;Rouxel Laurent;25 CITÉ LAENNEC;35800;DINARD;299160785;;;;;;;;;;;;
+;Rouxel Patrick;10 CHAMP ROND;35250;MOUAZE;650061177;650061177;;;;;;;2015mars;;non;;artisant seul / pas le temps de m'écouter / a recontacter / bon contact - GAPC 35
+;Royer Jean-Yves;19 LA GAILLARDIÈRE;35340;BOUEXIERE (LA);299044512;;;;;;;;;;;;
+;Rozhon-Elect;R GARE DU TRAM;35520;MEZIERE (LA);789331117;;;;;;;;;;;;
+;Ruault Eric;30 R LANDES LA PIERRE BLANCHE;35320;POLIGNE;688122737;;;;;;;;;;;;
+;Rubin Denis;27 LA BRUÈRE;35500;SAINT AUBIN DES LANDES;299495857;;;;;;;;;;;;
+;Rubion (Sarl);ZONE ARTISANALE LA FONTENELLE;35113;DOMAGNÉ;299000358;;;;;;;;;;;;
+;Rupin (SARL);3 PL ST PIERRE;35240;RETIERS;299435126;;;;;;;;non;;non;;IMS
+;RZEPCZYK Dominique;4 LOT CHÂTEL;35120;SAINT BROLADRE;781616742;;;;;;;;;;;;
+;S.ELECT.OUEST;;35380;;299078065;665592574;;;;;;;arret;;;;traval avec yesss et socolec / mail  contact@selectouest.fr rappeler en septembre
+;S.I.M.E (Société Ingénierie Maintenance Exploitation);PARC AFFAIRE LA BRETÈCHE;35760;SAINT GRÉGOIRE;299874820;;;;;;;;;;;;
+;S.O.B.R.E.C (Société d'Exploitation de Chauffage);AV CHARLES TILLON;35000;RENNES;299590917;;;;;;;;;;;;
+;S.T.E.S.S.I (Sani Thermique Electricité Services Installations);L'EPINAY;35310;MORDELLES;299600909;;;;;;;;;;;;
+;Sacquet Fabrice;LA HAYE;35390;SAINTE ANNE SUR VILAINE;954956989;;;;;;;;;;;;
+;Sacquet Fabrice;LA HAYE;35390;SAINTE ANNE SUR VILAINE;299086114;;;;;;;;;;;;travaille avec distrillec, n'aime pas le fait qu'on soit à la chapelle des fougeretz car trop loin de chez lui. Mal déservis par les distributeurs, seul distrillec pose le materiel chez lui les autres ne laissent qu'un avis de passage. N'est pas intéréssé pour l'instant
+;Saillard Matthieu (EURL);11 L'AUBUSSONNAIS;35140;SAINT JEAN SUR COUESNON;684831285;;;saillard.matthieu@orange.fr;;;;;;;;;www.plombier-fougeres.fr
+;Saint Aubin Plomberie Chauffage (SAPC sarl);3 R PAVEMENT;35140;SAINT AUBIN DU CORMIER;299607178;;;sapc35@orange.fr;;;;;RDV 30/04/15;;;;Francois le baliner, ents de 1 an et demi, seul, méfiant, travaille avec bcp de fournisseurs de type st gobain et autre grosses structures. Nous a demandé la liste des adhérents et si on organisais des soirées…. 22/06/15 pas intéréssé pour le moment car n'a pas 300 euros a mettre la dedans 
+;Salliot (SARL);13 R CROIX DORÉE;35133;LECOUSSE;675987189;299994781;;;;;;;non;;non;;manque de temps / rappeller dans 15 jour pour rdv / ne semblait pas interresser puis quand j'ai ennoncer les distributeur + comparatif de prix il accepte rdv / rendez vous le mercredi 2 Juillet à 13H
+;Salliot Debroise (SARL);13 R CROIX DORÉE;35133;LÉCOUSSE;675987189;299994781;;;;;;;675987189;;;;
+;Salou Didier;LE VAL ÈS BOUILLIS LE CHAPITRE;35430;SAINT JOUAN DES GUERETS;299810522;;;;;;;;En retraite dans 1 ans;;En retraite dans 1 ans;;En retraite dans 1 ans
+;Samson Philippe et isabelle;LIEU-DIT SEVIN;35540;PLERGUER;680013382;;;;;;;;;;;;
+;Samuel Rault (SARL);17 R LEVAVASSEUR;35800;DINARD;299169494;;;;;;;;;;;;
+;Sanifluides Du Coglais;AMBULANCE COGLAISE 16 R FOUGERES;35460;SAINT BRICE EN COGLES;299170195;;;;;;;;RDV 29/04/15 - 8h30/9h chez lui.;;;;Ancien commerciale de chez Buron, déjà rencontré en 2011, va prendre sa retraite en juillet 2015, il est devenu salarié entre 2011 et 2015 probablement suite à des pbs persos. Va parler de nous à son employeur
+;Sanitaire Chauffage Côte D'emeraude (SCCE);ZA HERMITAGE 2 BIS R HERMITAGE;35780;RICHARDAIS (LA);299465611;633760484;;;;;;;RDV 23/04/15  - AR dans 3 semaines;;AR;;AR d'ici 3 semaines, concurrence avec gapc35. Dupont - Sylvain SERANDOUR
+;SANITELEC SERVICES;LIEU-DIT RICOQUAIS;35520;CHAPELLE DES FOUGERETZ (LA);663662635;;;;;;;;;;;;
+;SANITELEC SERVICES;LIEU-DIT RICOQUAIS;35520;CHAPELLE DES FOUGERETZ (LA);299664440;;;;;;;;message;;;;messagerie - messagerie 18/06/15
+;Sanithermo (Sarl);12 R EGLISE;35140;SAINT JEAN SUR COUESNON;662012202;223411063;;;;;;;non;;;;entreprise n'existe plus depuis 1 an
+;Sarciaux Kévin;LA REVELINAIS;35720;PLEUGUENEUC;299694337;667236527;;;;;;;;;;;24/06/15 messagerie
+;Sargeclim (SARL);ZONE INDUSTRIELLE SUD EST 21 R FRÉBARDIÈRE;35000;RENNES;299311681;;;;;;;;;;;;
+;sarl ADH;;35890;;;659705949;;;;;;;;;;;vu camion yess - Thierry ANDRIEU
+;SARL David Telecom Infrastructure;;35360;;;;;;;;;;;;;;MERZOUGUI Khoutir
+;SARL ECL METAL;;35430;;0223153588 ;;;;;;;;;;;;HOULLIER Romain / ROBIN Mickael
+;SARL FKM Etancheité;;35410;;;;;;;;;;;;;;POCINHO Stephane, reprend l'entreprise de POCINHO Antonio
+;SARL JM BIOT;2 IMP ROMANESCO;35350;SAINT MELOIR DES ONDES;299892055;;;;;;;;;;;;
+;SARL Pascal Choquet Assistance;;35000;;299532214;;;;;;;;;;;;GUYOMARC Erwan
+;SARL POCINHO;;35360;;0299064711 ;689303310;;;;;;;;;;;CHAMEL Michel
+;SARL Tostivint;24 R ROCHER;35530;BRÉCÉ;652118632;;;;;;;;;;;;
+;Sas Delabarre;BOUSSARD;35830;BETTON;223276056;;;;;;;;;;non;;11/05/15 messagerie
+;Sas Thermique De L'ouest;40 R BIGNON;35135;CHANTEPIE;299862970;;;;;;;;;;;;
+;Satel (SA);LA FOUAYE;35590;SAINT GILLES;299601389;;;;;;;;;;;;
+;Satelec;7 PARC BROCÉLIANDE;35760;SAINT GREGOIRE;299301009;;;;;;;;;;non;;
+;Sati France;ZA BEAUSEJOUR R GARE DU TRAM;35520;MEZIERE (LA);299664788;;;;;;;;;;;;
+;SBM Climatic;;35360;;610128996;610128996;;;;;;;non;;;;pas interresser
+;SDEL Janzé;;35150;;299471255;;;;;;;;non;;non;;Mr Provost/ rentre de congés le 21/04/15
+;Seb Elec Linda;19 LA RIVAIS;35133;CHAPELLE JANSON (LA);299953819;686407679;;;;;;;non;;;;contacter semaine pro par mail pour confirmer le rdc de mardi 24 matin / mail  seb-marsolier@orange.fr
+;Seblaoui Abdelghani;;35000;;753709299;753709299;;;;;;;non;;non;;
+;SED;ETANG DE CHEZE LA CHÈZE;35380;PLELAN LE GRAND;299068011;;;;;;;;;;;;17/06/15 messagerie - messagerie 19/06/15
+;Serge Energies Services;;35200;;636595094;636595094;;;;;;;arret;;arret;;num pas attribuer
+;SERIST;ZONE ARTISANALE ECOTAY;35410;NOUVOITOU;299373937;;;;;;;;;;non;;secraitaire fait barrage - Mr Pellet
+;Serrand Amand;;35830;;299557075;;;;;;;;;;AR;;Par en retraite fin juin / n'as pas trouvé de repreneur, va réflechir pour notre offre de reprise j'ai votre numéro
+;Servant Electricité Générale;6 R VERDUN;35470;BAIN DE BRETAGNE;299439155;688570781;;;;;;;non;;;;pas le temps, en RDV / connait LEBRETON adhérent cap achat / ma demander si je le connaissai mais j'ai repondu non car stagiaire/ 16/07 messagerie
+;SFIC (Serv. Frigorifique Indust. Commerc.);ZI SABIN 2 R CHARLES MÉNARDAIS;35470;BAIN DE BRETAGNE;299439611;299438778;;;;;;;;;;;
+;Simon Denis;LES MAISONS NEUVES;35150;PIRÉ SUR SEICHE;299445362;;;;;;;;;;;;
+;Simon Emmanuel;3 R DU TERTRE;35750;IFFENDIC;299097117;633245331;;;;;;;;;;;www.simon-chauffage-iffendic.fr
+;Simon Franck;51 R DE LA LIBERATION;35310;MORDELLES;299851075;611016073;;;;;;;RDV 27/04/15;;non;;RDV 27/04/15 Sympathique, a son compte depuis 10 ans, n'a pas encore rje , salle de bains, plombeire, peut etre intéréssé travail aubade maillard / mafart , connais patrick trotoux
+;SIMON Patrick Plomberie;;35750;;299097396;607285254;;;;;;;2015message;;299097117;;pas de groupement / 17/07 prends sa retrait en decembre / son fils reprend l'entreprise / AR en janvier pour voir ca avec son fils
+;Sirouet Armel;20 R FOUGERES;35133;BILLE;299976676;;;;;;;;non;;non;;Arret en 2015, en redressement 
+;Site A Watts Developpement;51 RTE RENNES;35600;REDON;299710826;;;;;;;;;;;;
+;SITELEC (Sté Industrielle et Tertiaire d'Electricité);3 R CHANTEPIE;35770;VERN SUR SEICHE;299621961;;;contact@sitelec.net;;;;;;;non;;
+;SLIE (Société Laisné Installation Electrique);;35310;;678839231;678839231;;;;;;;non;;;;prendre rendez vous / entrepris 2 ans / tourne autour de 30 000€ d'achats/ travail avec CEF Rexxel / rendez vous le lundi 16 à 10H30 - 22/06/15 ne peut pas nous voir pour le moment
+;SME;17 R RENNES;35610;PLEINE FOUGERES;299487869;683838689;;;;;;;;;;;messagerie 18/06/15
+;Smido (SARL);ZA LES LANDELLES R LANDELLES;35520;MELESSE;299132308;;;;;;;;;;AR;;messagerie - messagerie 18/06/15 - 19/06/15 messagerie
+;SO.IN.TEC;25 R PIERRE MARCHAND;35530;NOYAL SUR VILAINE;981039790;;;;;;;;;;;;Phillipe Doublar. Coordonées donées par Mr kermarecc de la boite / 06/07 redez vous jeudi 17heure pour présenter le gruopement. Travail avec mafart, beauplet, 200 000 / 10/07/15 entreprise jeune, deux associés, font principalement du marché publique, travail avec mafart maillard aubade et yesss electrique, font beaucoup de négotiation  / cible difficile pour CAPACHAT, voir impossible.
+;SOCCRAM;26 R BAUDRI DE BOURGUEIL;35200;RENNES;299530573;;;;;;;;;;;;
+;Société YG;4 AV CHALOTAIS;35770;VERN SUR SEICHE;650281155;650281155;;;;;;;2015laissemessage;;;;travail avec rexel et cged / va regarder  notre site internet / rappeler dans deux semaine pour savoir si il a regarder et si il est interesser pour un rendez-vous / ne semble pi pour le a fermer pour moment
+;Sofath Energ'Ille Concess. Exclusif;ZONE ARTISANALE DU MOULIN MADAME ALLÉE DE LOHON;35270;COMBOURG;952404325;;;sarl.energille@gmail.com;;;;;;;;;www.energille.fr
+;Sogex;21 R FRÉBARDIÈRE;35000;RENNES;299237443;;;;;;;;;;;;www.sogex.net
+;Solair 3 Tech;6 R PIERRE ET MARIE CURIE;35500;VITRE;677081906;299963423;;;;;;;;;;;messagerie 18/06/15
+;Sol'air Et Co;12 AV DEUX RUISSEAUX;35135;CHANTEPIE;681146273;681146273;;;;;;;non;;non;;ne sonne pas
+;Solaire Thermie (SARL);19 R GÉN DE GAULLE;22490;PLESLIN TRIGAVOU;296395468;;;contact@solairethermie.fr;;;;;;;;;www.solairethermie.fr
+;Solairter;LE VILLAGE DE LA MAGNANNE;35250;ANDOUILLE NEUVILLE;628027438;299552693;;;;;;;non;;non;;dupont cdo / entreprise a 7 ans / e veut pas travailler avec nos partenaire pour une questin de proximiter - 26/06/15 messagerie
+;SOLAR ENER JADE;;35520;;223257763;;;;;;;;;;;;Non attribué
+;Soleil de Brocéliande;;35380;;674965706;674965706;;;;;;;;;;;17/06/15 messagerie
+;Soleo;2 R GUEE;35330;CHAPELLE BOUEXIC (LA);299920176;;;;;;;;;;;;CARDINAL Yves / RENOUARD Bruno / GREGOIRE Jean Paul  - doit me rappeler
+;SOLTAIC;;35420;;698993435;698993435;;;;;;;;;;;AR
+;Solu Therm;PARC D'ACTIVITÉS DE LA MARRE;35780;RICHARDAIS (LA);633949917;;;;;;;;;;;;
+;SONAC;40 R BIGNON;35510;CESSON SÉVIGNÉ;299519090;299324994;;;;;;;;;;;
+;SORRE REGINALD;R AUGUSTE PINSON;35120;HIREL;642692814;;;;;;;;;;;;
+;SOS Particuliers;LA HUTTAIS;35580;BAULON;614243759;;;;;;;;;;;;
+;Souet Electricité (Sarl);ZA DE LA CHAUVELIÈRE 18 R CHARLES LINDBERGH;35150;JANZÉ;299472821;614706209;;daniel.souet@orange.fr;;;;;NON;;non;;travail avec distributeur / mari alergique a l'informatique / femme au tel / pense qu'il ne sera pas interrresser / va regarder notre site internet CALVEZ CGED
+;Soyer Electricite;14 R BERNARD PICOULT;35320;CREVIN;680401824;680401824;;;;;;;non;;;;rexxel et socolec / prix negocier / lui laisser un temps de réflexion / très bon cntact au téléphone mais ne veut pas entrer dans le groupement pour le moment
+;Sté Lachaise Gauton Electricité;LA HALTE;35430;SAINT PERE MARC EN POULET;223150770;;;;;;;;;;;;
+;Stequaire Gaetan;11 PL GARE;35111;FRESNAIS (LA);689454805;299463934;;;;;;;arret;;arret;;
+;Stessi (SARL);;35310;;299600909;;;;;;;;;;;;17/06/15 messagerie- messagerie 19/06/15 - 25/06/15 messagerie
+;Stoetzel Maintenance (EURL);LA BRAYE;35160;TALENSAC;661761098;661761098;;;;;;;non;;non;;déjà rencontrer / connait mr lepretre / je me débrouille très bin tout seul
+;Sun Breizh;;35750;SAINT MALON SUR MEL;299075186;;;;;;;;;;non;;numéro non attribué
+;SUN-IN;6 PL MARCEL PAGNOL;35170;BRUZ;299570863;;;;;;;;;;;;
+;Surelle Gilles Plombier;;35160;;299090098;;;;;;;;retraite;;retraite;;en retraite a la fin de l'année / ne sait pas si repreneur / 
+;Sweet Energies 35;BOIS ANDRAULT;35500;BALAZE;650855872;650855872;;;;;;;;;;;messagerie 18/06/15
+;Sylvain Elec 35;;35520;;665203848;665203848;;;;;;;;;cap achat;;travail avec rexxel socolec et yess / 3600€ d'achat par mois / rendez-vous mardi 27 à 14H
+;Taburet Cédric;27 LA HAUTE TOUCHE;35250;SAINT MEDARD SUR ILLE;684610319;299047674;;;;;;;non;;non;;pas dipo avant 2 semaines / travail avec nos partenaires en plomberie / souhaite recevoir un mail pour pouvoir nous contacter / mail  cedric-taburet@orange.fr / 15/07 a garder nos coordonnées et compte rappeler avant la fin du mois - 22/05/15 me ballade toujours, demande à etre rappeller autour du 15 juillet / sur betton  la semaine du 29/06 pour plusieurs chantiers
+;Tacher (SARL);12 AV KLÉBER;35560;ANTRAIN;661932299;661932299;;;;;;;non cause frs;;retraite et son repreneur a dit non;;rappeler demain matin / travail avec cdL / doit en parler avec son fournisseur / lui laisser une semaine / 15/07 rdv le mardi 22juillet / annule le rdv après discution avec un fournisseur
+;Taillepied Steven;14 IMP ERABLES;35320;COUYERE (LA);299443356;;;;;;;;;;;;messagerie - messagerie 19/06/15
+;Tardivel Cardinaud;LA VILLE AU COQ;35800;SAINT BRIAC SUR MER;299880003;;;;;;;;;;;;
+;Tascher Lionel;2 SQ STOCKHOLM;35200;RENNES;689115733;689115733;;;;;;;arret ets;;arret;;plus artisant depuis 2011
+;Tayef Abdellah;7 R NIVERNAIS;35000;RENNES;627315829;627315829;;;;;;;non;;non;;
+;TC Services;ZONE ARTISANALE DE LA MÉTAIRIE;35520;MELESSE;299132382;611806001;;;;;;;;;AR par Chritophe;;messagerie - messagerie 18/06/15
+;Tec Control;19 BD NOMINOË;35740;PACE;299056050;;;;;;;;non;;non;;vend du matériel 
+;Techni Services;ZONE ARTISANALE HUTTE AUX RENARDS;35410;SAINT AUBIN DU PAVAIL;299377370;;;;;;;;;;;;
+;Techni Tubes Energies;R LIEU DIT L'AUNAY;35150;CHANTELOUP;299441872;;;;;;;;;;;;
+;Technic Elec;6 R PETITS CHAMPS;35400;SAINT MALO;299813254;603103912;;;;;;;;;AR 07/05/15;;Robert POULARD. Je l'ai appelé a 15h00, m'as dis de rappeler en deuxième partie d'après midi, j'ai rappelé a 18h, c'était trop tard m'as dis de le rappeller le lendemain, le lendemain, nous as envoyer nous faire voir en pretextant qu'il était chef d'entreprise et qu'on l'appel toujours au mauvais moment. Puis a rappeler pour s'excuser. vu 11/06/15 sympathique, très préssé, 5 employés, dynamique. Semble travailler beaucoup. Souhaite qu'on le recontacte - travail CDL / appeler fin de semaine pour rendez vous lundi 29 juin / en a parler avec ses distributeurs, il est hésitant / 
+;Techni-Tubes;LIEU-DIT AUNAY;35150;CHANTELOUP;963204618;;;;;;;;;;;;
+;Tecmain;14 BD LOUIS VOLCLAIR;35200;RENNES;783869922;;;;;;;;;;;;
+;Tef;5 R GEORGES BRASSENS;35650;RHEU (LE);0299530218 ;;;;;;;;;;;;DAVID MICKAEL
+;Tehard Patrick;;35500;;299746511;681306119;;;;;;;retraite;;retraite;;12/06/15 messagerie - plus en activité car retraite 
+;Terelec;106 R FOUGÈRES;35700;RENNES;662377717;662377717;;trlc2@orange.fr;;;;;2015fevrier;;non;;travail avec CSO socolec et beauplet (moins souvent) / rappeler a la rentré en septembre pour eventuel rendez-vous connait pascal queminer
+;Tertrais Yoann (SARL);LES BOIS;35160;TALENSAC;299092757;;;;;;;;;;;;
+;Theaudin Mickaël;;35000;;664897876;664897876;;;;;;;;;cap achat;;numero pas attribuer
+;Thébault Jean-Bernard;LA MOTTE;35460;SAINT BRICE EN COGLES;299977356;;;;;;;;;;;;13/05/15 messagerie - 25/06/15 messagerie
+;Thermic Charpentier;;35500;;223551870;;;;;;;;;;;;messagerie 18/06/15
+;Thibault Bobinage Electricité (SARL);2 R ALFRED CHILOUX;35137;PLEUMELEUC;299071034;607962128;;;;;;;;;;;
+;Thome Jean-Christophe (Rance Plomberie);8 R VAU DORÉ;35430;VILLE ES NONAIS (LA);299583525;;;;;;;;;;;;
+;Thoreux Wallace;4 CLOS LES POMMIERS;22490;TRÉMÉREUC;981940647;672521441;;;;;;;;;;;
+;Todorov Jivko;14 R MI-FORÊT;35340;LIFFRE;662546305;;;;;;;;;;;;
+;TOMMER DE BREIZH;2 PL MAIRIE;35250;SAINT GERMAIN SUR ILLE;603886878;;;;;;;;;;;;
+;Tony frete;;;;223150792;683183143;;;;;;;;;;;
+;Tostivint Maurice;;35300;;299996753;;;;;;;;;;Retraite;;messagerie
+;Toublanc Lionel et Christophe;27 R JEAN BART;35300;FOUGERES;299993610;;;;;;;;;;;;
+;Toublanc Lionel et Christophe;27 R JEAN BART;35300;FOUGERES;0299993610 - 0977928795;682393973;;;;;;;;;;;Rexel et distrillec, a tout ce qu'il lui faut sur fougères
+;Toure;SQ PROVENCE;35000;RENNES;669233064;;;tourepcs@yahoo.fr;;;;;;;;;www.tourepcsy.fr
+;TOUT POUR L ELECTRICITE;2 BIS R COSNES;35400;SAINT MALO;223182106;660922101;;;;;;;;;AR septembre 2015;;Laurent colé - Très occupé, à rappeler au mois de Juin - arret technique
+;Toutain Alexandre;54 R PAUL BOURGET;35200;RENNES;601921714;601921714;;;;;;;non;;non;;sur anger en ce moment / rentre dans 3 ou 4 semaines / autoentrepreuneur qui travail avec TABUR uniquement / mail  touts87@gmail.com / 17/06 2 ou 4 semaines sur Anger / rappeler pour fixer rendez-vous / 02/07 encore 2 semaines sur anger
+;Toutain Henot;17 R ROBERT SURCOUF;35240;RETIERS;621452057;299446606;;;;;;;;;;;travail eavec on fils toutain alexandre
+;Touze Jean-François;9 AV ALPHONSE LEGAULT;35170;BRUZ;299537981;;;;;;;;non;;non;;sa femme fait barrage
+;TRAVERS PLOMBERIE (SARL);2 R PLACIS;35230;BOURGBARRE;299004008;;;;;;;;;;;;
+;Trémel Nicolas (Sarl);ZONE ARTISANALE ORME;35730;PLEURTUIT;663543224;663543224;;;;;;;RDV 03/06/15;;;;A son compte depuis 12 ans, travail en grande partie avec Tabur et rexel, un peu avec yess. Peut etre intéréssé par le groupement, sa femme qui gere la paperasse
+;Trémorin Didier;ZA LA GARE 3 R CHARLES DAYOT;35270;COMBOURG;223164896;;;;;;;;;;;;
+;Trémorin Didier;ZA LA GARE 3 R CHARLES DAYOT;35270;COMBOURG;223164896;608056577;;;;;;;;;AR;;en dépannage au moment de l'appel
+;Trezelec;TREZON;35380;PLÉLAN LE GRAND;299068959;628047750;;;;;;;;;;;
+;Triskell Installations - mr rouault;;35750;;666369822;666369822;;;;;;;non;;non;;messagerie
+;Tronel (SARL);;35610;;;;;;;;;;numéro pas attribué;;numéro pas attribué;;numéro pas attribué
+;Trotoux Patrick;LIEU-DIT FUMECON;35520;CHAPELLE DES FOUGERETZ (LA);299664043;676164182;;;;;;;RDV 05/05/15;;Non car les fournisseurs lui on déconseillé probablement aubade maillerd rennes;;travail a 90% avec maillard et le reste avec Beauplet, travail seul, entre 250 et 300 K de CA, bcp de salles de bains, connait Frank Simon, a commencé à travailler à 14 ans, en a 50, parle bcp de retraite, est en nom propre. Investit bcp dans l'immobilier. ents créée en 2005, déja rencontré en 2007/2008 veut reflechrir
+;Troufflard (EURL);29 R STE CROIX;35410;CHATEAUGIRON;299373220;;;;;;;;En retraite dans 1 ans;;En retraite dans 1 ans;;En retraite dans 1 ans
+;Tual Eugene;;35770;;299628521;;;;;;;;;;arret retraite;;retraite
+;Turmel Daniel;5 BIS R BEL AIR;35870;MINIHIC SUR RANCE (LE);299886710;;;;;;;;;;;;
+;Vaillant Jacques;16 R ARTISANS;35780;RICHARDAIS (LA);299462177;;;;;;;;;;;;
+;Vallet Etienne;LA BLAINERIE;35540;MINIAC MORVAN;299321195;;;;;;;;;;AR;;messagerie - 12/05/15 messagerie - 13/05/15 messagerie
+;Vasseur Magali;;35630;;299455100;;;;;;;;;;;;
+;VAULEON;;35000;;960476701;;;;;;;;non;;non;;numéro non attribué
+;Veillard (Sarl);8 ALL BLEUETS;35410;DOMLOUP;611750841;299593168;;;;;;;;;gapc35;;GAPC 35
+;VERDES Patrick;;35800;;299466970;963446884;;;;;;;;;;;BECK Yannick
+;Vereecque Mickaël;ZONE ARTISANALE ROCHE BLANCHE;35120;BAGUER MORVAN;299580650;;;;;;;;gapc;;gapc;;GAPC 35
+;Véron Georges;19 R JEAN MORIN;35490;GAHARD;299395807;;;;;;;;;;;;
+;Vettier Martial (Eurl);ZA DU HIL 20 R LOUIS DELOURMEL;35230;NOYAL CHÂTILLON SUR SEICHE;299507004;680029729;;martial.vettier@orange.fr;;;;;RDV 28/05/15;;AR 01/06/15;;Travail avec Tabur, Rexel, CEDEO
+;Viaud (SARL);LIEU-DIT NOE;35134;COESMES;299434151;;;;;;;;;;;;
+;Viaud (SARL);LIEU-DIT NOE;35134;COESMES;299434151;660266480;;;;;;;NON;;non;;BROSSETTE ET CEDEO
+;Vignollet Sébastien;3 R DOCT CALMETTE;35200;RENNES;681507803;;;;;;;;arret ents;;arret ents;;messagerie
+;Vilanon Services;LOT LES AULNES;22830;PLOUASNE;613182939;;;;;;;;;;;;
+;Villerio Gaelig;1 R BERTRAND;35235;THORIGNE FOUILLARD;678915358;;;;;;;;;;;;
+;Vincent Damon;ZONE ARTISANALE LE ROCHER;35500;ERBRÉE;299494501;615903808;;vincent.eurldamon@orange.fr;;;;;;;;;pro.pagesjaunes.fr/damon-vincent
+;Vincent Damon;ZONE ARTISANALE LE ROCHER;35500;ERBRÉE;299494501;615903808;;vincent.eurldamon@orange.fr;;;;;ims;;;;IMS
+;Vinci Energies France Ouest;6 R BELLE ILE;35760;SAINT GREGOIRE;223256220;;;;;;;;;;;;
+;Virginet Romain;5 R DU ROCHER;35520;CHAPELLE DES FOUGERETZ (LA);290020207;620267455;;;;;;;AR début mai;;AR 13/07/15;;travail avec dupont principalement, un peu beauplet et Mafart et très occupé en ce moment. Tourne entre 150 et 200 ke de CA.  A son compte depuis 4 ans. Ne veux pas s'engager sur un coup de tete, va réflechir. Nous a demandé de le recontacter dans quelques semaines. 25/06/15 n'a pas pris le temps d'y réfléchir, court partout, veux se renseigner au près d'autres artisans 
+;Vj Services;LA VILLE NEUVE;35400;SAINT MALO;625394593;;;;;;;;;;;;
+;VM'Clean;3 TER R MAIRIE;35230;SAINT ARMEL;646315553;;;;;;;;;;;;
+;VOL V BIOMASSE;11 R CLOS COURTEL;35700;RENNES;299848835;;;;;;;;;;;;
+;Vol V Biomasse L'Eolien (développement centrales biomasse);CENTRE AFFAIRES ESPACE PERFORMANCE ALPHASIS;35760;SAINT GREGOIRE;299231752;;;;;;;;;;;;
+;Vos Travaux 35;;35530;;617118091;617118091;;;;;;;AR;;;;messagerie - messagerie 18/06/15
+;Warme Sébastien;6 ALL GRANDE FONTAINE;35340;BOUEXIERE (LA);299044812;;;;;;;;;;non;;travaille uniquement pour les hopitaux avec du materiel spécialisé
+;West;;35500;;299743451;;;;;;;;;;;;Tardif David
+;William Elec;LA BOUTEVEILLAIS;35133;LANDEAN;672763615;672763615;;;;;;;non;;;;messagerie
+;Williams James;3 R TRAIT ST JEAN;35640;EANCE;299479890;;;;;;;;;;;;
+;Wm Energie;1 LES BOIS;35190;TREVERIEN;603376798;;;;;;;;;;;;
+;Xavier Girot;;35000;;299596792;;;;;;;;;;;;vu camion chez legallais
+;Y.B.R;5 ESPLANADE COMMDT YVES MENGUY;35400;SAINT MALO;664720225;664720225;;;;;;;;;gapc35;;gapc35
+;YANN COLLET (SARL);5 R BOURVIL;35230;NOYAL CHATILLON SUR SEICHE;299052918;;;;;;;;;;;;
+;Yann Elec;5 R GARENNE;35740;PACÉ;608459957;608459957;;;;;;;non;;non;;travail avec distrilec et calvez pur des raison de proximité  et raison du refus de travailler avec nous
+;Yannick Lollivier (Sarl);55 R LAFOND;35700;RENNES;299631327;;;contact@lollivier.com;;;;;;;;;www.lollivier.com
+;YB Elec;9 R BÉZIERS;35360;BOISGERVILLY;613992009;613992009;;;;;;;;;;;Mr barder/ messagerie - messagerie 19/06/15 - 25/06/15 j'ai eu quelqu'un qui pretend ne pas etre l'entreprise yb elec. Mais en verifiant sur leur site, le numéro correspond… A controler
+;Yurt Bulmus Naci;7 R REDON;35000;RENNES;666817579;;;;;;;;;;;;
+;Yves Chatel (SARL);;35220;;299003066;;;;;;;;;;;;fax
+;Zeus;R RETAUDAIS;35137;BEDEE;299612444;;;;;;;;;;;;

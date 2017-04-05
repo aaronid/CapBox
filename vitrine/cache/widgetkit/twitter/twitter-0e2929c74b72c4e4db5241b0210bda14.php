@@ -1,0 +1,1 @@
+{"completed_in":0.088,"max_id":124832069393190912,"max_id_str":"124832069393190912","page":1,"query":"from%3Asylviefourcade+%23nyc","refresh_url":"?since_id=124832069393190912&q=from%3Asylviefourcade%20%23nyc","results":[],"results_per_page":15,"since_id":0,"since_id_str":"0"}

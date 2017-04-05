@@ -1,0 +1,41 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Custom Style Sheet - Use this file to style your content
+ */
+
+.slide_demo {
+	height: 220px;
+	padding: 0px 610px 10px 60px;
+	overflow: hidden;
+}
+
+ul.list-blank {
+	padding-left: 0;
+	list-style-type: none;
+}
+
+ul.list-blank li {
+	margin-bottom: 10px;
+	overflow: hidden;
+}
+
+ul.list-blank img {
+	margin-right: 5px;
+	margin-top:-5px;
+	float: left;
+}
+
+ul.list-blank h3 {
+	margin: 0px 0;
+	font-size: 14px;
+	line-height: 14px;
+	font-weight: bold;
+	text-transform: none;
+	color:#000000;
+}
+
+#lien a:link {color:#000000;}
+#lien a:visited {color:#000000;}  /* visited link */
+#lien a:hover {color:#007cc2;}  /* mouse over link */
+#lien a:active {color:#007cc2;}

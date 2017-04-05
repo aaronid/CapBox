@@ -1,0 +1,20 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Joomla 1.5 specific
+ */
+
+html { overflow-y: scroll; }
+
+.saving .icon-32-save,
+.saving .icon-32-apply { background-image: url(../../../../config/images/loader.gif); }
+
+form > div.width-50 { width: 60%; }
+form > div.width-50:first-child { width: 40%; }
+
+fieldset.adminform {
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+}
+
+.tabs-box { margin: 6px 10px 0px 5px; }

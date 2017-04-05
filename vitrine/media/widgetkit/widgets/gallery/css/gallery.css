@@ -1,0 +1,48 @@
+/* Copyright (C) 2007 - 2011 YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Widgetkit Gallery Style Sheet
+ */
+
+.wk-gallery .slides,
+.wk-gallery .nav {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.wk-gallery .nav span {
+	display: block;
+	cursor: pointer;
+}
+
+.wk-gallery .next,
+.wk-gallery .prev {
+	position: absolute;
+	z-index: 5;
+	cursor: pointer;
+}
+
+.wk-gallery .caption {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 5;
+	padding: 10px;
+	background: rgba(0,0,0,0.5);
+}
+
+.wk-gallery .caption,
+.wk-gallery .caption a { color: #fff; }
+.wk-gallery .caption a { text-decoration: underline; }
+
+.wk-gallery article > *:first-child { margin-top: 0; }
+.wk-gallery article > *:last-child { margin-bottom: 0; }
+
+.wk-gallery article > a:first-child,
+.wk-gallery article > img:first-child,
+.wk-gallery article > a:first-child > img { display: block; }
+
+.wk-gallery a { display: inline-block; }
+.wk-gallery a > img:first-child { display: block; }

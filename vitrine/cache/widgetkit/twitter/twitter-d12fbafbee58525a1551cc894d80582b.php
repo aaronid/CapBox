@@ -1,0 +1,1 @@
+{"completed_in":0.0040,"max_id":124832465645871104,"max_id_str":"124832465645871104","page":1,"query":"from%3Amfourcade+%23nyc","refresh_url":"?since_id=124832465645871104&q=from%3Amfourcade%20%23nyc","results":[],"results_per_page":15,"since_id":0,"since_id_str":"0"}

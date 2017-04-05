@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="system">
+    <name>System - Mediabox_CK</name>
+    <author>Cédric KEIFLIN</author>
+    <creationDate>Novembre 2010</creationDate>
+    <copyright>Cédric KEIFLIN</copyright>
+    <license>http://www.gnu.org/licenses/gpl.html</license>
+    <authorEmail>ced1870@gmail.com</authorEmail>
+    <authorUrl>http://www.joomlack.fr</authorUrl>
+    <version>1.0</version>
+    <description>
+		System - Mediabox Plugin
+    </description>
+	
+    <files>
+        <filename plugin="mediabox_CK">mediabox_CK.php</filename>
+        <folder>mediabox_CK</folder>
+    </files>
+		
+    <params>
+       <param name="pageselect" type="text" default="0" label="ItemID des pages pour le chargement du plugin" description="Inscrire les ID des liens de menu séparés par des virgules (0 = toutes les pages)" />
+    </params>
+
+</install>

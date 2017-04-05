@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="content">
+  <name>Content - Core Design FAQ plugin</name>
+  <author>Daniel Rataj</author>
+  <creationDate>April 13th, 2010</creationDate>
+  <copyright>(C) 2007 - 2010 Great Joomla! All rights reserved.</copyright>
+  <license>http://www.gnu.org/copyleft/gpl.html GNU/GPL 3</license>
+  <authorEmail>info@greatjoomla.com</authorEmail>
+  <authorUrl>www.greatjoomla.com</authorUrl>
+  <version>1.0.0</version>
+  <description>DESC_CDFAQ</description>
+  <files>
+  	<filename plugin="cdfaq">cdfaq.php</filename>
+  	<folder>cdfaq</folder>
+  </files>
+  <languages>
+  	<language tag="en-GB">en-GB.plg_content_cdfaq.ini</language>
+   </languages>
+  <params addpath="/plugins/content/cdfaq/elements">
+  	<param type="title" default="CDFAQ_TITLE_GENERAL_SETTINGS" />
+  	<param name="uitheme" type="folderlist" default="ui-lightness" label="LABEL_UITHEME" description="DESC_UITHEME" directory="plugins/system/cdscriptegrator/libraries/jquery/theme" filter="" exclude="" />
+  	<param type="spacer" default="" />
+  	<param name="display_category_title" type="list" default="0" label="LABEL_DISPLAY_CATEGORY_TITLE" description="DESC_DISPLAY_CATEGORY_TITLE">
+	  <option value="0">PARAM_DISPLAY_CATEGORY_TITLE_NO</option>
+	  <option value="1">PARAM_DISPLAY_CATEGORY_TITLE_YES</option>
+  	</param>
+  	<param name="display_category_description" type="list" default="0" label="LABEL_DISPLAY_CATEGORY_DESCRIPTION" description="DESC_DISPLAY_CATEGORY_DESCRIPTION">
+	  <option value="0">PARAM_DISPLAY_CATEGORY_DESCRIPTION_NO</option>
+	  <option value="1">PARAM_DISPLAY_CATEGORY_DESCRIPTION_YES</option>
+  	</param>
+  	<param name="display_filter" type="list" default="0" label="LABEL_DISPLAY_FILTER" description="DESC_DISPLAY_FILTER">
+	  <option value="0">PARAM_DISPLAY_CAT_FILTER_NO</option>
+	  <option value="1">PARAM_DISPLAY_CAT_FILTER_YES</option>
+  	</param>
+  	<param name="display_navigation" type="list" default="0" label="LABEL_DISPLAY_NAVIGATION" description="DESC_DISPLAY_NAVIGATION">
+	  <option value="0">PARAM_DISPLAY_NAVIGATION_NO</option>
+	  <option value="1">PARAM_DISPLAY_NAVIGATION_YES</option>
+  	</param>
+  	<param name="display_info" type="list" default="0" label="LABEL_DISPLAY_INFO" description="DESC_DISPLAY_INFO">
+	  <option value="0">PARAM_DISPLAY_INFO_NO</option>
+	  <option value="1">PARAM_DISPLAY_INFO_YES</option>
+  	</param>
+  	<param type="title" default="CDFAQ_TITLE_JOOMLA_SETTINGS" />
+  	<param name="cc_ordering" type="list" default="" label="LABEL_CC_ORDERING" description="DESC_CC_ORDERING">
+  	  <option value="">PARAM_CC_ORDERING_NO_ORDERING</option>
+         <option value="alpha">PARAM_CC_ORDERING_TITLE_ALPHABETICAL</option>
+         <option value="ralpha">PARAM_CC_ORDERING_TITLE_REVERSE_ALPHABETICAL</option>
+         <option value="order">PARAM_CC_ORDERING_ORDER</option>
+       </param>
+  	<param name="a_ordering" type="list" default="" label="LABEL_ORDERING" description="DESC_ORDERING">
+  		<option value="">PARAM_ORDERING_NO_ORDERING</option>
+        <option value="date">PARAM_ORDERING_OLDEST_FIRST</option>
+        <option value="rdate">PARAM_ORDERING_MOST_RECENT_FIRST</option>
+        <option value="alpha">PARAM_ORDERING_TITLE_ALPHABETICAL</option>
+        <option value="ralpha">PARAM_ORDERING_TITLE_REVERSE_ALPHABETICAL</option>
+        <option value="order">PARAM_ORDERING_ORDER</option>
+      </param>
+      <param type="title" default="CDFAQ_TITLE_K2_SETTINGS" />
+      <param type="spacer" default="CDFAQ_K2_SETTINGS_DESC" />
+  </params>
+  <params group="advanced">
+	<param name="scrollSpeed" type="text" default="750" size="40" label="LABEL_SCROLLSPEED" description="DESC_SCROLLSPEED" />
+  	<param name="filterSlideSpeed" type="text" default="200" size="40" label="LABEL_FILTER_SLIDESPEED" description="DESC_FILTER_SLIDESPEED" />
+	  <param type="spacer" default="" />
+	  	<param name="autoheight" type="list" default="0" label="LABEL_AUTOHEIGHT" description="DESC_AUTOHEIGHT">
+		  <option value="0">PARAM_AUTOHEIGHT_NO</option>
+		  <option value="1">PARAM_AUTOHEIGHT_YES</option>
+	  	</param>
+	  	<param name="event" type="list" default="0" label="LABEL_EVENT" description="DESC_EVENT">
+		  <option value="click">PARAM_EVENT_CLICK</option>
+		  <option value="mouseover">PARAM_EVENT_MOUSEOVER</option>
+	  	</param>
+	  	<param name="collapsible" type="list" default="1" label="LABEL_COLLAPSIBLE" description="DESC_COLLAPSIBLE">
+		  <option value="0">PARAM_COLLAPSIBLE_NO</option>
+		  <option value="1">PARAM_COLLAPSIBLE_YES</option>
+	  	</param>
+	  	<param name="ui_icon_header" type="text" size="40" default="ui-icon-circle-arrow-e" label="LABEL_UI_ICON_HEADER" description="DESC_UI_ICON_HEADER"/>
+	  	<param name="ui_icon_header_selected" type="text" size="40" default="ui-icon-circle-arrow-s" label="LABEL_UI_ICON_HEADER_SELECTED" description="DESC_UI_ICON_HEADER_SELECTED"/>
+  </params>
+</install>

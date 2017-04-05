@@ -1,0 +1,96 @@
+/* CSS style for Core Design FAQ plugin for Joomla! 1.5 */
+
+/* Container */
+.cdfaq {
+	/* empty */
+}
+
+/* Container - Category title */
+.cdfaq .category_title {
+	/* empty */
+}
+
+/* Container - category description */
+.cdfaq .category_description {
+	/* empty */
+}
+
+/* Container - Category list */
+.cdfaq .cdfaq_list {
+	margin: 10px 0 20px 0;
+}
+
+/* Container fulltext */
+.cdfaq .fulltext {
+	display: none;
+}
+
+/* Cleaner */
+.cdfaq .cleaner {
+	visibility: hidden;
+	height: 1px;
+	margin: -1px;
+	clear: both;
+}
+
+/* Less Info / More Info - container */
+.cdfaq .show_less_more {
+	margin: 20px 0 0 0;
+}
+
+/* Less Info / More Info - linklink */
+.cdfaq .show_less_more a {
+	font-style: italic;
+	margin: 0 0 5px 0;
+	display: block;
+	float: left;
+}
+
+/* Filter container */
+.cdfaq_filter {
+	margin: 10px 0;
+}
+
+/* Filter container */
+.cdfaq_filter div {
+	float: right;
+}
+
+/* Navigation */
+.cdfaq_navigation {
+	/* empty */
+}
+
+/* Informations */
+.cdfaq .cdfaq_info {
+	margin: 0 0 15px 0;
+	padding: 5px 10px;
+	font-size: 90% !important;
+}
+
+/* Informations - added time */
+.cdfaq .cdfaq_info .addedtime {
+	font-size: 90%;
+	font-style: italic;
+}
+
+/* Informations - print view */
+.cdfaq_info_print {
+	border: 1px solid gray;
+	border-left: none;
+	border-right: none;
+	margin: 0 0 15px 0;
+	padding: 5px 10px;
+	font-size: 90% !important;
+}
+
+/* Got to top */
+.cdfaq .goToTop {
+	float: right;
+	margin: 10px 0 0 0;
+}
+.cdfaq .goToTop a {
+	display: block;
+	width: 16px;
+	height: 16px;
+}

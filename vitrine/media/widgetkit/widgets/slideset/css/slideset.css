@@ -1,0 +1,41 @@
+/* Copyright (C) 2007 - 2011 YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Widgetkit slideset Style Sheet
+ */
+
+.wk-slideset > div > div { overflow: hidden; }
+
+.wk-slideset .set,
+.wk-slideset .nav {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.wk-slideset .set {
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.wk-slideset .set > li { display: inline-block; }
+
+.wk-slideset .nav span {
+	display: block;
+	cursor: pointer;
+}
+
+.wk-slideset .next,
+.wk-slideset .prev {
+	position: absolute;
+	z-index: 5;
+	cursor: pointer;
+}
+
+.wk-slideset article > *:first-child { margin-top: 0; }
+.wk-slideset article > *:last-child { margin-bottom: 0; }
+
+.wk-slideset article > a:first-child,
+.wk-slideset article > img:first-child,
+.wk-slideset article > a:first-child > img { display: block; }

@@ -1,0 +1,8 @@
+/* Copyright (C) 2007 - 2011 YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Widgetkit Map Style Sheet
+ */
+
+.wk-map-popup > *:first-child { margin-top: 0;}
+.wk-map-popup > *:last-child { margin-bottom: 0;}

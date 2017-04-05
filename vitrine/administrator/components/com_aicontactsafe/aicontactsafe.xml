@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/component-install.dtd">
+<install type="component" version="1.5.18" method="upgrade">
+	<name>aiContactSafe</name>
+	<author>Algis Info Grup SRL</author>
+	<creationDate>April 2010</creationDate>
+	<copyright>(c)2010 Algis Info Grup SRL. All rights reserved.</copyright>
+	<authorEmail>contact@algis.ro</authorEmail>
+	<authorUrl>www.algis.ro</authorUrl>
+	<version>2.0.12.stable</version>
+	<license>GNU/GPL License - http://www.gnu.org/licenses/gpl-2.0.html</license>
+	<description>A contact form with in which you can add custom fields.</description>
+
+	<install>
+		<sql folder="sql">
+			<file driver="mysql" charset="utf8">sql/install.aicontactsafe.sql</file>
+		</sql>
+	</install>
+	<uninstall>
+		<sql folder="sql">
+			<file driver="mysql" charset="utf8">sql/uninstall.aicontactsafe.sql</file>
+		</sql>
+	</uninstall>
+
+	<installfile>install.aicontactsafe.php</installfile>
+	<uninstallfile>uninstall.aicontactsafe.php</uninstallfile>
+
+	<files folder="component">
+		<filename>aicontactsafe.php</filename>
+		<filename>index.html</filename>
+		<filename>controllers/captcha.php</filename>
+		<filename>controllers/index.html</filename>
+		<filename>controllers/message.php</filename>
+		<filename>controllers/messages.php</filename>
+		<filename>includes/index.html</filename>
+		<filename>includes/captcha/.htaccess</filename>
+		<filename>includes/captcha/captcha.php</filename>
+		<filename>includes/captcha/index.html</filename>
+		<filename>includes/captcha/LICENSE.txt</filename>
+		<filename>includes/captcha/fonts/AntykwaBold.ttf</filename>
+		<filename>includes/captcha/fonts/Candice.ttf</filename>
+		<filename>includes/captcha/fonts/Ding-DongDaddyO.ttf</filename>
+		<filename>includes/captcha/fonts/Duality.ttf</filename>
+		<filename>includes/captcha/fonts/index.html</filename>
+		<filename>includes/captcha/fonts/Jura.ttf</filename>
+		<filename>includes/captcha/fonts/TimesNewRomanBold.ttf</filename>
+		<filename>includes/captcha/fonts/VeraSansBold.ttf</filename>
+		<filename>includes/captcha/words/en.txt</filename>
+		<filename>includes/captcha/words/index.html</filename>
+		<filename>includes/css/aicontactsafe_general.css</filename>
+		<filename>includes/css/index.html</filename>
+		<filename>includes/elements/aicontactsafeprofile.php</filename>
+		<filename>includes/elements/aidonate.php</filename>
+		<filename>includes/elements/index.html</filename>
+		<filename>includes/images/index.html</filename>
+		<filename>includes/images/load.gif</filename>
+		<filename>includes/js/aicontactsafe.js.php</filename>
+		<filename>includes/js/index.html</filename>
+		<filename>includes/tables/aicontactsafe_config.php</filename>
+		<filename>includes/tables/aicontactsafe_contactinformations.php</filename>
+		<filename>includes/tables/aicontactsafe_fields.php</filename>
+		<filename>includes/tables/aicontactsafe_fieldvalues.php</filename>
+		<filename>includes/tables/aicontactsafe_messagefiles.php</filename>
+		<filename>includes/tables/aicontactsafe_messages.php</filename>
+		<filename>includes/tables/aicontactsafe_profiles.php</filename>
+		<filename>includes/tables/aicontactsafe_statuses.php</filename>
+		<filename>includes/tables/index.html</filename>
+		<filename>languages/ar-AA.com_aicontactsafe.ini</filename>
+		<filename>languages/bg-BG.com_aicontactsafe.ini</filename>
+		<filename>languages/cs-CZ.com_aicontactsafe.ini</filename>
+		<filename>languages/da-DK.com_aicontactsafe.ini</filename>
+		<filename>languages/de-DE.com_aicontactsafe.ini</filename>
+		<filename>languages/el-GR.com_aicontactsafe.ini</filename>
+		<filename>languages/en-GB.com_aicontactsafe.ini</filename>
+		<filename>languages/es-ES.com_aicontactsafe.ini</filename>
+		<filename>languages/fr-FR.com_aicontactsafe.ini</filename>
+		<filename>languages/hu-HU.com_aicontactsafe.ini</filename>
+		<filename>languages/index.html</filename>
+		<filename>languages/it-IT.com_aicontactsafe.ini</filename>
+		<filename>languages/nl-NL.com_aicontactsafe.ini</filename>
+		<filename>languages/pl-PL.com_aicontactsafe.ini</filename>
+		<filename>languages/pt-BR.com_aicontactsafe.ini</filename>
+		<filename>languages/pt-PT.com_aicontactsafe.ini</filename>
+		<filename>languages/ro-RO.com_aicontactsafe.ini</filename>
+		<filename>languages/ru-RU.com_aicontactsafe.ini</filename>
+		<filename>languages/sk-SK.com_aicontactsafe.ini</filename>
+		<filename>languages/sr-RS.com_aicontactsafe.ini</filename>
+		<filename>languages/sv-SE.com_aicontactsafe.ini</filename>
+		<filename>languages/tr-TR.com_aicontactsafe.ini</filename>
+		<filename>languages/uk-UA.com_aicontactsafe.ini</filename>
+		<filename>models/captcha.php</filename>
+		<filename>models/index.html</filename>
+		<filename>models/message.php</filename>
+		<filename>models/messages.php</filename>
+		<filename>sef_ext/com_aicontactsafe.php</filename>
+		<filename>sef_ext/index.html</filename>
+		<filename>views/index.html</filename>
+		<filename>views/captcha/index.html</filename>
+		<filename>views/captcha/metadata.xml</filename>
+		<filename>views/captcha/view.html.php</filename>
+		<filename>views/captcha/tmpl/captcha.php</filename>
+		<filename>views/captcha/tmpl/index.html</filename>
+		<filename>views/mail/index.html</filename>
+		<filename>views/mail/metadata.xml</filename>
+		<filename>views/mail/tmpl/index.html</filename>
+		<filename>views/mail/tmpl/mail.php</filename>
+		<filename>views/message/index.html</filename>
+		<filename>views/message/view.html.php</filename>
+		<filename>views/message/tmpl/index.html</filename>
+		<filename>views/message/tmpl/message.php</filename>
+		<filename>views/message/tmpl/message.xml</filename>
+		<filename>views/message/tmpl/profile_align_all_center.css</filename>
+		<filename>views/message/tmpl/profile_align_all_left.css</filename>
+		<filename>views/message/tmpl/profile_align_all_right.css</filename>
+		<filename>views/message/tmpl/profile_align_center.css</filename>
+		<filename>views/message/tmpl/profile_align_left.css</filename>
+		<filename>views/message/tmpl/profile_align_margin.css</filename>
+		<filename>views/message/tmpl/profile_align_right.css</filename>
+		<filename>views/messages/index.html</filename>
+		<filename>views/messages/metadata.xml</filename>
+		<filename>views/messages/view.html.php</filename>
+		<filename>views/messages/tmpl/ban_ip.php</filename>
+		<filename>views/messages/tmpl/delete_record.php</filename>
+		<filename>views/messages/tmpl/delete_selected.php</filename>
+		<filename>views/messages/tmpl/export.php</filename>
+		<filename>views/messages/tmpl/index.html</filename>
+		<filename>views/messages/tmpl/messages.css</filename>
+		<filename>views/messages/tmpl/messages.php</filename>
+		<filename>views/messages/tmpl/reply.php</filename>
+		<filename>views/messages/tmpl/view_message.php</filename>
+	</files>
+	<languages folder="component/languages">
+		<language tag="ar-AA">ar-AA.com_aicontactsafe.ini</language>
+		<language tag="bg-BG">bg-BG.com_aicontactsafe.ini</language>
+		<language tag="cs-CZ">cs-CZ.com_aicontactsafe.ini</language>
+		<language tag="da-DK">da-DK.com_aicontactsafe.ini</language>
+		<language tag="de-DE">de-DE.com_aicontactsafe.ini</language>
+		<language tag="el-GR">el-GR.com_aicontactsafe.ini</language>
+		<language tag="en-GB">en-GB.com_aicontactsafe.ini</language>
+		<language tag="es-ES">es-ES.com_aicontactsafe.ini</language>
+		<language tag="fr-FR">fr-FR.com_aicontactsafe.ini</language>
+		<language tag="hu-HU">hu-HU.com_aicontactsafe.ini</language>
+		<language tag="it-IT">it-IT.com_aicontactsafe.ini</language>
+		<language tag="nl-NL">nl-NL.com_aicontactsafe.ini</language>
+		<language tag="pl-PL">pl-PL.com_aicontactsafe.ini</language>
+		<language tag="pt-BR">pt-BR.com_aicontactsafe.ini</language>
+		<language tag="pt-PT">pt-PT.com_aicontactsafe.ini</language>
+		<language tag="ro-RO">ro-RO.com_aicontactsafe.ini</language>
+		<language tag="ru-RU">ru-RU.com_aicontactsafe.ini</language>
+		<language tag="sk-SK">sk-SK.com_aicontactsafe.ini</language>
+		<language tag="sr-RS">sr-RS.com_aicontactsafe.ini</language>
+		<language tag="sv-SE">sv-SE.com_aicontactsafe.ini</language>
+		<language tag="tr-TR">tr-TR.com_aicontactsafe.ini</language>
+		<language tag="uk-UA">uk-UA.com_aicontactsafe.ini</language>
+	</languages>
+	<administration>
+		<menu img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">aiContactSafe</menu>
+		<submenu>
+			<menu link="option=com_aicontactsafe&amp;sTask=messages" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">Messages</menu>
+			<menu link="option=com_aicontactsafe&amp;sTask=attachments" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">Attachments</menu>
+			<menu link="option=com_aicontactsafe&amp;sTask=profiles" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">Profiles</menu>
+			<menu link="option=com_aicontactsafe&amp;sTask=fields" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">Fields</menu>
+			<menu link="option=com_aicontactsafe&amp;sTask=statuses" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">Statuses</menu>
+			<menu link="option=com_aicontactsafe&amp;sTask=control_panel" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">Control panel</menu>
+			<menu link="option=com_aicontactsafe&amp;sTask=about" img="components/com_aicontactsafe/images/aicontactsafe_icon.gif">About</menu>
+		</submenu>
+		<files folder="admin">
+			<filename>admin.aicontactsafe.php</filename>
+			<filename>controller.php</filename>
+			<filename>index.html</filename>
+			<filename>controllers/about.php</filename>
+			<filename>controllers/attachments.php</filename>
+			<filename>controllers/control_panel.php</filename>
+			<filename>controllers/fields.php</filename>
+			<filename>controllers/index.html</filename>
+			<filename>controllers/messages.php</filename>
+			<filename>controllers/profiles.php</filename>
+			<filename>controllers/statuses.php</filename>
+			<filename>images/add.gif</filename>
+			<filename>images/aicontactsafe.gif</filename>
+			<filename>images/aicontactsafe_icon.gif</filename>
+			<filename>images/align_all_center.gif</filename>
+			<filename>images/align_all_left.gif</filename>
+			<filename>images/align_all_right.gif</filename>
+			<filename>images/align_center.gif</filename>
+			<filename>images/align_left.gif</filename>
+			<filename>images/align_margin.gif</filename>
+			<filename>images/align_right.gif</filename>
+			<filename>images/apply.gif</filename>
+			<filename>images/ban_ip.gif</filename>
+			<filename>images/blank.gif</filename>
+			<filename>images/cancel.gif</filename>
+			<filename>images/contact.gif</filename>
+			<filename>images/control_panel.gif</filename>
+			<filename>images/copy.gif</filename>
+			<filename>images/css.gif</filename>
+			<filename>images/delete.gif</filename>
+			<filename>images/delete_all.gif</filename>
+			<filename>images/downarrow.png</filename>
+			<filename>images/edit.gif</filename>
+			<filename>images/email.gif</filename>
+			<filename>images/export.gif</filename>
+			<filename>images/index.html</filename>
+			<filename>images/ip_banned.gif</filename>
+			<filename>images/load.gif</filename>
+			<filename>images/logo.gif</filename>
+			<filename>images/not_ok.gif</filename>
+			<filename>images/ok.gif</filename>
+			<filename>images/publish.gif</filename>
+			<filename>images/refresh.gif</filename>
+			<filename>images/reply.gif</filename>
+			<filename>images/required.gif</filename>
+			<filename>images/save.gif</filename>
+			<filename>images/Thumbs.db</filename>
+			<filename>images/unpublish.gif</filename>
+			<filename>images/uparrow.png</filename>
+			<filename>images/view.gif</filename>
+			<filename>includes/index.html</filename>
+			<filename>includes/artio/com_aicontactsafe.php</filename>
+			<filename>includes/artio/com_aicontactsafe.xml</filename>
+			<filename>includes/artio/index.html</filename>
+			<filename>includes/css/aicontactsafe_general.css</filename>
+			<filename>includes/css/index.html</filename>
+			<filename>includes/fcp/201a.js</filename>
+			<filename>includes/fcp/index.html</filename>
+			<filename>includes/fcp/license.txt</filename>
+			<filename>includes/fcp/sel.gif</filename>
+			<filename>includes/help/footer.php</filename>
+			<filename>includes/help/header.php</filename>
+			<filename>includes/help/help_0.php</filename>
+			<filename>includes/help/help_about.php</filename>
+			<filename>includes/help/help_attachments.php</filename>
+			<filename>includes/help/help_control_panel.php</filename>
+			<filename>includes/help/help_fields_delete.php</filename>
+			<filename>includes/help/help_fields_display.php</filename>
+			<filename>includes/help/help_fields_edit.php</filename>
+			<filename>includes/help/help_messages_ban_ip.php</filename>
+			<filename>includes/help/help_messages_delete.php</filename>
+			<filename>includes/help/help_messages_delete_selected.php</filename>
+			<filename>includes/help/help_messages_display.php</filename>
+			<filename>includes/help/help_messages_export.php</filename>
+			<filename>includes/help/help_messages_reply.php</filename>
+			<filename>includes/help/help_messages_view.php</filename>
+			<filename>includes/help/help_profiles_delete.php</filename>
+			<filename>includes/help/help_profiles_display.php</filename>
+			<filename>includes/help/help_profiles_edit.php</filename>
+			<filename>includes/help/help_profiles_edit_contact.php</filename>
+			<filename>includes/help/help_profiles_edit_css.php</filename>
+			<filename>includes/help/help_profiles_edit_email.php</filename>
+			<filename>includes/help/help_statuses_delete.php</filename>
+			<filename>includes/help/help_statuses_display.php</filename>
+			<filename>includes/help/help_statuses_edit.php</filename>
+			<filename>includes/help/index.html</filename>
+			<filename>includes/htaccess/.htaccess</filename>
+			<filename>includes/htaccess/index.html</filename>
+			<filename>includes/joomfish/aicontactsafe_contactinformations.xml</filename>
+			<filename>includes/joomfish/aicontactsafe_fields.xml</filename>
+			<filename>includes/joomfish/aicontactsafe_profiles.xml</filename>
+			<filename>includes/joomfish/index.html</filename>
+			<filename>includes/mod_aicontactsafe/index.html</filename>
+			<filename>includes/mod_aicontactsafe/mod_aicontactsafe.php</filename>
+			<filename>includes/mod_aicontactsafe/mod_aicontactsafe.xml</filename>
+			<filename>includes/plg_aicontactsafeform/aicontactsafeform.php</filename>
+			<filename>includes/plg_aicontactsafeform/aicontactsafeform.xml</filename>
+			<filename>includes/plg_aicontactsafeform/index.html</filename>
+			<filename>includes/plg_aicontactsafelink/aicontactsafelink.php</filename>
+			<filename>includes/plg_aicontactsafelink/aicontactsafelink.xml</filename>
+			<filename>includes/plg_aicontactsafelink/index.html</filename>
+			<filename>languages/ar-AA.com_aicontactsafe.ini</filename>
+			<filename>languages/ar-AA.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/bg-BG.com_aicontactsafe.ini</filename>
+			<filename>languages/bg-BG.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/cs-CZ.com_aicontactsafe.ini</filename>
+			<filename>languages/cs-CZ.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/da-DK.com_aicontactsafe.help.ini</filename>
+			<filename>languages/da-DK.com_aicontactsafe.ini</filename>
+			<filename>languages/da-DK.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/de-DE.com_aicontactsafe.ini</filename>
+			<filename>languages/de-DE.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/el-GR.com_aicontactsafe.ini</filename>
+			<filename>languages/el-GR.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/en-GB.com_aicontactsafe.help.ini</filename>
+			<filename>languages/en-GB.com_aicontactsafe.ini</filename>
+			<filename>languages/en-GB.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/es-ES.com_aicontactsafe.help.ini</filename>
+			<filename>languages/es-ES.com_aicontactsafe.ini</filename>
+			<filename>languages/es-ES.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/fr-FR.com_aicontactsafe.ini</filename>
+			<filename>languages/fr-FR.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/hu-HU.com_aicontactsafe.ini</filename>
+			<filename>languages/hu-HU.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/index.html</filename>
+			<filename>languages/it-IT.com_aicontactsafe.ini</filename>
+			<filename>languages/it-IT.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/nl-NL.com_aicontactsafe.ini</filename>
+			<filename>languages/nl-NL.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/pl-PL.com_aicontactsafe.help.ini</filename>
+			<filename>languages/pl-PL.com_aicontactsafe.ini</filename>
+			<filename>languages/pl-PL.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/pt-BR.com_aicontactsafe.ini</filename>
+			<filename>languages/pt-BR.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/pt-PT.com_aicontactsafe.ini</filename>
+			<filename>languages/pt-PT.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/ro-RO.com_aicontactsafe.ini</filename>
+			<filename>languages/ro-RO.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/ru-RU.com_aicontactsafe.ini</filename>
+			<filename>languages/ru-RU.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/sk-SK.com_aicontactsafe.ini</filename>
+			<filename>languages/sk-SK.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/sr-RS.com_aicontactsafe.ini</filename>
+			<filename>languages/sr-RS.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/sv-SE.com_aicontactsafe.ini</filename>
+			<filename>languages/sv-SE.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/tr-TR.com_aicontactsafe.ini</filename>
+			<filename>languages/tr-TR.com_aicontactsafe.menu.ini</filename>
+			<filename>languages/uk-UA.com_aicontactsafe.ini</filename>
+			<filename>languages/uk-UA.com_aicontactsafe.menu.ini</filename>
+			<filename>models/about.php</filename>
+			<filename>models/attachments.php</filename>
+			<filename>models/control_panel.php</filename>
+			<filename>models/default.php</filename>
+			<filename>models/fields.php</filename>
+			<filename>models/index.html</filename>
+			<filename>models/messages.php</filename>
+			<filename>models/profiles.php</filename>
+			<filename>models/statuses.php</filename>
+			<filename>views/index.html</filename>
+			<filename>views/about/index.html</filename>
+			<filename>views/about/view.html.php</filename>
+			<filename>views/about/tmpl/about.css</filename>
+			<filename>views/about/tmpl/about.php</filename>
+			<filename>views/about/tmpl/index.html</filename>
+			<filename>views/attachments/index.html</filename>
+			<filename>views/attachments/view.html.php</filename>
+			<filename>views/attachments/tmpl/attachments.css</filename>
+			<filename>views/attachments/tmpl/attachments.php</filename>
+			<filename>views/attachments/tmpl/index.html</filename>
+			<filename>views/control_panel/index.html</filename>
+			<filename>views/control_panel/view.html.php</filename>
+			<filename>views/control_panel/tmpl/confirm_delete_all.php</filename>
+			<filename>views/control_panel/tmpl/control_panel.css</filename>
+			<filename>views/control_panel/tmpl/control_panel.php</filename>
+			<filename>views/control_panel/tmpl/index.html</filename>
+			<filename>views/default/index.html</filename>
+			<filename>views/default/view.html.php</filename>
+			<filename>views/default/tmpl/default.css</filename>
+			<filename>views/default/tmpl/default.php</filename>
+			<filename>views/default/tmpl/index.html</filename>
+			<filename>views/fields/index.html</filename>
+			<filename>views/fields/view.html.php</filename>
+			<filename>views/fields/tmpl/delete_record.php</filename>
+			<filename>views/fields/tmpl/edit_record.php</filename>
+			<filename>views/fields/tmpl/fields.css</filename>
+			<filename>views/fields/tmpl/fields.php</filename>
+			<filename>views/fields/tmpl/index.html</filename>
+			<filename>views/messages/index.html</filename>
+			<filename>views/messages/view.html.php</filename>
+			<filename>views/messages/tmpl/ban_ip.php</filename>
+			<filename>views/messages/tmpl/delete_record.php</filename>
+			<filename>views/messages/tmpl/delete_selected.php</filename>
+			<filename>views/messages/tmpl/export.php</filename>
+			<filename>views/messages/tmpl/index.html</filename>
+			<filename>views/messages/tmpl/messages.css</filename>
+			<filename>views/messages/tmpl/messages.php</filename>
+			<filename>views/messages/tmpl/reply.php</filename>
+			<filename>views/messages/tmpl/view_message.php</filename>
+			<filename>views/profiles/index.html</filename>
+			<filename>views/profiles/view.html.php</filename>
+			<filename>views/profiles/tmpl/delete_record.php</filename>
+			<filename>views/profiles/tmpl/edit_contact.php</filename>
+			<filename>views/profiles/tmpl/edit_css.php</filename>
+			<filename>views/profiles/tmpl/edit_email.php</filename>
+			<filename>views/profiles/tmpl/edit_record.php</filename>
+			<filename>views/profiles/tmpl/index.html</filename>
+			<filename>views/profiles/tmpl/profiles.css</filename>
+			<filename>views/profiles/tmpl/profiles.php</filename>
+			<filename>views/statuses/index.html</filename>
+			<filename>views/statuses/view.html.php</filename>
+			<filename>views/statuses/tmpl/delete_record.php</filename>
+			<filename>views/statuses/tmpl/edit_record.php</filename>
+			<filename>views/statuses/tmpl/index.html</filename>
+			<filename>views/statuses/tmpl/statuses.css</filename>
+			<filename>views/statuses/tmpl/statuses.php</filename>
+		</files>
+		<files>
+			<filename>sql/index.html</filename>
+			<filename>sql/install.aicontactsafe.sql</filename>
+			<filename>sql/uninstall.aicontactsafe.sql</filename>
+		</files>
+		<languages folder="admin/languages">
+			<language tag="ar-AA">ar-AA.com_aicontactsafe.ini</language>
+			<language tag="ar-AA">ar-AA.com_aicontactsafe.menu.ini</language>
+			<language tag="bg-BG">bg-BG.com_aicontactsafe.ini</language>
+			<language tag="bg-BG">bg-BG.com_aicontactsafe.menu.ini</language>
+			<language tag="cs-CZ">cs-CZ.com_aicontactsafe.ini</language>
+			<language tag="cs-CZ">cs-CZ.com_aicontactsafe.menu.ini</language>
+			<language tag="da-DK">da-DK.com_aicontactsafe.help.ini</language>
+			<language tag="da-DK">da-DK.com_aicontactsafe.ini</language>
+			<language tag="da-DK">da-DK.com_aicontactsafe.menu.ini</language>
+			<language tag="de-DE">de-DE.com_aicontactsafe.ini</language>
+			<language tag="de-DE">de-DE.com_aicontactsafe.menu.ini</language>
+			<language tag="el-GR">el-GR.com_aicontactsafe.ini</language>
+			<language tag="el-GR">el-GR.com_aicontactsafe.menu.ini</language>
+			<language tag="en-GB">en-GB.com_aicontactsafe.help.ini</language>
+			<language tag="en-GB">en-GB.com_aicontactsafe.ini</language>
+			<language tag="en-GB">en-GB.com_aicontactsafe.menu.ini</language>
+			<language tag="es-ES">es-ES.com_aicontactsafe.help.ini</language>
+			<language tag="es-ES">es-ES.com_aicontactsafe.ini</language>
+			<language tag="es-ES">es-ES.com_aicontactsafe.menu.ini</language>
+			<language tag="fr-FR">fr-FR.com_aicontactsafe.ini</language>
+			<language tag="fr-FR">fr-FR.com_aicontactsafe.menu.ini</language>
+			<language tag="hu-HU">hu-HU.com_aicontactsafe.ini</language>
+			<language tag="hu-HU">hu-HU.com_aicontactsafe.menu.ini</language>
+			<language tag="it-IT">it-IT.com_aicontactsafe.ini</language>
+			<language tag="it-IT">it-IT.com_aicontactsafe.menu.ini</language>
+			<language tag="nl-NL">nl-NL.com_aicontactsafe.ini</language>
+			<language tag="nl-NL">nl-NL.com_aicontactsafe.menu.ini</language>
+			<language tag="pl-PL">pl-PL.com_aicontactsafe.help.ini</language>
+			<language tag="pl-PL">pl-PL.com_aicontactsafe.ini</language>
+			<language tag="pl-PL">pl-PL.com_aicontactsafe.menu.ini</language>
+			<language tag="pt-BR">pt-BR.com_aicontactsafe.ini</language>
+			<language tag="pt-BR">pt-BR.com_aicontactsafe.menu.ini</language>
+			<language tag="pt-PT">pt-PT.com_aicontactsafe.ini</language>
+			<language tag="pt-PT">pt-PT.com_aicontactsafe.menu.ini</language>
+			<language tag="ro-RO">ro-RO.com_aicontactsafe.ini</language>
+			<language tag="ro-RO">ro-RO.com_aicontactsafe.menu.ini</language>
+			<language tag="ru-RU">ru-RU.com_aicontactsafe.ini</language>
+			<language tag="ru-RU">ru-RU.com_aicontactsafe.menu.ini</language>
+			<language tag="sk-SK">sk-SK.com_aicontactsafe.ini</language>
+			<language tag="sk-SK">sk-SK.com_aicontactsafe.menu.ini</language>
+			<language tag="sr-RS">sr-RS.com_aicontactsafe.ini</language>
+			<language tag="sr-RS">sr-RS.com_aicontactsafe.menu.ini</language>
+			<language tag="sv-SE">sv-SE.com_aicontactsafe.ini</language>
+			<language tag="sv-SE">sv-SE.com_aicontactsafe.menu.ini</language>
+			<language tag="tr-TR">tr-TR.com_aicontactsafe.ini</language>
+			<language tag="tr-TR">tr-TR.com_aicontactsafe.menu.ini</language>
+			<language tag="uk-UA">uk-UA.com_aicontactsafe.ini</language>
+			<language tag="uk-UA">uk-UA.com_aicontactsafe.menu.ini</language>
+		</languages>
+	</administration>
+</install>

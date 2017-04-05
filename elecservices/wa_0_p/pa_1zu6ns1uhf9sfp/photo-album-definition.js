@@ -1,0 +1,93 @@
+{
+"global_config":{
+"gallery_type":0,
+"diaporama_time":3,
+"transition_effect":100,
+"max_image_resolution":1600,
+"random_diaporama":0,
+"show_diaporama_button":0,
+"show_comment":1,
+"has_fullscreen_thumbnail_mode":0,
+"inner_slideshow_image_margin":0,
+"open_popup_when_clicking":0,
+"type_display_page_navigator":1,
+"display_nav_arrows":1,
+"always_display_nav_elements":0,
+"comment_display_ImageNumber":0,
+"fit_image_to_slideshow":1}
+,"normal_config":{
+"has_shadow":false,
+"rows":1,
+"cols":4,
+"image_size":150,
+"image_spacing":15,
+"nb_images_per_page":4,
+"margin_left":45,
+"margin_top":5}
+,
+"fullscreen_list_config":{
+"image_size":110}
+,"images":[{"fn":"01_chauffage_sol.jpg",
+"mod_th":"1lceoigu9e0ao",
+"mod":"1lcbsigu9e0ao",
+"size":{"w":886,"h":1182},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"02_chauffage_sol.jpg",
+"mod_th":"1lceoigu9e0ar",
+"mod":"1lcbsigu9e0ar",
+"size":{"w":1182,"h":886},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"03_plomberie.jpg",
+"mod_th":"1lceoigu9e0as",
+"mod":"1lcbsigu9e0as",
+"size":{"w":1182,"h":886},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"04_chaudiere.jpg",
+"mod_th":"1lceoigu9e0at",
+"mod":"1lcbsigu9e0at",
+"size":{"w":886,"h":1182},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"05_compresseur.jpg",
+"mod_th":"1lceoigu9e0av",
+"mod":"1lcbsigu9e0av",
+"size":{"w":1182,"h":886},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"06_toilette.jpg",
+"mod_th":"1lceoigu9e0aw",
+"mod":"1lcbsigu9e0aw",
+"size":{"w":886,"h":1182},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"07_douche.jpg",
+"mod_th":"1lceoigu9e0ay",
+"mod":"1lcbsigu9e0ay",
+"size":{"w":886,"h":1182},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"08_vasque.jpg",
+"mod_th":"1lceoigu9e0b0",
+"mod":"1lcbsigu9e0b0",
+"size":{"w":886,"h":1182},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+,{"fn":"09_baignoire.jpg",
+"mod_th":"1lceoigu9e0b1",
+"mod":"1lcbsigu9e0b1",
+"size":{"w":1182,"h":886},
+"comment":"",
+"tooltip":"",
+"lnk":{ "js" : "", "open" : -1, "type" : 0, "url" : "" }}
+]}

@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+<head>
+    <!--
+    Created by Artisteer v2.4.0.25435
+    Base template (without user's data) checked by http://validator.w3.org : "This page is valid XHTML 1.0 Transitional"
+    -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+    <title>CAP BOX</title>
+
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <!--[if IE 6]><link rel="stylesheet" href="style.ie6.css" type="text/css" media="screen" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" href="style.ie7.css" type="text/css" media="screen" /><![endif]-->
+
+    <script type="text/javascript" src="script.js"></script>
+    <style type="text/css">
+<!--
+.Style1 {color: #FFFFFF}
+.Style4 {font-size: 85%}
+.Style6 {font-size: 85%; font-weight: bold; }
+.Style7 {font-size: 85%; font-weight: bold; color: #FFFFFF; }
+-->
+    </style>
+</head>
+<body>
+<div id="art-page-background-simple-gradient">
+        <div id="art-page-background-gradient"></div>
+    </div>
+<div id="art-main">
+        <div class="art-sheet">
+            <div class="art-sheet-tl"></div>
+            <div class="art-sheet-tr"></div>
+            <div class="art-sheet-bl"></div>
+            <div class="art-sheet-br"></div>
+            <div class="art-sheet-tc"></div>
+            <div class="art-sheet-bc"></div>
+            <div class="art-sheet-cl"></div>
+            <div class="art-sheet-cr"></div>
+            <div class="art-sheet-cc"></div>
+            <div class="art-sheet-body">
+                <div class="art-header">
+                    <div class="art-header-png"></div>
+                </div>
+                <div class="art-nav">
+                	<div class="l"></div>
+                	<div class="r"></div>
+                	<div class="art-nav-center">
+                	<ul class="art-menu">
+                		<li>
+                			<a href="#" class="active"><span class="l"></span><span class="r"></span><span class="t">Accueil</span></a>                		</li>
+                		<li>
+                			<a href="#"><span class="l"></span><span class="r"></span><span class="t">Paramètrer mon compte</span></a>
+                			<ul>
+                				<li><a href="#">Menu Subitem 1</a>
+                					<ul>
+                						<li><a href="#">Menu Subitem 1.1</a></li>
+                						<li><a href="#">Menu Subitem 1.2</a></li>
+                						<li><a href="#">Menu Subitem 1.3</a></li>
+                					</ul>
+                				</li>
+                				<li><a href="#">Menu Subitem 2</a></li>
+                				<li><a href="#">Menu Subitem 3</a></li>
+                			</ul>
+                		</li>		
+                		<li>
+                			<a href="#"><span class="l"></span><span class="r"></span><span class="t">Actualités CAP BOX</span></a>                		</li>
+                        <li>
+                			<a href="#"><span class="l"></span><span class="r"></span><span class="t">Besoin d'aide ? </span></a>                		</li>
+                                                <li>
+                			<a href="#"><span class="l"></span><span class="r"></span><span class="t">Contact </span></a>                		</li>
+                	</ul>
+                	</div>
+                </div>
+                                    
+                <div class="art-content-layout">
+                    <div class="art-content-layout-row">
+                        <div class="art-layout-cell art-content">
+                        <div class="art-post">
+                                <div class="art-post-tl"></div>
+                                <div class="art-post-tr"></div>
+                                <div class="art-post-bl"></div>
+                                <div class="art-post-br"></div>
+                                <div class="art-post-tc"></div>
+                                <div class="art-post-bc"></div>
+                                <div class="art-post-cl"></div>
+                                <div class="art-post-cr"></div>
+                                <div class="art-post-cc"></div>
+                                <div class="art-post-body"><!-- TemplateBeginEditable name="EditRegion1" -->
+                                  <div class="art-post-inner art-article">
+                                    <h2 class="art-postheader"> <img src="images/postheadericon.png" width="26" height="26" alt="postheadericon" /> Titre de la page</h2>
+                                    <p>gdfgdfgdfgfg </p>
+                                    <p>fgdfgdfg</p>
+                                    <p>dfgdfg </p>
+                                  </div>
+                                  <!-- TemplateEndEditable -->
+                                  <div class="cleared"></div>
+                                           
+                            		<div class="cleared"></div>
+                          </div></div>
+                        </div>
+                  </div>
+                </div>
+                <div class="cleared"></div><div class="art-footer">
+                    <div class="art-footer-inner">
+                      <div class="art-footer-text">
+                            <p><a href="#">Nous contacter</a> | <a href="#">Conditions d'utilisation</a> | <a href="#">Mentions légales</a>
+                                | <br />
+                                Copyright &copy; 2010 - Tous droits réservés</p>
+                      </div>
+                  </div>
+                    <div class="art-footer-background"></div>
+                </div>
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        <div class="cleared"></div>
+        <p class="art-page-footer"></p>
+    </div>
+    
+</body>
+</html>
